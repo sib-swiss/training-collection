@@ -2,12 +2,12 @@
 
 A curated list of **bioinformatics training material**. All material is:
 
-- Free
+- Free to use
 - Licensed (CC-BY-4 or similar) 
 - Written in markdown or similar
 - In a GitHub repository
  
-Any contribution to this list is highly appreciated :+1:. Please have a look at the [CONTRIBUTING.md](CONTRIBUTING.md) file to learn more on how to contribute. 
+Any contribution to this list is highly appreciated :+1:. Please have a look at the [CONTRIBUTING.md](CONTRIBUTING.md) file to learn more on how to contribute.
 
 ## Contents
 
@@ -31,13 +31,19 @@ Any contribution to this list is highly appreciated :+1:. Please have a look at 
 
 ### UNIX shell
 
-- [Carpentries shell novice]([https://github.com/swcarpentry/shell-novice) | [website](https://swcarpentry.github.io/shell-novice/); 
+- [Carpentries shell novice](https://github.com/swcarpentry/shell-novice) | [website](https://swcarpentry.github.io/shell-novice/)
 
 ### Python
 
+- [Carpentries Programming with Python](https://github.com/swcarpentry/python-novice-inflammation) | [website](https://swcarpentry.github.io/python-novice-inflammation/)
+
 ### R
 
+- [Carpentries R for Reproducible Scientific Analysis](https://github.com/swcarpentry/r-novice-gapminder) | [website](https://swcarpentry.github.io/r-novice-gapminder/)
+
 ### git
+
+- [Carpentries](https://github.com/swcarpentry/git-novice) | [website](https://swcarpentry.github.io/git-novice/)
 
 ## Sequence data analysis
 
@@ -78,4 +84,6 @@ Any contribution to this list is highly appreciated :+1:. Please have a look at 
 - [Carpentries Reproducible computational environments using containers: Introduction to Singularity](https://github.com/carpentries-incubator/singularity-introduction) | [website](https://carpentries-incubator.github.io/singularity-introduction/)
 
 ### High performance computing
+
+- [Carpentries Introduction to High-Performance Computing](https://github.com/carpentries-incubator/hpc-intro) | [website](https://carpentries-incubator.github.io/hpc-intro/)
 
