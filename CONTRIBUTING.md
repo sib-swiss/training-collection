@@ -14,7 +14,7 @@ By contributing, you agree that we may redistribute your work under [our license
 
 ## How to Contribute
 
-The easiest way to get started is to file an issue to tell us about course material you would like to add, spelling mistake, some awkward wording, or a factual error. This is a good way to introduce yourself and to meet some of our community members.
+The easiest way to get started is to file an issue to tell us about course material you would like to add, a spelling mistake, some awkward wording, or a factual error. This is a good way to introduce yourself and to meet some of our community members.
 
 1.  If you have a [GitHub](https://github.com/) account, or are willing to [create one](https://github.com/join), but do not know how to use Git, you can report problems or suggest improvements by [creating an issue](https://github.com/sib-swiss/training-collection/issues). This allows us to assign the item to someone and to respond to it in a threaded discussion.
 2.  If you are comfortable with Git, and would like to add or change material,  you can submit a pull request (PR). 
