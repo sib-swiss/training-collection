@@ -2,10 +2,11 @@
 
 A curated list of **bioinformatics training material**. All material is:
 
-- Free to use
-- Licensed (CC-BY-4 or similar) 
-- Written in markdown or similar
 - In a GitHub repository
+- Free to use
+- Written in markdown or similar
+
+**NOTE:** This list of courses is selected *only* based on the above criteria. There are no checks on quality. 
  
 Any contribution to this list is highly appreciated :+1:. Please have a look at the [CONTRIBUTING.md](CONTRIBUTING.md) file to learn more on how to contribute.
 
