@@ -21,6 +21,7 @@ Any contribution to this list is highly appreciated :+1:. Please have a look at 
   - [RNA-seq](#rna-seq)
   - [Single cell](#single-cell)
   - [Variant analysis](#variant-analysis)
+  - [Genome Assembly](#genome-assembly)
 - [Computational methods and pipelines](#computational-methods-and-pipelines)
   - [Nextflow](#nextflow)
   - [Snakemake](#snakemake)
@@ -32,6 +33,7 @@ Any contribution to this list is highly appreciated :+1:. Please have a look at 
 ### UNIX shell
 
 - [Carpentries shell novice](https://github.com/swcarpentry/shell-novice) | [website](https://swcarpentry.github.io/shell-novice/)
+- [bioinformaticsworkbook.org Introduction to Unix](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-1.html#gsc.tab=0)
 
 ### Python
 
@@ -55,6 +57,8 @@ Any contribution to this list is highly appreciated :+1:. Please have a look at 
 
 - [SIB Introduction to RNA-Seq: From quality control to pathway analysis](https://github.com/sib-swiss/RNAseq-introduction-training) | [website](https://sib-swiss.github.io/RNAseq-introduction-training/)
 - [Carpentries RNA-seq analysis with Bioconductor](https://github.com/carpentries-incubator/bioc-rnaseq) | [website](https://carpentries-incubator.github.io/bioc-rnaseq/)
+- [bioinformaticsworkbook.org RNA-Seq data Analysis](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/RNAseq-using-a-genome.html#gsc.tab=0)
+- [bioinformaticsworkbook.org Differential Gene Expression analysis](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/Differential-Expression-Analysis.html#gsc.tab=0)
 
 ### Single cell
 
@@ -68,6 +72,11 @@ Any contribution to this list is highly appreciated :+1:. Please have a look at 
 ### Variant analysis
 
 - [SIB NGS - Genome variant analysis](https://github.com/sib-swiss/NGS-variants-training/) | [website](https://sib-swiss.github.io/NGS-variants-training/)
+- [bioinformaticsworkbook.org Variant Discovery](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/dataAnalysis/VariantCalling/variant-calling-index.html#gsc.tab=0)
+
+### Genome assembly
+
+- [bioinformaticsworkbook.org Introduction to Genome Assembly](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/dataAnalysis/GenomeAssembly/Intro_GenomeAssembly.html#gsc.tab=0)
 
 ## Computational methods and pipelines
 
