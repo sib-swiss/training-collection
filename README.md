@@ -29,6 +29,9 @@ Is your (favourite) course not in there? Any contribution to this list is highly
   - [Nextflow](#nextflow)
   - [Snakemake](#snakemake) 
   - [High performance computing](#high-performance-computing)
+- [Statistics and machine learning](#statistics-and-machine-learning)
+  - [Statistics](#statistics)
+  - [Machine learning](#machine-learning)
 - [Reproducibility and data management](#reproducibility-and-data-management)
   - [Reproducibility](#reproducibility)
   - [Data management](#data-management)
@@ -46,6 +49,7 @@ Is your (favourite) course not in there? Any contribution to this list is highly
 
 - [**Carpentries** Programming with Python](https://github.com/swcarpentry/python-novice-inflammation) | [website](https://swcarpentry.github.io/python-novice-inflammation/)
 - [**Harvard Chan Bioinformatics Core** Introduction to Python](https://github.com/hbctraining/Training-modules) | [website](https://hbctraining.github.io/Training-modules/Python/)
+- [**Carpentries** Interactive Data Visualizations in Python](https://github.com/carpentries-incubator/python-interactive-data-visualizations) | [website](https://carpentries-incubator.github.io/python-interactive-data-visualizations/)
 
 ### R
 
@@ -115,11 +119,23 @@ Is your (favourite) course not in there? Any contribution to this list is highly
 
 - [**Carpentries** Introduction to High-Performance Computing](https://github.com/carpentries-incubator/hpc-intro) | [website](https://carpentries-incubator.github.io/hpc-intro/)
 
+## Statistics and machine learning
+
+### Statistics
+
+### Machine learning
+
+- [**Carpentries** Introduction to Machine Learning with Scikit Learn](https://github.com/carpentries-incubator/machine-learning-novice-sklearn) | [website](https://carpentries-incubator.github.io/machine-learning-novice-sklearn/)
+- [**Carpentries** Introduction to Machine Learning in Python](https://github.com/carpentries-incubator/machine-learning-novice-python) | [website](https://carpentries-incubator.github.io/machine-learning-novice-python/)
+
 ## Reproducibility and data management
 
 ### Reproducibility
 
 - [**Harvard Chan Bioinformatics Core** Tools for Reproducible Research](https://github.com/hbctraining/reproducibility-tools) | [website](https://hbctraining.github.io/reproducibility-tools/)
+- [**Carpentries** FAIR in (biological) practice](https://github.com/carpentries-incubator/fair-bio-practice) | [website](https://carpentries-incubator.github.io/fair-bio-practice/)
+- [**Carpentries** Introduction to Conda for (Data) Scientists](https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists) | [website](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/)
 
 ## Data management
 
+- [**Carpentries** From a Spreadsheet to a Database](https://github.com/carpentries-incubator/capstone-novice-spreadsheet-biblio) | [website](https://carpentries-incubator.github.io/capstone-novice-spreadsheet-biblio/)
