@@ -4,7 +4,8 @@ First of all, great that you're considering to contribute. Anything that you can
 
 This documented is inspired by the [carpentries contributing file](https://github.com/carpentries/lesson-example/blob/main/CONTRIBUTING.md). 
 
-This project is open source and we welcome contributions of all kinds:
+This project is open source and we welcome contributions of all kinds, but mostly by:
+
 - adding course material
 - typos
 
@@ -16,11 +17,26 @@ By contributing, you agree that we may redistribute your work under [our license
 
 The easiest way to get started is to file an issue to tell us about course material you would like to add, a spelling mistake, some awkward wording, or a factual error. This is a good way to introduce yourself and to meet some of our community members.
 
-1.  If you have a [GitHub](https://github.com/) account, or are willing to [create one](https://github.com/join), but do not know how to use Git, you can report problems or suggest improvements by [creating an issue](https://github.com/sib-swiss/training-collection/issues). This allows us to assign the item to someone and to respond to it in a threaded discussion.
-2.  If you are comfortable with Git, and would like to add or change material,  you can submit a pull request (PR). 
+### Through an issue
 
-## What to Contribute
+If you have a [GitHub](https://github.com/) account, or are willing to [create one](https://github.com/join), but do not know how to use Git, you can report problems or suggest improvements by [creating an issue](https://github.com/sib-swiss/training-collection/issues). This allows us to assign the item to someone and to respond to it in a threaded discussion.
 
-There are many ways to contribute, from writing contributions and improving existing ones to providing feedback. If you are looking for ideas, please see the 'Issues' tab for  a list of issues associated with this repository.
+### Through a pull request
+2If you are comfortable with Git, and would like to add or change material,  you can submit a pull request (PR). If you are contributing through a PR make sure to adhere to some formatting rules.
 
-Comments on issues and reviews of pull requests are just as welcome: we are smarter together than we are on our own. Reviews from novices and newcomers are particularly valuable: it's easy for people who have been using these courses for a while to forget how impenetrable some of this material can be, so fresh eyes are always welcome.
+A course in the list has the following format:
+
+```md
+- [**ORGANIZATIION** COURSE TITLE](LINK TO REPO) | [website](LINK TO WEBSITE)
+```
+
+> All courses are in a markdown list, so make sure you start with `-`.
+
+For the carpentries shell novice course this would be:
+
+```md
+- [**Carpentries** The Unix Shell](https://github.com/swcarpentry/shell-novice) | [website](https://swcarpentry.github.io/shell-novice/)
+```
+
+Try to add courses to existing topics as much as possible. If you add a new topic, make sure you adhere to the structure of the index, and amend the index accordingly. 
+
