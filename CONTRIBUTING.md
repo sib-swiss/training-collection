@@ -22,7 +22,8 @@ The easiest way to get started is to file an issue to tell us about course mater
 If you have a [GitHub](https://github.com/) account, or are willing to [create one](https://github.com/join), but do not know how to use Git, you can report problems or suggest improvements by [creating an issue](https://github.com/sib-swiss/training-collection/issues). This allows us to assign the item to someone and to respond to it in a threaded discussion.
 
 ### Through a pull request
-2If you are comfortable with Git, and would like to add or change material,  you can submit a pull request (PR). If you are contributing through a PR make sure to adhere to some formatting rules.
+
+If you are comfortable with Git, and would like to add or change material,  you can submit a pull request (PR). If you are contributing through a PR make sure to adhere to some formatting rules.
 
 A course in the list has the following format:
 
@@ -30,13 +31,14 @@ A course in the list has the following format:
 - [**ORGANIZATIION** COURSE TITLE](LINK TO REPO) | [website](LINK TO WEBSITE)
 ```
 
-> All courses are in a markdown list, so make sure you start with `-`.
-
 For the carpentries shell novice course this would be:
 
 ```md
 - [**Carpentries** The Unix Shell](https://github.com/swcarpentry/shell-novice) | [website](https://swcarpentry.github.io/shell-novice/)
 ```
+
+
+> All courses are in a markdown list, so make sure you start with `-`.
 
 Try to add courses to existing topics as much as possible. If you add a new topic, make sure you adhere to the structure of the index, and amend the index accordingly. 
 
