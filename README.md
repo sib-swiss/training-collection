@@ -6,9 +6,9 @@ A curated list of **bioinformatics training material**. All material is:
 - Free to use
 - Written in markdown or similar
 
-**NOTE:** This list of courses is selected *only* based on the above criteria. There are no checks on quality. 
+**NOTE:** This list of courses is selected *only* based on the above criteria. There are *no* checks on quality. 
  
-Any contribution to this list is highly appreciated :+1:. Please have a look at the [CONTRIBUTING.md](CONTRIBUTING.md) file to learn more on how to contribute.
+Is your (favourite) course not in there? Any contribution to this list is highly appreciated :+1:. Please have a look at the [CONTRIBUTING.md](CONTRIBUTING.md) file to learn more on how to contribute.
 
 ## Contents
 
