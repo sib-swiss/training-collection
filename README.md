@@ -41,9 +41,9 @@ Is your (favourite) course not in there? Any contribution to this list is highly
 ### UNIX shell
 
 - [**Carpentries** The Unix Shell](https://github.com/swcarpentry/shell-novice) | [website](https://swcarpentry.github.io/shell-novice/)
+- [**Carpentries** Introduction to the Command Line for Genomics](https://github.com/datacarpentry/shell-genomics) | [website](https://datacarpentry.org/shell-genomics/)
 - [**bioinformaticsworkbook.org** Introduction to Unix](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-1.html#gsc.tab=0)
 - [**Harvard Chan Bioinformatics Core** Introduction to the command-line interface (shell)](https://github.com/hbctraining/Intro-to-shell-flipped) | [website](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html)
-
 
 ### Python
 
@@ -57,6 +57,7 @@ Is your (favourite) course not in there? Any contribution to this list is highly
 - [**Harvard Chan Bioinformatics Core** Introduction to R](https://github.com/hbctraining/Intro-to-R-flipped) | [website](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html)
 - [**Harvard Chan Bioinformatics Core** Introduction to R - Practical workshop](https://github.com/hbctraining/Training-modules) | [website](https://hbctraining.github.io/Training-modules/IntroR_practical_online_resource/)
 
+
 ### git
 
 - [**Carpentries** Version Control with Git](https://github.com/swcarpentry/git-novice) | [website](https://swcarpentry.github.io/git-novice/)
@@ -67,6 +68,7 @@ Is your (favourite) course not in there? Any contribution to this list is highly
 
 - [**SIB** NGS: Quality control, Alignment, Visualisation](https://github.com/sib-swiss/NGS-introduction-training) | [website](https://sib-swiss.github.io/NGS-introduction-training/)
 - [**Harvard Chan Bioinformatics Core** Accessing genomic reference and experimental sequencing data](https://github.com/hbctraining/Accessing_public_genomic_data) | [website](https://hbctraining.github.io/Accessing_public_genomic_data/)
+- [**CRUK** Workshop on Functional Genomics - summer school 2020](https://github.com/bioinformatics-core-shared-training/cruk-summer-school-2020) | [website](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2020/)
 
 ### RNA-seq
 
@@ -76,17 +78,19 @@ Is your (favourite) course not in there? Any contribution to this list is highly
 - [**bioinformaticsworkbook.org** Differential Gene Expression analysis](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/Differential-Expression-Analysis.html#gsc.tab=0)
 - [**Harvard Chan Bioinformatics Core** Introduction to bulk RNA-seq](https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped) | [website](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/links-to-lessons.html)
 - [**Harvard Chan Bioinformatics Core** Differential Gene Expression Analysis](https://github.com/hbctraining/DGE_workshop_salmon_online) | [website](https://hbctraining.github.io/DGE_workshop_salmon_online/schedule/links-to-lessons.html)
+- [**CRUK CI** Introduction to Bulk RNA-seq data analysis](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21) | [website](https://bioinformatics-core-shared-training.github.io/Bulk_RNASeq_Course_Nov21/)
 
 ### ChIP-seq
 
 - [**Harvard Chan Bioinformatics Core** Introduction to ChIP-seq using high performance computing](https://github.com/hbctraining/Intro-to-ChIPseq) | [website](https://hbctraining.github.io/Intro-to-ChIPseq/)
+- [**CRUK CI** Quantitiative analysis of ChiP-seq, ATAC-seq, and related DNA enrichment assays](https://github.com/bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop)
 
 ### Single cell
 
 - [**SIB** Single-cell Transcriptomics](https://github.com/sib-swiss/single-cell-training/) | [website](https://sib-swiss.github.io/single-cell-training/latest/)
 - [**SIB** NBIS/SciLifeLab Advanced topics in Single Cell Omics](https://github.com/NBISweden/single-cell_sib_scilifelab_2021) | [website](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/)
 - [**SIB** Advanced topics in single-cell transcriptomics](https://github.com/fmicompbio/adv_scrnaseq_2020)
-- [**University of Cambridge** Introduction to single-cell RNA-seq data analysis](https://github.com/bioinformatics-core-shared-training/UnivCambridge_ScRnaSeq_Nov2021/) | [website](https://bioinformatics-core-shared-training.github.io/UnivCambridge_ScRnaSeq_Nov2021/)
+- [**CRUK CI** Introduction to single-cell RNA-seq data analysis](https://github.com/bioinformatics-core-shared-training/UnivCambridge_ScRnaSeq_Nov2021/) | [website](https://bioinformatics-core-shared-training.github.io/UnivCambridge_ScRnaSeq_Nov2021/)
 - [**NBIS** Single cell RNA-seq analysis workshop](https://github.com/nbisweden/workshop-scRNAseq) | [website](https://nbisweden.github.io/workshop-scRNAseq/)
 - [**MGC/BioSB** Course - Single Cell Analysis](https://github.com/LeidenCBC/MGC-BioSB-SingleCellAnalysis2021)
 - [**Harvard Chan Bioinformatics Core** Single-cell RNA-seq data analysis workshop](https://github.com/hbctraining/scRNA-seq_online) | [website](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html)
@@ -112,8 +116,16 @@ Is your (favourite) course not in there? Any contribution to this list is highly
 ### Nextflow
 
 - [**CRG SIB** Reproducible research and data analysis using Nextflow pipelines](https://github.com/biocorecrg/SIB_course_nextflow_Nov_2021) | [website](https://biocorecrg.github.io/SIB_course_nextflow_Nov_2021/docs/)
+- [**Carpentries** Introduction to Bioinformatics workflows with Nextflow and nf-core](https://github.com/carpentries-incubator/workflows-nextflow) | [website](https://carpentries-incubator.github.io/workflows-nextflow/)
+- [**CRG BovReg** Nextflow training](https://github.com/bovreg/nf-workshop20) | [website](https://bovreg.github.io/nf-workshop20/)
+- [**CRG** Reproducible research and data analysis with Linux containers and Nextflow pipelines](https://github.com/biocorecrg/CoursesCRG_Containers_Nextflow_May_2021) | [website](https://biocorecrg.github.io/CoursesCRG_Containers_Nextflow_May_2021/)
+- [**CRUK CI** nextflow_september_2021](https://github.com/bioinformatics-core-shared-training/nextflow_september_2021) 
 
 ### Snakemake
+
+- [**Snakemake** Snakemake Tutorial](https://github.com/snakemake/snakemake) | [website](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html)
+- [**Carpentries** Snakemake for Bioinformatics](https://github.com/carpentries-incubator/snakemake-novice-bioinformatics) | [website](https://carpentries-incubator.github.io/snakemake-novice-bioinformatics/)
+- [**Carpentries** Getting Started with Snakemake](https://github.com/carpentries-incubator/workflows-snakemake) | [website](https://carpentries-incubator.github.io/workflows-snakemake/)
 
 ### High performance computing
 
@@ -122,6 +134,11 @@ Is your (favourite) course not in there? Any contribution to this list is highly
 ## Statistics and machine learning
 
 ### Statistics
+
+- [**Danielle Navarro** Learning Statistics with R ](https://github.com/djnavarro/rbook) | [website](https://learningstatisticswithr.com/book/)
+- [**CRUK CI** Introduction to Statistical Analysis](https://github.com/bioinformatics-core-shared-training/IntroductionToStats) | [website](https://github.com/bioinformatics-core-shared-training/IntroductionToStats)
+- [**CRUK CI** Experimental design](https://github.com/bioinformatics-core-shared-training/experimental-design) | [website](http://bioinformatics-core-shared-training.github.io/experimental-design/)
+- [**CRUK CI** linear-models-r](https://github.com/bioinformatics-core-shared-training/linear-models-r) | [website](https://bioinformatics-core-shared-training.github.io/linear-models-r/)
 
 ### Machine learning
 
@@ -136,6 +153,7 @@ Is your (favourite) course not in there? Any contribution to this list is highly
 - [**Carpentries** FAIR in (biological) practice](https://github.com/carpentries-incubator/fair-bio-practice) | [website](https://carpentries-incubator.github.io/fair-bio-practice/)
 - [**Carpentries** Introduction to Conda for (Data) Scientists](https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists) | [website](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/)
 
-## Data management
+### Data management
 
 - [**Carpentries** From a Spreadsheet to a Database](https://github.com/carpentries-incubator/capstone-novice-spreadsheet-biblio) | [website](https://carpentries-incubator.github.io/capstone-novice-spreadsheet-biblio/)
+- [**CRUK CI** Managing your Research Data: Best practices in Research Data Management for Biological Sciences](https://github.com/bioinformatics-core-shared-training/Managing-your-research-data) | [website](https://bioinformatics-core-shared-training.github.io/Managing-your-research-data/)
