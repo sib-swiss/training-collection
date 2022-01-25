@@ -112,6 +112,7 @@ Is your (favourite) course not in there? Any contribution to this list is highly
 - [**Harvard Chan Bioinformatics Core** Single-cell RNA-seq data analysis workshop](https://github.com/hbctraining/scRNA-seq_online) | [website](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html)
 - [**WEHI**  Single cell RNA-seq analysis workshop](https://github.com/yunshun/SingleCellWorkshop/) | [website](https://yunshun.github.io/SingleCellWorkshop/)
 - [**Dana-Farber Cancer Institute** Trajectory inference across conditions: differential expression and differential progression](https://github.com/kstreet13/bioc2020trajectories) | [website](https://kstreet13.github.io/bioc2020trajectories/)
+- [**ELIXIR EXCELERATE** Single RNA-seq data analysis with R](https://github.com/NBISweden/excelerate-scRNAseq) | [website](https://nbisweden.github.io/excelerate-scRNAseq/)
 
 ### Variant analysis
 
@@ -154,6 +155,7 @@ Is your (favourite) course not in there? Any contribution to this list is highly
 ### CWL
 
 - [**Roswell Park** Connecting Bioconductor to other bioinformatics tools using `Rcwl`](https://github.com/liubuntu/Bioc2020Rcwl) | [website](https://liubuntu.github.io/Bioc2020RCWL/) 
+- [**INAB/CERTH** ](https://github.com/BiodataAnalysisGroup/intro-to-cwl-docker) | [website](https://biodataanalysisgroup.github.io/intro-to-cwl-docker/)
 
 ### High performance computing
 
@@ -181,6 +183,7 @@ Is your (favourite) course not in there? Any contribution to this list is highly
 - [**Harvard Chan Bioinformatics Core** Tools for Reproducible Research](https://github.com/hbctraining/reproducibility-tools) | [website](https://hbctraining.github.io/reproducibility-tools/)
 - [**Carpentries** FAIR in (biological) practice](https://github.com/carpentries-incubator/fair-bio-practice) | [website](https://carpentries-incubator.github.io/fair-bio-practice/)
 - [**Carpentries** Introduction to Conda for (Data) Scientists](https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists) | [website](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/)
+- [**FAIRplus** FAIR Cookbook](https://github.com/FAIRplus/the-fair-cookbook) | [website](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 
 ### Data management
 
