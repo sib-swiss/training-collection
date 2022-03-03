@@ -122,6 +122,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**bioinformaticsworkbook.org** Variant Discovery](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/dataAnalysis/VariantCalling/variant-calling-index.html#gsc.tab=0)
 - [**WEHI** A introduction to SNV analyses in whole genome sequencing](https://github.com/PapenfussLab/IntroductionToGenomicsWorkshop/) | [website](https://papenfusslab.github.io/IntroductionToGenomicsWorkshop/)
 - [**Waldron lab CUNY** Copy number variation analysis with Bioconductor](https://github.com/waldronlab/CNVWorkshop) | [website](https://waldronlab.io/CNVWorkshop/)
+- [**Sateesh Peri** Nextflow Tutorial - Variant Calling Edition](https://github.com/sateeshperi/nextflow_varcal) | [website](https://sateeshperi.github.io/nextflow_varcal/nextflow/)
 
 ### Genome assembly
 
@@ -147,6 +148,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**CRG BovReg** Nextflow training](https://github.com/bovreg/nf-workshop20) | [website](https://bovreg.github.io/nf-workshop20/)
 - [**CRG** Reproducible research and data analysis with Linux containers and Nextflow pipelines](https://github.com/biocorecrg/CoursesCRG_Containers_Nextflow_May_2021) | [website](https://biocorecrg.github.io/CoursesCRG_Containers_Nextflow_May_2021/)
 - [**CRUK CI** nextflow_september_2021](https://github.com/bioinformatics-core-shared-training/nextflow_september_2021) 
+- [**Sateesh Peri** Nextflow Tutorial - Variant Calling Edition](https://github.com/sateeshperi/nextflow_varcal) | [website](https://sateeshperi.github.io/nextflow_varcal/nextflow/)
 
 ### Snakemake
 
