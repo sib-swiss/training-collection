@@ -159,7 +159,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 ### CWL
 
 - [**Roswell Park** Connecting Bioconductor to other bioinformatics tools using `Rcwl`](https://github.com/liubuntu/Bioc2020Rcwl) | [website](https://liubuntu.github.io/Bioc2020RCWL/) 
-- [**INAB/CERTH** ](https://github.com/BiodataAnalysisGroup/intro-to-cwl-docker) | [website](https://biodataanalysisgroup.github.io/intro-to-cwl-docker/)
+- [**INAB/CERTH** Introduction to CWL and Docker](https://github.com/BiodataAnalysisGroup/intro-to-cwl-docker) | [website](https://biodataanalysisgroup.github.io/intro-to-cwl-docker/)
 
 ### High performance computing
 
