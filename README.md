@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/437832906.svg)](https://zenodo.org/badge/latestdoi/437832906)
+
 # Bioinformatics training materials
 
 A curated list of **bioinformatics training material**. All material is:
