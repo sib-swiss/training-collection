@@ -13,3 +13,5 @@ jobs:
       - uses: technote-space/toc-generator@v4
         with:
               TOC_TITLE: "## Contents"
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
