@@ -138,7 +138,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 
 ### Metagenomics
 
-- [**Waldron lab CUNY**  Curated Metagenomic Analyses](https://github.com/waldronlab/curatedMetagenomicAnalyses) | [website](https://waldronlab.io/curatedMetagenomicAnalyses/)
+- [**Waldron lab CUNY**  Curated Metagenomic Analyses](https://github.com/waldronlab/curatedMetagenomicDataAnalyses) | [website](https://waldronlab.io/curatedMetagenomicDataAnalyses/)
 
 ## Computational methods and pipelines
 
