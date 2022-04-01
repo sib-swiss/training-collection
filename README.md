@@ -12,8 +12,39 @@ A curated list of **bioinformatics training material**. All material is:
  
 Is your (favourite) course not in there? Is a link dead? Did you find a typo? Any contribution to this list is highly appreciated :+1:. Please have a look at [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Contents
+
+- [Scripting and languages](#scripting-and-languages)
+  - [UNIX shell](#unix-shell)
+  - [Python](#python)
+  - [R](#r)
+  - [git](#git)
+- [Sequence data analysis](#sequence-data-analysis)
+  - [General](#general)
+  - [Miscellaneous](#miscellaneous)
+  - [RNA-seq](#rna-seq)
+  - [ChIP-seq](#chip-seq)
+  - [Single cell](#single-cell)
+  - [Variant analysis](#variant-analysis)
+  - [Genome assembly](#genome-assembly)
+  - [Metagenomics](#metagenomics)
+- [Computational methods and pipelines](#computational-methods-and-pipelines)
+  - [Containers](#containers)
+  - [Nextflow](#nextflow)
+  - [Snakemake](#snakemake)
+  - [Galaxy](#galaxy)
+  - [CWL](#cwl)
+  - [High performance computing](#high-performance-computing)
+- [Statistics and machine learning](#statistics-and-machine-learning)
+  - [Statistics](#statistics)
+  - [Machine learning](#machine-learning)
+- [Reproducibility and data management](#reproducibility-and-data-management)
+  - [Reproducibility](#reproducibility)
+  - [Data management](#data-management)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Scripting and languages
 
