@@ -33,6 +33,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
   - [Nextflow](#nextflow)
   - [Snakemake](#snakemake) 
   - [Galaxy](#galaxy)
+  - [CWL](#cwl)
   - [High performance computing](#high-performance-computing)
 - [Statistics and machine learning](#statistics-and-machine-learning)
   - [Statistics](#statistics)
