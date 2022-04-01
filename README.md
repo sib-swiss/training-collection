@@ -32,6 +32,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
   - [Containers](#containers)
   - [Nextflow](#nextflow)
   - [Snakemake](#snakemake) 
+  - [Galaxy](#galaxy)
   - [High performance computing](#high-performance-computing)
 - [Statistics and machine learning](#statistics-and-machine-learning)
   - [Statistics](#statistics)
@@ -157,6 +158,10 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Snakemake** Snakemake Tutorial](https://github.com/snakemake/snakemake) | [website](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html)
 - [**Carpentries** Snakemake for Bioinformatics](https://github.com/carpentries-incubator/snakemake-novice-bioinformatics) | [website](https://carpentries-incubator.github.io/snakemake-novice-bioinformatics/)
 - [**Carpentries** Getting Started with Snakemake](https://github.com/carpentries-incubator/workflows-snakemake) | [website](https://carpentries-incubator.github.io/workflows-snakemake/)
+
+### Galaxy
+
+- [**Galaxy** Training](https://github.com/galaxyproject/training-material) | [website](https://training.galaxyproject.org/training-material/)
 
 ### CWL
 
