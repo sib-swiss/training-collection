@@ -40,5 +40,4 @@ For the carpentries shell novice course this would be:
 
 > All courses are in a markdown list, so make sure you start with `-`.
 
-Try to add courses to existing topics as much as possible. If you add a new topic, make sure you adhere to the structure of the index, and amend the index accordingly. 
-
+Try to add courses to existing topics as much as possible. If you add a new topic, the index should be updated automatically through the CI. 
