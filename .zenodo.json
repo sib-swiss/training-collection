@@ -1,0 +1,23 @@
+{
+  "title": "Collection of bioinformatics training materials on GitHub",
+  "keywords": [
+    "training",
+    "bioinformatics",
+    "github",
+    "course",
+    "FAIR",
+    "openscience"
+  ],
+  "creators": [
+    {
+      "name": "Geert van Geest",
+      "affiliation": "SIB Swiss Institute of Bioinformatics",
+      "orcid": "0000-0002-1561-078X"
+    },
+    {
+      "name": "Patricia Palagi",
+      "affiliation": "SIB Swiss Institute of Bioinformatics",
+      "orcid": "0000-0001-9062-6303"
+    }  
+  ]
+}
