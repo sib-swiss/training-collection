@@ -6,7 +6,7 @@
 
 A curated list of **bioinformatics training material**. All material is:
 
-- In a GitHub repository
+- In a GitHub or GitLab repository
 - Free to use
 - Written in markdown or similar
 
