@@ -180,6 +180,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 ### High performance computing
 
 - [**Carpentries** Introduction to High-Performance Computing](https://github.com/carpentries-incubator/hpc-intro) | [website](https://carpentries-incubator.github.io/hpc-intro/)
+- [**NIH CFDE** Introduction to Remote Computing](https://github.com/ngs-docs/2021-august-remote-computing) | [website](https://ngs-docs.github.io/2021-august-remote-computing)
 
 ## Statistics and machine learning
 
