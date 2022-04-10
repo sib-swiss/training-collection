@@ -105,6 +105,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**CRUK CI** Introduction to Bulk RNA-seq data analysis](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21) | [website](https://bioinformatics-core-shared-training.github.io/Bulk_RNASeq_Course_Nov21/)
 - [**Stefano Mangiola** A Tidy Transcriptomics introduction to RNA sequencing analyses](https://github.com/stemangiola/bioc_2020_tidytranscriptomics/) | [website](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/)
 - [**WEHI** Workshop: RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR](https://github.com/XueyiDong/RNAseq123workshop/) | [website](https://xueyidong.github.io/RNAseq123workshop/index.html)
+- [**EBI** Bulk RNA-seq tutorial](https://gitlab.com/mperalc/bulk_RNA-seq_workshop_2021/) | [website](https://mperalc.gitlab.io/bulk_RNA-seq_workshop_2021/)
 
 ### ChIP-seq
 
@@ -125,6 +126,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**WEHI**  Single cell RNA-seq analysis workshop](https://github.com/yunshun/SingleCellWorkshop/) | [website](https://yunshun.github.io/SingleCellWorkshop/)
 - [**Dana-Farber Cancer Institute** Trajectory inference across conditions: differential expression and differential progression](https://github.com/kstreet13/bioc2020trajectories) | [website](https://kstreet13.github.io/bioc2020trajectories/)
 - [**ELIXIR EXCELERATE** Single RNA-seq data analysis with R](https://github.com/NBISweden/excelerate-scRNAseq) | [website](https://nbisweden.github.io/excelerate-scRNAseq/)
+- [**EBI** Single cell RNA-seq tutorial](https://gitlab.com/mperalc/scRNA-seq_workshop_2021) | [website](https://mperalc.gitlab.io/scRNA-seq_workshop_2021/)
 
 ### Variant analysis
 
