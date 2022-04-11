@@ -92,7 +92,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Waldron lab CUNY** Functional enrichment analysis of high-throughput omics data](https://github.com/waldronlab/enrichOmics) | [website](https://waldronlab.io/enrichOmics/)
 - [**WEHI**  Gene-set enrichment analysis workshop](https://github.com/DavisLaboratory/GenesetAnalysisWorkflow/) | [website](https://davislaboratory.github.io/GenesetAnalysisWorkflow/)
 - [**Waldron lab CUNY** Multi-omic Integration of cBioPortal and TCGA data with MultiAssayExperiment](https://github.com/waldronlab/MultiAssayWorkshop/) | [website](https://waldronlab.io/MultiAssayWorkshop/)
-
+- [**SIB** Enrichment Analysis](https://github.com/sib-swiss/enrichment-analysis-training/) | [website](https://sib-swiss.github.io/enrichment-analysis-training/)
 
 ### RNA-seq
 
