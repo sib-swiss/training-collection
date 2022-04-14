@@ -212,3 +212,5 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 
 - [**Carpentries** From a Spreadsheet to a Database](https://github.com/carpentries-incubator/capstone-novice-spreadsheet-biblio) | [website](https://carpentries-incubator.github.io/capstone-novice-spreadsheet-biblio/)
 - [**CRUK CI** Managing your Research Data: Best practices in Research Data Management for Biological Sciences](https://github.com/bioinformatics-core-shared-training/Managing-your-research-data) | [website](https://bioinformatics-core-shared-training.github.io/Managing-your-research-data/)
+- [**ELIXIR Europe** RDMkit](https://github.com/elixir-europe/rdmkit) | [website](https://rdmkit.elixir-europe.org)
+- [**ELIXIR Belgium** RDM guide](https://github.com/ELIXIR-Belgium/rdm-guide) | [website](https://rdm.elixir-belgium.org/)
