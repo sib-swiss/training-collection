@@ -45,6 +45,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [Reproducibility and data management](#reproducibility-and-data-management)
   - [Reproducibility](#reproducibility)
   - [Data management](#data-management)
+- [Other lists](#other-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
