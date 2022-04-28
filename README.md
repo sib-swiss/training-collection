@@ -73,7 +73,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Harvard Chan Bioinformatics Core** Introduction to R - Practical workshop](https://github.com/hbctraining/Training-modules) | [website](https://hbctraining.github.io/Training-modules/IntroR_practical_online_resource/)
 - [**DKFZ** University of Heidelberg Basic R course](https://github.com/CompEpigen/BasicR/) | [website](https://compepigen.github.io/BasicR/)
 - [**CRG** Introduction to R (2021)](https://github.com/biocorecrg/CRG_RIntroduction_2021/) | [website](https://biocorecrg.github.io/CRG_RIntroduction_2021/)
-- [**CRG* Intermediate R: introduction to data wrangling with the Tidyverse (2021)](https://github.com/biocorecrg/CRG_R_tidyverse_2021/) | [website](https://biocorecrg.github.io/CRG_R_tidyverse_2021/)
+- [**CRG** Intermediate R: introduction to data wrangling with the Tidyverse (2021)](https://github.com/biocorecrg/CRG_R_tidyverse_2021/) | [website](https://biocorecrg.github.io/CRG_R_tidyverse_2021/)
 
 
 ### git
@@ -87,6 +87,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**SIB** NGS: Quality control, Alignment, Visualisation](https://github.com/sib-swiss/NGS-introduction-training) | [website](https://sib-swiss.github.io/NGS-introduction-training/)
 - [**Harvard Chan Bioinformatics Core** Accessing genomic reference and experimental sequencing data](https://github.com/hbctraining/Accessing_public_genomic_data) | [website](https://hbctraining.github.io/Accessing_public_genomic_data/)
 - [**CRUK** Workshop on Functional Genomics - summer school 2020](https://github.com/bioinformatics-core-shared-training/cruk-summer-school-2020) | [website](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2020/)
+- [**Carpentries** Data Wrangling and Processing for Genomics](https://github.com/datacarpentry/wrangling-genomics) | [website](https://datacarpentry.org/wrangling-genomics/)
 
 ### Miscellaneous
 
