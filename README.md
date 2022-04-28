@@ -74,6 +74,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**DKFZ** University of Heidelberg Basic R course](https://github.com/CompEpigen/BasicR/) | [website](https://compepigen.github.io/BasicR/)
 - [**CRG** Introduction to R (2021)](https://github.com/biocorecrg/CRG_RIntroduction_2021/) | [website](https://biocorecrg.github.io/CRG_RIntroduction_2021/)
 - [**CRG** Intermediate R: introduction to data wrangling with the Tidyverse (2021)](https://github.com/biocorecrg/CRG_R_tidyverse_2021/) | [website](https://biocorecrg.github.io/CRG_R_tidyverse_2021/)
+- [**NHS** Rmarkdown: reproducible reporting](https://github.com/jthomasmock/rmd-nhs) | [website](https://jthomasmock.github.io/rmd-nhs)
 
 
 ### git
