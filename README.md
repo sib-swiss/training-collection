@@ -76,7 +76,6 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**CRG** Intermediate R: introduction to data wrangling with the Tidyverse (2021)](https://github.com/biocorecrg/CRG_R_tidyverse_2021/) | [website](https://biocorecrg.github.io/CRG_R_tidyverse_2021/)
 - [**NHS** Rmarkdown: reproducible reporting](https://github.com/jthomasmock/rmd-nhs) | [website](https://jthomasmock.github.io/rmd-nhs)
 
-
 ### git
 
 - [**Carpentries** Version Control with Git](https://github.com/swcarpentry/git-novice) | [website](https://swcarpentry.github.io/git-novice/)
@@ -206,6 +205,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**SIB** Introduction to Machine Learning (Python)](https://github.com/sib-swiss/intro-machine-learning-training)
 - [**Carpentries** Introduction to Machine Learning with Scikit Learn](https://github.com/carpentries-incubator/machine-learning-novice-sklearn) | [website](https://carpentries-incubator.github.io/machine-learning-novice-sklearn/)
 - [**Carpentries** Introduction to Machine Learning in Python](https://github.com/carpentries-incubator/machine-learning-novice-python) | [website](https://carpentries-incubator.github.io/machine-learning-novice-python/)
+- [**fastai** Practical Deep Learning for Coders](https://github.com/fastai/course20) | [website](https://course.fast.ai/)
 
 ## Reproducibility and data management
 
