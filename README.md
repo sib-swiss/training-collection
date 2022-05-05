@@ -84,7 +84,12 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Julia Silge and David Robinson** Text mining with R](https://github.com/dgrtwo/tidy-text-mining) | [website](https://www.tidytextmining.com/)
 - [**Rstudio** R Markdown: The Definitive Guide](https://github.com/rstudio/rmarkdown-book) | [website](https://bookdown.org/yihui/rmarkdown)
 - [**Jennifer Bryan** purrr tutorial](https://github.com/jennybc/purrr-tutorial) | [website](https://jennybc.github.io/purrr-tutorial/)
- 
+- [**Hadley Wickham** Advanced R](https://github.com/hadley/adv-r) | [website](https://adv-r.hadley.nz/index.html)
+- [**Nathaniel D. Philips** YaRrr! The Pirate’s Guide to R](https://github.com/ndphillips/ThePiratesGuideToR) | [website](https://bookdown.org/ndphillips/YaRrr/)
+- [**Unversity of Manchester** Data analysis using R](https://github.com/UoMResearchIT/r-tidyverse-intro) | [website](https://uomresearchit.github.io/r-tidyverse-intro/)
+- [**Hadley Wickham and Garett Grolemund** R for data science](https://github.com/hadley/r4ds) | [website](https://r4ds.had.co.nz/)
+- [**Oscar Baruffa**](https://github.com/oscarbaruffa/BigBookofR) | [website](www.bigbookofr.com/)
+
 ### git
 
 - [**Carpentries** Version Control with Git](https://github.com/swcarpentry/git-novice) | [website](https://swcarpentry.github.io/git-novice/)
