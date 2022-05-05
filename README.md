@@ -64,6 +64,9 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Carpentries** Programming with Python](https://github.com/swcarpentry/python-novice-inflammation) | [website](https://swcarpentry.github.io/python-novice-inflammation/)
 - [**Harvard Chan Bioinformatics Core** Introduction to Python](https://github.com/hbctraining/Training-modules) | [website](https://hbctraining.github.io/Training-modules/Python/)
 - [**Carpentries** Interactive Data Visualizations in Python](https://github.com/carpentries-incubator/python-interactive-data-visualizations) | [website](https://carpentries-incubator.github.io/python-interactive-data-visualizations/)
+- [**Jake van der Plas** Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) | [website](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [**Jake van der Plas** A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) | [website](https://jakevdp.github.io/WhirlwindTourOfPython)
+
 
 ### R
 
@@ -77,7 +80,11 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**NHS** Rmarkdown: reproducible reporting](https://github.com/jthomasmock/rmd-nhs) | [website](https://jthomasmock.github.io/rmd-nhs)
 - [**Moderndive** Statistical Inference via Data Science](https://github.com/moderndive/ModernDive_book) | [website](https://moderndive.com/)
 - [**Rafael A. Irizarry** Introduction to Data Science](https://github.com/rafalab/dsbook) | [website](https://rafalab.github.io/dsbook/)
-
+- [**Bradley Boehmke** Intro to R Bootcamp](https://github.com/bradleyboehmke/Intro-to-R-Bootcamp) | [website](http://uc-r.github.io/r_bootcamp)
+- [**Julia Silge and David Robinson** Text mining with R](https://github.com/dgrtwo/tidy-text-mining) | [website](https://www.tidytextmining.com/)
+- [**Rstudio**](https://github.com/rstudio/rmarkdown-book) | [website](https://bookdown.org/yihui/rmarkdown)
+- [**Jennifer Bryan** purrr tutorial](https://github.com/jennybc/purrr-tutorial) | [website](https://jennybc.github.io/purrr-tutorial/)
+ 
 ### git
 
 - [**Carpentries** Version Control with Git](https://github.com/swcarpentry/git-novice) | [website](https://swcarpentry.github.io/git-novice/)
@@ -229,3 +236,5 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 
 - [**Amanda Miotto** HackyHourBookmarks](https://github.com/amandamiotto/HackyHourBookmarks) | [website](https://amandamiotto.github.io/HackyHourBookmarks/)
 - [**CRG**](https://github.com/biocorecrg/) | [website](https://biocorecrg.github.io/courses)
+- [**Bradley Boehmke** Data science learning resources](https://github.com/bradleyboehmke/data-science-learning-resources)
+- [**Ming Tang** Getting started with genomics tools and recources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
