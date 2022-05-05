@@ -82,7 +82,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Rafael A. Irizarry** Introduction to Data Science](https://github.com/rafalab/dsbook) | [website](https://rafalab.github.io/dsbook/)
 - [**Bradley Boehmke** Intro to R Bootcamp](https://github.com/bradleyboehmke/Intro-to-R-Bootcamp) | [website](http://uc-r.github.io/r_bootcamp)
 - [**Julia Silge and David Robinson** Text mining with R](https://github.com/dgrtwo/tidy-text-mining) | [website](https://www.tidytextmining.com/)
-- [**Rstudio**](https://github.com/rstudio/rmarkdown-book) | [website](https://bookdown.org/yihui/rmarkdown)
+- [**Rstudio** R Markdown: The Definitive Guide](https://github.com/rstudio/rmarkdown-book) | [website](https://bookdown.org/yihui/rmarkdown)
 - [**Jennifer Bryan** purrr tutorial](https://github.com/jennybc/purrr-tutorial) | [website](https://jennybc.github.io/purrr-tutorial/)
  
 ### git
@@ -97,7 +97,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Harvard Chan Bioinformatics Core** Accessing genomic reference and experimental sequencing data](https://github.com/hbctraining/Accessing_public_genomic_data) | [website](https://hbctraining.github.io/Accessing_public_genomic_data/)
 - [**CRUK** Workshop on Functional Genomics - summer school 2020](https://github.com/bioinformatics-core-shared-training/cruk-summer-school-2020) | [website](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2020/)
 - [**Carpentries** Data Wrangling and Processing for Genomics](https://github.com/datacarpentry/wrangling-genomics) | [website](https://datacarpentry.org/wrangling-genomics/)
-- [**Mike Love**](https://github.com/biodatascience/compbio) | [website](https://biodatascience.github.io/compbio/)
+- [**Mike Love** Introduction to Computational Biology](https://github.com/biodatascience/compbio) | [website](https://biodatascience.github.io/compbio/)
 
 ### Miscellaneous
 
