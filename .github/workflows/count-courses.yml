@@ -21,6 +21,4 @@ jobs:
           filename: ncourses.json
           label: Number of courses
           message: ${{ env.NCOURSES }}
-          valColorRange: ${{ env.NCOURSES }}
-          maxColorRange: 100
-          minColorRange: 0
+          color: orange
