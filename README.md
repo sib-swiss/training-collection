@@ -212,6 +212,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Aedin Culhane** Dimension Reduction for Beginners: Hitchhiker’s Guide to Matrix Factorization and PCA](https://github.com/aedin/PCAworkshop/) | [website](https://aedin.github.io/PCAworkshop/)
 - [**SIB** Statistics and Machine Learning (Python)](https://github.com/sib-swiss/statistics-and-machine-learning-training)
 - [**Richard McElreath** Statistical Rethinking (2022 Edition)](https://github.com/rmcelreath/stat_rethinking_2022)
+- [**SIB** Advanced statistics: Statistical modelling](https://github.com/sib-swiss/advanced-statistics) | [website](https://sib-swiss.github.io/advanced-statistics/)
 
 ### Machine learning
 
