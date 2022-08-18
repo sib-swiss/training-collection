@@ -67,6 +67,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Carpentries** Interactive Data Visualizations in Python](https://github.com/carpentries-incubator/python-interactive-data-visualizations) | [website](https://carpentries-incubator.github.io/python-interactive-data-visualizations/)
 - [**Jake van der Plas** Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) | [website](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [**Jake van der Plas** A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) | [website](https://jakevdp.github.io/WhirlwindTourOfPython)
+- [**Michigan State University** Plants and Python](https://github.com/PlantsAndPython/PlantsAndPython) | [website](https://plantsandpython.github.io/PlantsAndPython)
 
 
 ### R
@@ -86,6 +87,15 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Rstudio** R Markdown: The Definitive Guide](https://github.com/rstudio/rmarkdown-book) | [website](https://bookdown.org/yihui/rmarkdown)
 - [**Jennifer Bryan** purrr tutorial](https://github.com/jennybc/purrr-tutorial) | [website](https://jennybc.github.io/purrr-tutorial/)
 - [**Australian Biocommons** Introduction to data analysis with R and Bioconductor](https://github.com/SaskiaFreytag/biocommons-r-intro) | [website](https://saskiafreytag.github.io/biocommons-r-intro/)
+- [**rstudio::conf 2022** Graphic Design with ggplot2](https://github.com/rstudio-conf-2022/ggplot2-graphic-design) | [website](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/)
+- [**rstudio::conf 2022** Building Production-Quality Shiny Applications](https://github.com/rstudio-conf-2022/shiny-prod-apps) | [website](https://shinyprod.com/)
+- [**rstudio::conf 2022** What They Forgot to Teach You About R](https://github.com/rstudio-conf-2022/wtf-rstats) | [website](https://rstudio-conf-2022.github.io/wtf-rstats/)
+- [**rstudio::conf 2022** Getting Started with Quarto](https://github.com/rstudio-conf-2022/get-started-quarto) | [website](https://rstudio-conf-2022.github.io/get-started-quarto/)
+- [**rstudio::conf 2022** Building tidy tools](https://github.com/rstudio-conf-2022/build-tidy-tools) | [website](https://rstudio-conf-2022.github.io/build-tidy-tools/)
+- [**rstudio::conf 2022** Art from code](https://github.com/rstudio-conf-2022/art-from-code) | [website](https://art-from-code.netlify.app/)
+- [**rstudio::conf 2022** Introduction to the tidyverse](https://github.com/rstudio-conf-2022/intro-to-tidyverse) | [website](https://conf22-intro-tidyverse.netlify.app/)
+- [**rstudio::conf 2022** Getting Started with Shiny](https://github.com/rstudio-conf-2022/get-started-shiny) | [website](https://rstd.io/start-shiny)
+- [**rstudio::conf 2022** Designing the Data Science Classroom](https://github.com/rstudio-conf-2022/teach-ds) | [website](https://rstudio-conf-2022.github.io/teach-ds/)
  
 ### git
 
