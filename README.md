@@ -85,6 +85,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Julia Silge and David Robinson** Text mining with R](https://github.com/dgrtwo/tidy-text-mining) | [website](https://www.tidytextmining.com/)
 - [**Rstudio** R Markdown: The Definitive Guide](https://github.com/rstudio/rmarkdown-book) | [website](https://bookdown.org/yihui/rmarkdown)
 - [**Jennifer Bryan** purrr tutorial](https://github.com/jennybc/purrr-tutorial) | [website](https://jennybc.github.io/purrr-tutorial/)
+- [**Australian Biocommons** Introduction to data analysis with R and Bioconductor](https://github.com/SaskiaFreytag/biocommons-r-intro) | [website](https://saskiafreytag.github.io/biocommons-r-intro/)
  
 ### git
 
