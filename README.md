@@ -239,6 +239,10 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**ELIXIR Europe** RDMkit](https://github.com/elixir-europe/rdmkit) | [website](https://rdmkit.elixir-europe.org)
 - [**ELIXIR Belgium** RDM guide](https://github.com/ELIXIR-Belgium/rdm-guide) | [website](https://rdm.elixir-belgium.org/)
 
+## Image analysis
+
+- [**University of Michigan** Andy's brain book](https://github.com/andrewjahn/AndysBrainBook) | [website](https://andysbrainbook.readthedocs.io/en/latest/)
+
 ## Other lists
 
 - [**Amanda Miotto** HackyHourBookmarks](https://github.com/amandamiotto/HackyHourBookmarks) | [website](https://amandamiotto.github.io/HackyHourBookmarks/)
