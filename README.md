@@ -121,7 +121,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**CRUK** Workshop on Functional Genomics - summer school 2020](https://github.com/bioinformatics-core-shared-training/cruk-summer-school-2020) | [website](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2020/)
 - [**Carpentries** Data Wrangling and Processing for Genomics](https://github.com/datacarpentry/wrangling-genomics) | [website](https://datacarpentry.org/wrangling-genomics/)
 - [**Mike Love** Introduction to Computational Biology](https://github.com/biodatascience/compbio) | [website](https://biodatascience.github.io/compbio/)
-- [**bioinformatics.ca** ](https://github.com/bioinformatics-ca/HTG_2021) | [website](https://bioinformaticsdotca.github.io/HTG_2021)
+- [**bioinformatics.ca** High Throughput Genomics Analysis](https://github.com/bioinformatics-ca/HTG_2021) | [website](https://bioinformaticsdotca.github.io/HTG_2021)
 
 ### Miscellaneous
 
