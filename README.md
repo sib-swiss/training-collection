@@ -128,6 +128,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**WEHI** Workshop: RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR](https://github.com/XueyiDong/RNAseq123workshop/) | [website](https://xueyidong.github.io/RNAseq123workshop/index.html)
 - [**EBI** Bulk RNA-seq tutorial](https://gitlab.com/mperalc/bulk_RNA-seq_workshop_2021/) | [website](https://mperalc.gitlab.io/bulk_RNA-seq_workshop_2021/)
 - [**CRG** RNAseq course 2019](https://github.com/biocorecrg/RNAseq_course_2019) | [website](https://biocorecrg.github.io/RNAseq_course_2019/)
+- [**Dan Beiting** DIYtranscriptomics](https://github.com/DIYtranscriptomics/DIYtranscriptomics.github.io) | [website](https://diytranscriptomics.com/)
 
 ### ChIP-seq
 
