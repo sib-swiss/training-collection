@@ -94,6 +94,8 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Sean Davis** Intro to R](https://github.com/seandavi/ITR) | [website](https://seandavi.github.io/ITR)
 - [**Colin Gillespie and Robin Lovelace** Efficient R programming](https://github.com/csgillespie/efficientR) | [website](https://csgillespie.github.io/efficientR/) 
 - [**Chenxin Li** Online R learning](https://github.com/cxli233/Online_R_learning)
+- [**bioinformatics.ca** Analysis using R 2021](https://github.com/bioinformatics-ca/AUR_2021) | [website](https://bioinformaticsdotca.github.io/AUR_2021)
+- [**bioinformatics.ca** Introduction to R 2021](https://github.com/bioinformatics-ca/INR_2021) | [website](https://bioinformaticsdotca.github.io/INR_2021)
 
 ### git
 
@@ -108,6 +110,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**CRUK** Workshop on Functional Genomics - summer school 2020](https://github.com/bioinformatics-core-shared-training/cruk-summer-school-2020) | [website](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2020/)
 - [**Carpentries** Data Wrangling and Processing for Genomics](https://github.com/datacarpentry/wrangling-genomics) | [website](https://datacarpentry.org/wrangling-genomics/)
 - [**Mike Love** Introduction to Computational Biology](https://github.com/biodatascience/compbio) | [website](https://biodatascience.github.io/compbio/)
+- [**bioinformatics.ca** ](https://github.com/bioinformatics-ca/HTG_2021) | [website](https://bioinformaticsdotca.github.io/HTG_2021)
 
 ### Miscellaneous
 
@@ -117,6 +120,10 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**WEHI**  Gene-set enrichment analysis workshop](https://github.com/DavisLaboratory/GenesetAnalysisWorkflow/) | [website](https://davislaboratory.github.io/GenesetAnalysisWorkflow/)
 - [**Waldron lab CUNY** Multi-omic Integration of cBioPortal and TCGA data with MultiAssayExperiment](https://github.com/waldronlab/MultiAssayWorkshop/) | [website](https://waldronlab.io/MultiAssayWorkshop/)
 - [**SIB** Enrichment Analysis](https://github.com/sib-swiss/enrichment-analysis-training/) | [website](https://sib-swiss.github.io/enrichment-analysis-training/)
+- [**bioinformatics.ca** Cancer Analysis 2021](https://github.com/bioinformatics-ca/CAN_2021) | [website](https://bioinformaticsdotca.github.io/CAN_2021)
+- [**bioinformatics.ca** Infectious Disease Epidemiology Analysis 2021](https://github.com/bioinformatics-ca/IDE_2021) | [website](https://bioinformaticsdotca.github.io/IDE_2021)
+- [**bioinformaticsdot.ca** Pathway Network Analysis 2021](https://github.com/bioinformatics-ca/PNA_2021) | [website](https://bioinformaticsdotca.github.io/PNA_2021) 
+
 
 ### RNA-seq
 
@@ -132,6 +139,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**EBI** Bulk RNA-seq tutorial](https://gitlab.com/mperalc/bulk_RNA-seq_workshop_2021/) | [website](https://mperalc.gitlab.io/bulk_RNA-seq_workshop_2021/)
 - [**CRG** RNAseq course 2019](https://github.com/biocorecrg/RNAseq_course_2019) | [website](https://biocorecrg.github.io/RNAseq_course_2019/)
 - [**Dan Beiting** DIYtranscriptomics](https://github.com/DIYtranscriptomics/DIYtranscriptomics.github.io) | [website](https://diytranscriptomics.com/)
+- [**bioinformatics.ca** RNA-seq Analysis 2021](https://github.com/bioinformatics-ca/RNA_2021) | [website](https://bioinformaticsdotca.github.io/RNA_2021)
 
 ### ChIP-seq
 
@@ -139,6 +147,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**CRUK CI** Quantitiative analysis of ChiP-seq, ATAC-seq, and related DNA enrichment assays](https://github.com/bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop)
 - [**UMass MCCB** Best practices for ATAC-seq QC and data analysis](https://github.com/haibol2016/ATACseqQCWorkshop/) | [website](https://haibol2016.github.io/ATACseqQCWorkshop/)
 - [**UMass** Integrated ChIP-seq Data Analysis Workshop](https://github.com/hukai916/IntegratedChIPseqWorkshop/) | [website](https://hukai916.github.io/IntegratedChIPseqWorkshop/)
+- [**bioinformatics.ca** Epigenomic Analysis 2021](https://github.com/bioinformatics-ca/EPI_2021) | [website](https://bioinformaticsdotca.github.io/EPI_2021)
 
 ### Single cell
 
@@ -169,6 +178,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 ### Metagenomics
 
 - [**Waldron lab CUNY**  Curated Metagenomic Analyses](https://github.com/waldronlab/curatedMetagenomicDataAnalyses) | [website](https://waldronlab.io/curatedMetagenomicDataAnalyses/)
+- [**bioinformatics.ca** Microbiome Analysis 2021](https://github.com/bioinformatics-ca/MIC_2021) | [website](https://bioinformaticsdotca.github.io/MIC_2021)
 
 ## Computational methods and pipelines
 
@@ -228,6 +238,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Carpentries** Introduction to Machine Learning with Scikit Learn](https://github.com/carpentries-incubator/machine-learning-novice-sklearn) | [website](https://carpentries-incubator.github.io/machine-learning-novice-sklearn/)
 - [**Carpentries** Introduction to Machine Learning in Python](https://github.com/carpentries-incubator/machine-learning-novice-python) | [website](https://carpentries-incubator.github.io/machine-learning-novice-python/)
 - [**fastai** Practical Deep Learning for Coders](https://github.com/fastai/course20) | [website](https://course.fast.ai/)
+- [**bioinformatics.ca** Machine Learning 2021](https://github.com/bioinformatics-ca/MLE_2021) | [website](https://bioinformaticsdotca.github.io/MLE_2021)
 
 ## Reproducibility and data management
 
