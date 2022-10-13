@@ -67,6 +67,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Carpentries** Interactive Data Visualizations in Python](https://github.com/carpentries-incubator/python-interactive-data-visualizations) | [website](https://carpentries-incubator.github.io/python-interactive-data-visualizations/)
 - [**Jake van der Plas** Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) | [website](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [**Jake van der Plas** A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) | [website](https://jakevdp.github.io/WhirlwindTourOfPython)
+- [**Michigan State University** Plants and Python](https://github.com/PlantsAndPython/PlantsAndPython) | [website](https://plantsandpython.github.io/PlantsAndPython)
 
 
 ### R
@@ -85,6 +86,16 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Julia Silge and David Robinson** Text mining with R](https://github.com/dgrtwo/tidy-text-mining) | [website](https://www.tidytextmining.com/)
 - [**Rstudio** R Markdown: The Definitive Guide](https://github.com/rstudio/rmarkdown-book) | [website](https://bookdown.org/yihui/rmarkdown)
 - [**Jennifer Bryan** purrr tutorial](https://github.com/jennybc/purrr-tutorial) | [website](https://jennybc.github.io/purrr-tutorial/)
+- [**Australian Biocommons** Introduction to data analysis with R and Bioconductor](https://github.com/SaskiaFreytag/biocommons-r-intro) | [website](https://saskiafreytag.github.io/biocommons-r-intro/)
+- [**rstudio::conf 2022** Graphic Design with ggplot2](https://github.com/rstudio-conf-2022/ggplot2-graphic-design) | [website](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/)
+- [**rstudio::conf 2022** Building Production-Quality Shiny Applications](https://github.com/rstudio-conf-2022/shiny-prod-apps) | [website](https://shinyprod.com/)
+- [**rstudio::conf 2022** What They Forgot to Teach You About R](https://github.com/rstudio-conf-2022/wtf-rstats) | [website](https://rstudio-conf-2022.github.io/wtf-rstats/)
+- [**rstudio::conf 2022** Getting Started with Quarto](https://github.com/rstudio-conf-2022/get-started-quarto) | [website](https://rstudio-conf-2022.github.io/get-started-quarto/)
+- [**rstudio::conf 2022** Building tidy tools](https://github.com/rstudio-conf-2022/build-tidy-tools) | [website](https://rstudio-conf-2022.github.io/build-tidy-tools/)
+- [**rstudio::conf 2022** Art from code](https://github.com/rstudio-conf-2022/art-from-code) | [website](https://art-from-code.netlify.app/)
+- [**rstudio::conf 2022** Introduction to the tidyverse](https://github.com/rstudio-conf-2022/intro-to-tidyverse) | [website](https://conf22-intro-tidyverse.netlify.app/)
+- [**rstudio::conf 2022** Getting Started with Shiny](https://github.com/rstudio-conf-2022/get-started-shiny) | [website](https://rstd.io/start-shiny)
+- [**rstudio::conf 2022** Designing the Data Science Classroom](https://github.com/rstudio-conf-2022/teach-ds) | [website](https://rstudio-conf-2022.github.io/teach-ds/)
 - [**Hadley Wickham** Advanced R](https://github.com/hadley/adv-r) | [website](https://adv-r.hadley.nz/index.html)
 - [**Nathaniel D. Philips** YaRrr! The Pirate’s Guide to R](https://github.com/ndphillips/ThePiratesGuideToR) | [website](https://bookdown.org/ndphillips/YaRrr/)
 - [**Unversity of Manchester** Data analysis using R](https://github.com/UoMResearchIT/r-tidyverse-intro) | [website](https://uomresearchit.github.io/r-tidyverse-intro/)
@@ -162,6 +173,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Dana-Farber Cancer Institute** Trajectory inference across conditions: differential expression and differential progression](https://github.com/kstreet13/bioc2020trajectories) | [website](https://kstreet13.github.io/bioc2020trajectories/)
 - [**ELIXIR EXCELERATE** Single RNA-seq data analysis with R](https://github.com/NBISweden/excelerate-scRNAseq) | [website](https://nbisweden.github.io/excelerate-scRNAseq/)
 - [**EBI** Single cell RNA-seq tutorial](https://gitlab.com/mperalc/scRNA-seq_workshop_2021) | [website](https://mperalc.gitlab.io/scRNA-seq_workshop_2021/)
+- [**Wellcome Sanger Institute** Analysis of single cell RNA-seq data](https://github.com/hemberg-lab/scRNA.seq.course) | [website](https://www.singlecellcourse.org/)
 
 ### Variant analysis
 
@@ -195,7 +207,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**CRG SIB** Reproducible research and data analysis using Nextflow pipelines](https://github.com/biocorecrg/SIB_course_nextflow_Nov_2021) | [website](https://biocorecrg.github.io/SIB_course_nextflow_Nov_2021/docs/)
 - [**Carpentries** Introduction to Bioinformatics workflows with Nextflow and nf-core](https://github.com/carpentries-incubator/workflows-nextflow) | [website](https://carpentries-incubator.github.io/workflows-nextflow/)
 - [**CRG BovReg** Nextflow training](https://github.com/bovreg/nf-workshop20) | [website](https://bovreg.github.io/nf-workshop20/)
-- [**CRG** Reproducible research and data analysis with Linux containers and Nextflow pipelines](https://github.com/biocorecrg/CoursesCRG_Containers_Nextflow_May_2021) | [website](https://biocorecrg.github.io/CoursesCRG_Containers_Nextflow_May_2021/)
+- [**CRG** Reproducible research and data analysis with Linux containers and Nextflow pipelines](https://github.com/biocorecrg/CoursesCRG_Containers_Nextflow_May_2022) | [website](https://biocorecrg.github.io/CoursesCRG_Containers_Nextflow_May_2022/)
 - [**CRUK CI** nextflow_september_2021](https://github.com/bioinformatics-core-shared-training/nextflow_september_2021) 
 - [**Sateesh Peri** Nextflow Tutorial - Variant Calling Edition](https://github.com/sateeshperi/nextflow_varcal) | [website](https://sateeshperi.github.io/nextflow_varcal/nextflow/)
 - [**CRG ELIXIR** Containers and Workflow Pipelines for reproducible and automated data analysis](https://github.com/biocorecrg/ELIXIR_containers_nextflow) | [website](https://biocorecrg.github.io/ELIXIR_containers_nextflow/)
@@ -231,6 +243,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Aedin Culhane** Dimension Reduction for Beginners: Hitchhiker’s Guide to Matrix Factorization and PCA](https://github.com/aedin/PCAworkshop/) | [website](https://aedin.github.io/PCAworkshop/)
 - [**SIB** Statistics and Machine Learning (Python)](https://github.com/sib-swiss/statistics-and-machine-learning-training)
 - [**Richard McElreath** Statistical Rethinking (2022 Edition)](https://github.com/rmcelreath/stat_rethinking_2022)
+- [**SIB** Advanced statistics: Statistical modelling](https://github.com/sib-swiss/advanced-statistics) | [website](https://sib-swiss.github.io/advanced-statistics/)
 
 ### Machine learning
 
