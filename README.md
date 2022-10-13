@@ -92,6 +92,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Oscar Baruffa** Big book of R](https://github.com/oscarbaruffa/BigBookofR) | [website](www.bigbookofr.com/)
 - [**Norm Matloff** fasteR](https://github.com/matloff/fasteR)
 - [**Sean Davis** Intro to R](https://github.com/seandavi/ITR) | [website](https://seandavi.github.io/ITR)
+- [**Colin Gillespie and Robin Lovelace** Efficient R programming](https://github.com/csgillespie/efficientR) | [website](https://csgillespie.github.io/efficientR/) 
 
 ### git
 
