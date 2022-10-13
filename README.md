@@ -89,7 +89,8 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Nathaniel D. Philips** YaRrr! The Pirate’s Guide to R](https://github.com/ndphillips/ThePiratesGuideToR) | [website](https://bookdown.org/ndphillips/YaRrr/)
 - [**Unversity of Manchester** Data analysis using R](https://github.com/UoMResearchIT/r-tidyverse-intro) | [website](https://uomresearchit.github.io/r-tidyverse-intro/)
 - [**Hadley Wickham and Garett Grolemund** R for data science](https://github.com/hadley/r4ds) | [website](https://r4ds.had.co.nz/)
-- [**Oscar Baruffa**](https://github.com/oscarbaruffa/BigBookofR) | [website](www.bigbookofr.com/)
+- [**Oscar Baruffa** Big book of R](https://github.com/oscarbaruffa/BigBookofR) | [website](www.bigbookofr.com/)
+- [**Norm Matloff** fasteR](https://github.com/matloff/fasteR)
 
 ### git
 
