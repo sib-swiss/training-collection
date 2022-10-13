@@ -91,6 +91,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Hadley Wickham and Garett Grolemund** R for data science](https://github.com/hadley/r4ds) | [website](https://r4ds.had.co.nz/)
 - [**Oscar Baruffa** Big book of R](https://github.com/oscarbaruffa/BigBookofR) | [website](www.bigbookofr.com/)
 - [**Norm Matloff** fasteR](https://github.com/matloff/fasteR)
+- [**Sean Davis** Intro to R](https://github.com/seandavi/ITR) | [website](https://seandavi.github.io/ITR)
 
 ### git
 
@@ -175,6 +176,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Carpentries** Reproducible Computational Environments Using Containers: Introduction to Docker](https://github.com/carpentries-incubator/docker-introduction) | [website](https://carpentries-incubator.github.io/docker-introduction/)
 - [**Carpentries** Reproducible computational environments using containers: Introduction to Singularity](https://github.com/carpentries-incubator/singularity-introduction) | [website](https://carpentries-incubator.github.io/singularity-introduction/)
 - [**rOpenSci Labs** R Docker tutorial](https://github.com/jsta/r-docker-tutorial) | [website](https://jsta.github.io/r-docker-tutorial/)
+- [**Bioconductor** Docker containers for Bioconductor](https://github.com/Bioconductor/bioconductor_docker) | [website](https://bioconductor.org/help/docker/)
 
 ### Nextflow
 
