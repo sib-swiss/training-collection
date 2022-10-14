@@ -134,7 +134,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**SIB** Enrichment Analysis](https://github.com/sib-swiss/enrichment-analysis-training/) | [website](https://sib-swiss.github.io/enrichment-analysis-training/)
 - [**bioinformatics.ca** Cancer Analysis 2021](https://github.com/bioinformatics-ca/CAN_2021) | [website](https://bioinformaticsdotca.github.io/CAN_2021)
 - [**bioinformatics.ca** Infectious Disease Epidemiology Analysis 2021](https://github.com/bioinformatics-ca/IDE_2021) | [website](https://bioinformaticsdotca.github.io/IDE_2021)
-- [**bioinformaticsdot.ca** Pathway Network Analysis 2021](https://github.com/bioinformatics-ca/PNA_2021) | [website](https://bioinformaticsdotca.github.io/PNA_2021) 
+- [**bioinformatics.ca** Pathway Network Analysis 2021](https://github.com/bioinformatics-ca/PNA_2021) | [website](https://bioinformaticsdotca.github.io/PNA_2021) 
 
 
 ### RNA-seq
