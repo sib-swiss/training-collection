@@ -69,7 +69,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Jake van der Plas** Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) | [website](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [**Jake van der Plas** A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) | [website](https://jakevdp.github.io/WhirlwindTourOfPython)
 - [**Michigan State University** Plants and Python](https://github.com/PlantsAndPython/PlantsAndPython) | [website](https://plantsandpython.github.io/PlantsAndPython)
-
+- [**VIB** Gentle hands-on introduction to Python programming](https://github.com/vibbits/gentle-hands-on-python)
 
 ### R
 
