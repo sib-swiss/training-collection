@@ -108,6 +108,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Chenxin Li** Online R learning](https://github.com/cxli233/Online_R_learning)
 - [**bioinformatics.ca** Analysis using R 2021](https://github.com/bioinformatics-ca/AUR_2021) | [website](https://bioinformaticsdotca.github.io/AUR_2021)
 - [**bioinformatics.ca** Introduction to R 2021](https://github.com/bioinformatics-ca/INR_2021) | [website](https://bioinformaticsdotca.github.io/INR_2021)
+- [**Carpentries** The bioconductor project](https://github.com/carpentries-incubator/bioc-project) | [website](https://carpentries-incubator.github.io/bioc-project/)
 
 ### git
 
