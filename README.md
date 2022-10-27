@@ -202,6 +202,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Carpentries** Reproducible computational environments using containers: Introduction to Singularity](https://github.com/carpentries-incubator/singularity-introduction) | [website](https://carpentries-incubator.github.io/singularity-introduction/)
 - [**rOpenSci Labs** R Docker tutorial](https://github.com/jsta/r-docker-tutorial) | [website](https://jsta.github.io/r-docker-tutorial/)
 - [**Bioconductor** Docker containers for Bioconductor](https://github.com/Bioconductor/bioconductor_docker) | [website](https://bioconductor.org/help/docker/)
+- [**Awesome workshop** Docker/Singularity HATS@LPC](https://github.com/awesome-workshop/docker-singularity-hats) | [website](https://awesome-workshop.github.io/docker-singularity-hats/index.html)
 
 ### Nextflow
 
