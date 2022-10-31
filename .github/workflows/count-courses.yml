@@ -14,7 +14,7 @@ jobs:
         run: |
           echo "NCOURSES=`grep -c "\[website\]" README.md`" >> $GITHUB_ENV
       - name: Create the Badge
-        uses: schneegans/dynamic-badges-action@v1.3.0
+        uses: schneegans/dynamic-badges-action@v1.6.0
         with:
           auth: ${{ secrets.GIST_SECRET }}
           gistID: 5dd50ff10dbb3fe3222aa8ac658878bf
