@@ -217,6 +217,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**CRUK CI** nextflow_september_2021](https://github.com/bioinformatics-core-shared-training/nextflow_september_2021) 
 - [**Sateesh Peri** Nextflow Tutorial - Variant Calling Edition](https://github.com/sateeshperi/nextflow_varcal) | [website](https://sateeshperi.github.io/nextflow_varcal/nextflow/)
 - [**CRG ELIXIR** Containers and Workflow Pipelines for reproducible and automated data analysis](https://github.com/biocorecrg/ELIXIR_containers_nextflow) | [website](https://biocorecrg.github.io/ELIXIR_containers_nextflow/)
+- [**Seqera labs** Nextflow training](https://github.com/seqeralabs/nf-training-public) | [website](https://training.seqera.io/)
 
 ### Snakemake
 
