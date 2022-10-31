@@ -112,6 +112,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Rstudio eduction** Data science box](https://github.com/rstudio-education/datascience-box) | [website](https://datasciencebox.org/)
 - [**University of California, Irvine** Introduction to Data Science](https://github.com/ics80-fa21/website) | [website](https://www.introdata.science/)
 - [**University of Edinburgh** Introduction to Data Science](https://github.com/ids-s1-20/website) | [website](https://introds-2020.netlify.app/)
+- [**Duke University** Introduction to Data Science](https://github.com/DukeStatSci/introds) | [website](https://introds-duke.netlify.app/)
 
 ### git
 
