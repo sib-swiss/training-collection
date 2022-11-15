@@ -59,6 +59,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Carpentries** Introduction to the Command Line for Genomics](https://github.com/datacarpentry/shell-genomics) | [website](https://datacarpentry.org/shell-genomics/)
 - [**bioinformaticsworkbook.org** Introduction to Unix](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-1.html#gsc.tab=0)
 - [**Harvard Chan Bioinformatics Core** Introduction to the command-line interface (shell)](https://github.com/hbctraining/Intro-to-shell-flipped) | [website](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html)
+- [**Ted Laderas** Bash for bioinformatics](https://github.com/laderast/bash_for_bioinformatics) | [website](https://laderast.github.io/bash_for_bioinformatics/)
 
 ### Python
 
@@ -114,6 +115,8 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**University of Edinburgh** Introduction to Data Science](https://github.com/ids-s1-20/website) | [website](https://introds-2020.netlify.app/)
 - [**Duke University** Introduction to Data Science](https://github.com/DukeStatSci/introds) | [website](https://introds-duke.netlify.app/)
 - [**Joachim Goedhart** An introduction to data visualization protocols for wet lab scientists](https://github.com/JoachimGoedhart/DataViz-protocols) | [website](https://joachimgoedhart.github.io/DataViz-protocols/)
+- [**Ted Laderas** R Bootcamp](https://github.com/laderast/RBootcamp) | [website](http://r-bootcamp.netlify.app/)
+- [**Ted Laderas** A gRadual Introduction to Shiny](https://github.com/laderast/gradual_shiny) | [website](http://laderast.github.io/gradual_shiny)
 
 ### git
 
