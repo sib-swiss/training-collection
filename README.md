@@ -258,6 +258,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**SIB** Statistics and Machine Learning (Python)](https://github.com/sib-swiss/statistics-and-machine-learning-training)
 - [**Richard McElreath** Statistical Rethinking (2022 Edition)](https://github.com/rmcelreath/stat_rethinking_2022)
 - [**SIB** Advanced statistics: Statistical modelling](https://github.com/sib-swiss/advanced-statistics) | [website](https://sib-swiss.github.io/advanced-statistics/)
+- [**SIB** Learning statistics with R](https://github.com/sib-swiss/Introduction-to-statistics-with-R) | [website](https://sib-swiss.github.io/Introduction-to-statistics-with-R/)
 
 ### Machine learning
 
