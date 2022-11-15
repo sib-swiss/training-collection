@@ -129,6 +129,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Carpentries** Data Wrangling and Processing for Genomics](https://github.com/datacarpentry/wrangling-genomics) | [website](https://datacarpentry.org/wrangling-genomics/)
 - [**Mike Love** Introduction to Computational Biology](https://github.com/biodatascience/compbio) | [website](https://biodatascience.github.io/compbio/)
 - [**bioinformatics.ca** High Throughput Genomics Analysis](https://github.com/bioinformatics-ca/HTG_2021) | [website](https://bioinformaticsdotca.github.io/HTG_2021)
+- [**St. Jude Children's Research Hospital** Learn Genomics](https://github.com/stjude/learngenomics.dev)| [website](https://learngenomics.dev/)
 
 ### Miscellaneous
 
