@@ -44,7 +44,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
   - [Statistics](#statistics)
   - [Machine learning](#machine-learning)
 - [Reproducibility and data management](#reproducibility-and-data-management)
-  - [Reproducibility](#reproducibility)
+  - [FAIR & Reproducibility](#fair--reproducibility)
   - [Data management](#data-management)
 - [Image analysis](#image-analysis)
 - [Other lists](#other-lists)
