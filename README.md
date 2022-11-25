@@ -117,6 +117,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Joachim Goedhart** An introduction to data visualization protocols for wet lab scientists](https://github.com/JoachimGoedhart/DataViz-protocols) | [website](https://joachimgoedhart.github.io/DataViz-protocols/)
 - [**Ted Laderas** R Bootcamp](https://github.com/laderast/RBootcamp) | [website](http://r-bootcamp.netlify.app/)
 - [**Ted Laderas** A gRadual Introduction to Shiny](https://github.com/laderast/gradual_shiny) | [website](http://laderast.github.io/gradual_shiny)
+- [**Carpentries** High dimensional statistics with R](https://github.com/carpentries-incubator/high-dimensional-stats-r) | [website](https://carpentries-incubator.github.io/high-dimensional-stats-r/)
 
 ### git
 
@@ -259,6 +260,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Richard McElreath** Statistical Rethinking (2022 Edition)](https://github.com/rmcelreath/stat_rethinking_2022)
 - [**SIB** Advanced statistics: Statistical modelling](https://github.com/sib-swiss/advanced-statistics) | [website](https://sib-swiss.github.io/advanced-statistics/)
 - [**SIB** Learning statistics with R](https://github.com/sib-swiss/Introduction-to-statistics-with-R) | [website](https://sib-swiss.github.io/Introduction-to-statistics-with-R/)
+- [**Carpentries** Statistical thinking for public health](https://github.com/carpentries-incubator/statistical-thinking-public-health) | [website](https://carpentries-incubator.github.io/statistical-thinking-public-health/)
 
 ### Machine learning
 
@@ -270,12 +272,13 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 
 ## Reproducibility and data management
 
-### Reproducibility
+### FAIR & Reproducibility
 
 - [**Harvard Chan Bioinformatics Core** Tools for Reproducible Research](https://github.com/hbctraining/reproducibility-tools) | [website](https://hbctraining.github.io/reproducibility-tools/)
 - [**Carpentries** FAIR in (biological) practice](https://github.com/carpentries-incubator/fair-bio-practice) | [website](https://carpentries-incubator.github.io/fair-bio-practice/)
 - [**Carpentries** Introduction to Conda for (Data) Scientists](https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists) | [website](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/)
 - [**FAIRplus** FAIR Cookbook](https://github.com/FAIRplus/the-fair-cookbook) | [website](https://fairplus.github.io/the-fair-cookbook/content/home.html)
+- [**Carpentries** Fair for leaders](https://github.com/carpentries-incubator/fair-for-leaders) | [website](https://carpentries-incubator.github.io/fair-for-leaders/)
 
 ### Data management
 
