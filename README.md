@@ -285,6 +285,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**ELIXIR Belgium** RDM guide](https://github.com/ELIXIR-Belgium/rdm-guide) | [website](https://rdm.elixir-belgium.org/)
 - [**ELIXIR Norway** 2022-09-26 DMP-writing-workshop](https://github.com/korbinib/DMP-writing-workshop) | [website](https://elixir.no/)
 - [**ELIXIR Norway** FAIR Data Management in Life Sciences - June 2022 Course](https://github.com/elixir-oslo/fair-dm-lifesci-june-2022)
+- [**SIB** Query SIB resources with SPARQL](https://github.com/sib-swiss/sparql-training)
 
 ## Image analysis
 
