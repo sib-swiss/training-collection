@@ -64,6 +64,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 ### Python
 
 - [**SIB** First Steps with Python in Life Sciences](https://github.com/sib-swiss/first-steps-with-python-training/)
+- [**SIB** Intermediate Python : "data analysis and representation" &  "<s>harder</s> faster better stronger : optimizing python code"](https://github.com/sib-swiss/intermediate-python-training)
 - [**Carpentries** Programming with Python](https://github.com/swcarpentry/python-novice-inflammation) | [website](https://swcarpentry.github.io/python-novice-inflammation/)
 - [**Harvard Chan Bioinformatics Core** Introduction to Python](https://github.com/hbctraining/Training-modules) | [website](https://hbctraining.github.io/Training-modules/Python/)
 - [**Carpentries** Interactive Data Visualizations in Python](https://github.com/carpentries-incubator/python-interactive-data-visualizations) | [website](https://carpentries-incubator.github.io/python-interactive-data-visualizations/)
