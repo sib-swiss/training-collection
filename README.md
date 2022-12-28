@@ -121,6 +121,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Melbourne Bioinformatics** An Introduction to R for Biologists](https://github.com/melbournebioinformatics/r-intro-biologists) | [website](https://melbournebioinformatics.github.io/r-intro-biologists/)
 - [**Colautti Lab** R Crash Course](https://github.com/ColauttiLab/RCrashCourse_Book) | [website](https://colauttilab.github.io/RCrashCourse)
 - [**Bruno Rodrigues** Reproducible Analytical Pipelines - Master's of Data Science](https://github.com/b-rodrigues/rap4mads) | [website](https://rap4mads.eu/)
+- [**Openscapes** Making shareable documents with Quarto](https://github.com/Openscapes/quarto-website-tutorial) | [website](https://openscapes.github.io/quarto-website-tutorial/)
 
 ### git
 
