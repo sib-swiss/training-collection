@@ -119,6 +119,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Ted Laderas** A gRadual Introduction to Shiny](https://github.com/laderast/gradual_shiny) | [website](http://laderast.github.io/gradual_shiny)
 - [**Carpentries** High dimensional statistics with R](https://github.com/carpentries-incubator/high-dimensional-stats-r) | [website](https://carpentries-incubator.github.io/high-dimensional-stats-r/)
 - [**Melbourne Bioinformatics** An Introduction to R for Biologists](https://github.com/melbournebioinformatics/r-intro-biologists) | [website](https://melbournebioinformatics.github.io/r-intro-biologists/)
+- [**Colautti Lab** R Crash Course](https://github.com/ColauttiLab/RCrashCourse_Book) | [website](https://colauttilab.github.io/RCrashCourse)
 
 ### git
 
