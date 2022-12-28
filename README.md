@@ -118,6 +118,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Ted Laderas** R Bootcamp](https://github.com/laderast/RBootcamp) | [website](http://r-bootcamp.netlify.app/)
 - [**Ted Laderas** A gRadual Introduction to Shiny](https://github.com/laderast/gradual_shiny) | [website](http://laderast.github.io/gradual_shiny)
 - [**Carpentries** High dimensional statistics with R](https://github.com/carpentries-incubator/high-dimensional-stats-r) | [website](https://carpentries-incubator.github.io/high-dimensional-stats-r/)
+- [**Melbourne Bioinformatics** An Introduction to R for Biologists](https://github.com/melbournebioinformatics/r-intro-biologists) | [website](https://melbournebioinformatics.github.io/r-intro-biologists/)
 
 ### git
 
@@ -134,6 +135,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Mike Love** Introduction to Computational Biology](https://github.com/biodatascience/compbio) | [website](https://biodatascience.github.io/compbio/)
 - [**bioinformatics.ca** High Throughput Genomics Analysis](https://github.com/bioinformatics-ca/HTG_2021) | [website](https://bioinformaticsdotca.github.io/HTG_2021)
 - [**St. Jude Children's Research Hospital** Learn Genomics](https://github.com/stjude/learngenomics.dev)| [website](https://learngenomics.dev/)
+- [**Melbourne Bioinformatics** Bioinformatics Documentation](https://github.com/melbournebioinformatics/MelBioInf_docs) | [website](http://melbournebioinformatics.github.io/MelBioInf_docs/)
 
 ### Miscellaneous
 
