@@ -147,7 +147,10 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**SIB** Enrichment Analysis](https://github.com/sib-swiss/enrichment-analysis-training/) | [website](https://sib-swiss.github.io/enrichment-analysis-training/)
 - [**bioinformatics.ca** Cancer Analysis 2021](https://github.com/bioinformatics-ca/CAN_2021) | [website](https://bioinformaticsdotca.github.io/CAN_2021)
 - [**bioinformatics.ca** Infectious Disease Epidemiology Analysis 2021](https://github.com/bioinformatics-ca/IDE_2021) | [website](https://bioinformaticsdotca.github.io/IDE_2021)
-- [**bioinformatics.ca** Pathway Network Analysis 2021](https://github.com/bioinformatics-ca/PNA_2021) | [website](https://bioinformaticsdotca.github.io/PNA_2021) 
+- [**bioinformatics.ca** Pathway Network Analysis 2021](https://github.com/bioinformatics-ca/PNA_2021) | [website](https://bioinformaticsdotca.github.io/PNA_2021)
+- [**The Haibe-Kains Laboratory @ Princess Margaret Cancer Centre** Biomarker discovery from high throughput screening datasets](https://github.com/bhklab/bioc2020workshop) | [website](https://bhklab.ca/bioc2020workshop/)
+- [**James W. MacDonald** Introduction to Bioconductor annotation resources](https://github.com/jmacdon/Bioc2022Anno) | [website](https://jmacdon.github.io/Bioc2022Anno)
+- [**Chloe Mirzayi** Epidemiology for Bioinformaticians](https://github.com/cmirzayi/EpiForBioWorkshop2020/) | [website](https://chloemirzayi.com/EpiForBioWorkshop2020/)
 
 
 ### RNA-seq
@@ -188,6 +191,12 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**ELIXIR EXCELERATE** Single RNA-seq data analysis with R](https://github.com/NBISweden/excelerate-scRNAseq) | [website](https://nbisweden.github.io/excelerate-scRNAseq/)
 - [**EBI** Single cell RNA-seq tutorial](https://gitlab.com/mperalc/scRNA-seq_workshop_2021) | [website](https://mperalc.gitlab.io/scRNA-seq_workshop_2021/)
 - [**Wellcome Sanger Institute** Analysis of single cell RNA-seq data](https://github.com/hemberg-lab/scRNA.seq.course) | [website](https://www.singlecellcourse.org/)
+- [**Aedin Culhane** basic scRNAseq workflow](https://github.com/aedin/scRNAseqBasicWorkflow) | [website](https://aedin.github.io/scRNAseqBasicWorkflow/)
+- [**Martin Morgan** introduction to Human Cell Atlas data retrieval and analysis in R / Bioconductor](https://github.com/mtmorgan/HCABiocTraining) | [webiste](https://mtmorgan.github.io/HCABiocTraining/)
+- [**Tidy-transcriptomics workshops** Tidy Transcriptomics For Single-Cell RNA Sequencing Analyses](https://github.com/tidytranscriptomics-workshops/bioc2022_tidytranscriptomics) | [website](https://tidytranscriptomics-workshops.github.io/bioc2022_tidytranscriptomics)
+
+### Spatial transcriptomics
+- [**Davis Laboratory** Analysing GeoMx DSP dataset with standR](https://github.com/DavisLaboratory/GeoMXAnalysisWorkflow) | [website](https://davislaboratory.github.io/GeoMXAnalysisWorkflow)
 
 ### Variant analysis
 
@@ -201,10 +210,11 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 
 - [**bioinformaticsworkbook.org** Introduction to Genome Assembly](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/dataAnalysis/GenomeAssembly/Intro_GenomeAssembly.html#gsc.tab=0)
 
-### Metagenomics
+### Metagenomics/microbial
 
 - [**Waldron lab CUNY**  Curated Metagenomic Analyses](https://github.com/waldronlab/curatedMetagenomicDataAnalyses) | [website](https://waldronlab.io/curatedMetagenomicDataAnalyses/)
 - [**bioinformatics.ca** Microbiome Analysis 2021](https://github.com/bioinformatics-ca/MIC_2021) | [website](https://bioinformaticsdotca.github.io/MIC_2021)
+- [**Matteo Calgaro** An introduction to benchdamic](https://github.com/mcalgaro93/benchdamicWorkshop) | [website](https://mcalgaro93.github.io/benchdamicWorkshop/)
 
 ## Computational methods and pipelines
 
