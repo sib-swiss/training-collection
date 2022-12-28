@@ -120,6 +120,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Carpentries** High dimensional statistics with R](https://github.com/carpentries-incubator/high-dimensional-stats-r) | [website](https://carpentries-incubator.github.io/high-dimensional-stats-r/)
 - [**Melbourne Bioinformatics** An Introduction to R for Biologists](https://github.com/melbournebioinformatics/r-intro-biologists) | [website](https://melbournebioinformatics.github.io/r-intro-biologists/)
 - [**Colautti Lab** R Crash Course](https://github.com/ColauttiLab/RCrashCourse_Book) | [website](https://colauttilab.github.io/RCrashCourse)
+- [**Bruno Rodrigues** Reproducible Analytical Pipelines - Master's of Data Science](https://github.com/b-rodrigues/rap4mads) | [website](https://rap4mads.eu/)
 
 ### git
 
