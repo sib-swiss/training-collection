@@ -11,8 +11,8 @@ A curated list of **bioinformatics training material**. All material is:
 - Free to use
 - Written in markdown or similar
 
-**NOTE:** This list of courses is selected *only* based on the above criteria. There are *no* checks on quality. 
- 
+**NOTE:** This list of courses is selected *only* based on the above criteria. There are *no* checks on quality.
+
 Is your (favourite) course not in there? Is a link dead? Did you find a typo? Any contribution to this list is highly appreciated :+1:. Please have a look at [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -56,6 +56,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 
 ### UNIX shell
 
+- [**SIB** First Steps with UNIX](https://github.com/sib-swiss/unix-first-steps-training)
 - [**Carpentries** The Unix Shell](https://github.com/swcarpentry/shell-novice) | [website](https://swcarpentry.github.io/shell-novice/)
 - [**Carpentries** Introduction to the Command Line for Genomics](https://github.com/datacarpentry/shell-genomics) | [website](https://datacarpentry.org/shell-genomics/)
 - [**bioinformaticsworkbook.org** Introduction to Unix](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-1.html#gsc.tab=0)
@@ -76,7 +77,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 
 ### R
 
-- [**SIB** First Steps with R in Life Sciences](https://github.com/sib-swiss/first-steps-with-R-training) 
+- [**SIB** First Steps with R in Life Sciences](https://github.com/sib-swiss/first-steps-with-R-training)
 - [**Carpentries** R for Reproducible Scientific Analysis](https://github.com/swcarpentry/r-novice-gapminder) | [website](https://swcarpentry.github.io/r-novice-gapminder/)
 - [**Harvard Chan Bioinformatics Core** Introduction to R](https://github.com/hbctraining/Intro-to-R-flipped) | [website](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html)
 - [**Harvard Chan Bioinformatics Core** Introduction to R - Practical workshop](https://github.com/hbctraining/Training-modules) | [website](https://hbctraining.github.io/Training-modules/IntroR_practical_online_resource/)
@@ -107,7 +108,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Oscar Baruffa** Big book of R](https://github.com/oscarbaruffa/BigBookofR) | [website](https://www.bigbookofr.com/)
 - [**Norm Matloff** fasteR](https://github.com/matloff/fasteR)
 - [**Sean Davis** Intro to R](https://github.com/seandavi/ITR) | [website](https://seandavi.github.io/ITR)
-- [**Colin Gillespie and Robin Lovelace** Efficient R programming](https://github.com/csgillespie/efficientR) | [website](https://csgillespie.github.io/efficientR/) 
+- [**Colin Gillespie and Robin Lovelace** Efficient R programming](https://github.com/csgillespie/efficientR) | [website](https://csgillespie.github.io/efficientR/)
 - [**Chenxin Li** Online R learning](https://github.com/cxli233/Online_R_learning)
 - [**bioinformatics.ca** Analysis using R 2021](https://github.com/bioinformatics-ca/AUR_2021) | [website](https://bioinformaticsdotca.github.io/AUR_2021)
 - [**bioinformatics.ca** Introduction to R 2021](https://github.com/bioinformatics-ca/INR_2021) | [website](https://bioinformaticsdotca.github.io/INR_2021)
@@ -239,7 +240,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Carpentries** Introduction to Bioinformatics workflows with Nextflow and nf-core](https://github.com/carpentries-incubator/workflows-nextflow) | [website](https://carpentries-incubator.github.io/workflows-nextflow/)
 - [**CRG BovReg** Nextflow training](https://github.com/bovreg/nf-workshop20) | [website](https://bovreg.github.io/nf-workshop20/)
 - [**CRG** Reproducible research and data analysis with Linux containers and Nextflow pipelines](https://github.com/biocorecrg/CoursesCRG_Containers_Nextflow_May_2022) | [website](https://biocorecrg.github.io/CoursesCRG_Containers_Nextflow_May_2022/)
-- [**CRUK CI** nextflow_september_2021](https://github.com/bioinformatics-core-shared-training/nextflow_september_2021) 
+- [**CRUK CI** nextflow_september_2021](https://github.com/bioinformatics-core-shared-training/nextflow_september_2021)
 - [**Sateesh Peri** Nextflow Tutorial - Variant Calling Edition](https://github.com/sateeshperi/nextflow_varcal) | [website](https://sateeshperi.github.io/nextflow_varcal/nextflow/)
 - [**CRG ELIXIR** Containers and Workflow Pipelines for reproducible and automated data analysis](https://github.com/biocorecrg/ELIXIR_containers_nextflow) | [website](https://biocorecrg.github.io/ELIXIR_containers_nextflow/)
 - [**Seqera labs** Nextflow training](https://github.com/seqeralabs/nf-training-public) | [website](https://training.seqera.io/)
@@ -257,7 +258,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 
 ### CWL
 
-- [**Roswell Park** Connecting Bioconductor to other bioinformatics tools using `Rcwl`](https://github.com/liubuntu/Bioc2020Rcwl) | [website](https://liubuntu.github.io/Bioc2020RCWL/) 
+- [**Roswell Park** Connecting Bioconductor to other bioinformatics tools using `Rcwl`](https://github.com/liubuntu/Bioc2020Rcwl) | [website](https://liubuntu.github.io/Bioc2020RCWL/)
 - [**INAB/CERTH** Introduction to CWL and Docker](https://github.com/BiodataAnalysisGroup/intro-to-cwl-docker) | [website](https://biodataanalysisgroup.github.io/intro-to-cwl-docker/)
 
 ### High performance computing
