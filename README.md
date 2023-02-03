@@ -295,6 +295,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Carpentries** Introduction to Machine Learning in Python](https://github.com/carpentries-incubator/machine-learning-novice-python) | [website](https://carpentries-incubator.github.io/machine-learning-novice-python/)
 - [**fastai** Practical Deep Learning for Coders](https://github.com/fastai/course20) | [website](https://course.fast.ai/)
 - [**bioinformatics.ca** Machine Learning 2021](https://github.com/bioinformatics-ca/MLE_2021) | [website](https://bioinformaticsdotca.github.io/MLE_2021)
+- [**Phillip Lippe** UvA Deep Learning Tutorials](https://github.com/phlippe/uvadlc_notebooks) | [website](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 
 ## Reproducibility and data management
 
