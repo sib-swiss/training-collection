@@ -142,6 +142,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**bioinformatics.ca** High Throughput Genomics Analysis](https://github.com/bioinformatics-ca/HTG_2021) | [website](https://bioinformaticsdotca.github.io/HTG_2021)
 - [**St. Jude Children's Research Hospital** Learn Genomics](https://github.com/stjude/learngenomics.dev)| [website](https://learngenomics.dev/)
 - [**Melbourne Bioinformatics** Bioinformatics Documentation](https://github.com/melbournebioinformatics/MelBioInf_docs) | [website](http://melbournebioinformatics.github.io/MelBioInf_docs/)
+- [**Griffiths lab** pmbio.org](https://github.com/griffithlab/pmbio.org) | [website](https://pmbio.org/)
 
 ### Miscellaneous
 
