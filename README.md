@@ -300,6 +300,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Carpentries** Introduction to Conda for (Data) Scientists](https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists) | [website](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/)
 - [**FAIRplus** FAIR Cookbook](https://github.com/FAIRplus/the-fair-cookbook) | [website](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 - [**Carpentries** Fair for leaders](https://github.com/carpentries-incubator/fair-for-leaders) | [website](https://carpentries-incubator.github.io/fair-for-leaders/)
+- [**SIB** Personalized Health informatics Group FAIR principles in practice for health data](https://git.dcc.sib.swiss/sphn-semantic-framework/fair-principles-in-practice-for-health-data/-/tree/main#fair-principles-in-practice-for-health-data) | [website](https://sphn.ch/training/fair-principles-in-practice-for-health-data/)
 
 ### Data management
 
