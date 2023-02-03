@@ -125,6 +125,8 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Colautti Lab** R Crash Course](https://github.com/ColauttiLab/RCrashCourse_Book) | [website](https://colauttilab.github.io/RCrashCourse)
 - [**Bruno Rodrigues** Reproducible Analytical Pipelines - Master's of Data Science](https://github.com/b-rodrigues/rap4mads) | [website](https://rap4mads.eu/)
 - [**Openscapes** Making shareable documents with Quarto](https://github.com/Openscapes/quarto-website-tutorial) | [website](https://openscapes.github.io/quarto-website-tutorial/)
+- [**UCSB-MEDS** Creating quarto websites](https://github.com/UCSB-MEDS/creating-quarto-websites) | [websites](https://ucsb-meds.github.io/creating-quarto-websites/)
+- [**UCSB-MEDS** Customizing quarto websites](https://github.com/UCSB-MEDS/customizing-quarto-websites) | [websites](https://ucsb-meds.github.io/creating-quarto-websites/)
 
 ### git
 
