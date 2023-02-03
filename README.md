@@ -144,6 +144,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**St. Jude Children's Research Hospital** Learn Genomics](https://github.com/stjude/learngenomics.dev)| [website](https://learngenomics.dev/)
 - [**Melbourne Bioinformatics** Bioinformatics Documentation](https://github.com/melbournebioinformatics/MelBioInf_docs) | [website](http://melbournebioinformatics.github.io/MelBioInf_docs/)
 - [**Griffiths lab** pmbio.org](https://github.com/griffithlab/pmbio.org) | [website](https://pmbio.org/)
+- [**Mike Lee** Happy Belly Bioinformatics](https://github.com/AstrobioMike/AstrobioMike.github.io) | [website](https://astrobiomike.github.io/)
 
 ### Miscellaneous
 
