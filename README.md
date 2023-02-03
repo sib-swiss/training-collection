@@ -131,7 +131,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 ### git
 
 - [**Carpentries** Version Control with Git](https://github.com/swcarpentry/git-novice) | [website](https://swcarpentry.github.io/git-novice/)
-- [**Jennifer (Jenny) Bryan**](https://github.com/jennybc/happy-git-with-r) | [website](https://happygitwithr.com/)
+- [**Jennifer (Jenny) Bryan** Happy git with r](https://github.com/jennybc/happy-git-with-r) | [website](https://happygitwithr.com/)
 
 ## Sequence data analysis
 
