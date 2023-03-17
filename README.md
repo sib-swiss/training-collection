@@ -10,7 +10,7 @@ If you haven't stopped reading, you're one of the few that still prefer the old 
 
 Below you'll find a curated list of **bioinformatics training material**. All material is:
 
-- In a GitHub or GitLab repository
+- In a GitHub or GitLab repository (repositories in self-managed instances of GitLab are not supported anymore..)
 - Free to use
 - Written in markdown or similar
 
@@ -19,48 +19,57 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ## Contents
 
 - [Scripting and languages](#scripting-and-languages)
-  - [Data visualization](#data-visualization)
-  - [Python](#python)
-  - [Quarto](#quarto)
-  - [R](#r)
-  - [Unix/Linux](#unix/linux)
   - [Version control](#version-control)
+  - [Unix/Linux](#unix/linux)
+  - [Python](#python)
+  - [R](#r)
+  - [Quarto](#quarto)
   - [Julia](#julia)
+  - [Data visualization](#data-visualization)
 - [Computational methods and pipelines](#computational-methods-and-pipelines)
   - [Containerization](#containerization)
+  - [Galaxy](#galaxy)
   - [High performance computing](#high-performance-computing)
   - [Workflows](#workflows)
   - [Image analysis](#image-analysis)
 - [Omics analysis](#omics-analysis)
-  - [Epidemiology](#epidemiology)
+  - [Genomics](#genomics)
+  - [Next generation sequencing](#next-generation-sequencing)
+  - [Transcriptomics](#transcriptomics)
+  - [Single-cell sequencing](#single-cell-sequencing)
   - [ChIP-seq](#chip-seq)
   - [Epigenetics](#epigenetics)
   - [Genome annotation](#genome-annotation)
-  - [Genomics](#genomics)
   - [Metagenomics](#metagenomics)
+  - [Epidemiology](#epidemiology)
   - [Multiomics](#multiomics)
-  - [Next generation sequencing](#next-generation-sequencing)
-  - [Single-cell sequencing](#single-cell-sequencing)
   - [Spatial transcriptomics](#spatial-transcriptomics)
-  - [Transcriptomics](#transcriptomics)
+  - [Long read sequencing](#long-read-sequencing)
 - [Reproducibility and data management](#reproducibility-and-data-management)
   - [Data management](#data-management)
   - [FAIR data](#fair-data)
   - [Reproducibility](#reproducibility)
 - [Statistics and machine learning](#statistics-and-machine-learning)
   - [Data science](#data-science)
-  - [Machine learning](#machine-learning)
   - [Statistics](#statistics)
+  - [Machine learning](#machine-learning)
 - [Others](#others)
   - [General](#general)
 
 ## Scripting and languages
 
 
-### Data visualization
+### Version control
 
-- [**Bioinformatics, Rockefeller University** RockefellerUniversity/IGV_course](https://github.com/RockefellerUniversity/IGV_course) | [website](https://rockefelleruniversity.github.io/IGV_course/)
-- [**Hadley Wickham** hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) | [website](https://ggplot2-book.org)
+- [**Software Carpentry** swcarpentry/git-novice](https://github.com/swcarpentry/git-novice) | [website](http://swcarpentry.github.io/git-novice/)
+
+### Unix/Linux
+
+- [**Data Carpentry** datacarpentry/shell-genomics](https://github.com/datacarpentry/shell-genomics) | [website](https://datacarpentry.org/shell-genomics)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-shell-flipped](https://github.com/hbctraining/Intro-to-shell-flipped) | [website](https://hbctraining.github.io/Intro-to-shell-flipped/)
+- [**Ted Laderas** laderast/bash_for_bioinformatics](https://github.com/laderast/bash_for_bioinformatics) | [website](https://laderast.github.io/bash_for_bioinformatics/)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/unix-first-steps-training](https://github.com/sib-swiss/unix-first-steps-training)
+- [**Software Carpentry** swcarpentry/shell-novice](https://github.com/swcarpentry/shell-novice) | [website](http://swcarpentry.github.io/shell-novice/)
 
 ### Python
 
@@ -73,10 +82,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/intermediate-python-training](https://github.com/sib-swiss/intermediate-python-training)
 - [**Software Carpentry** swcarpentry/python-novice-inflammation](https://github.com/swcarpentry/python-novice-inflammation) | [website](http://swcarpentry.github.io/python-novice-inflammation/)
 - [**VIB Technologies: Bioinformatics and software projects** vibbits/gentle-hands-on-python](https://github.com/vibbits/gentle-hands-on-python)
-
-### Quarto
-
-- [**UCSB-MEDS** UCSB-MEDS/customizing-quarto-websites](https://github.com/UCSB-MEDS/customizing-quarto-websites) | [website](https://ucsb-meds.github.io/customizing-quarto-websites/)
 
 ### R
 
@@ -148,21 +153,18 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Hadley Wickham** hadley/mastering-shiny](https://github.com/hadley/mastering-shiny) | [website](https://mastering-shiny.org)
 - [**Dirk Eddelbuettel** eddelbuettel/gsir-te](https://github.com/eddelbuettel/gsir-te)
 
-### Unix/Linux
+### Quarto
 
-- [**Data Carpentry** datacarpentry/shell-genomics](https://github.com/datacarpentry/shell-genomics) | [website](https://datacarpentry.org/shell-genomics)
-- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-shell-flipped](https://github.com/hbctraining/Intro-to-shell-flipped) | [website](https://hbctraining.github.io/Intro-to-shell-flipped/)
-- [**Ted Laderas** laderast/bash_for_bioinformatics](https://github.com/laderast/bash_for_bioinformatics) | [website](https://laderast.github.io/bash_for_bioinformatics/)
-- [**SIB Swiss Institute of Bioinformatics** sib-swiss/unix-first-steps-training](https://github.com/sib-swiss/unix-first-steps-training)
-- [**Software Carpentry** swcarpentry/shell-novice](https://github.com/swcarpentry/shell-novice) | [website](http://swcarpentry.github.io/shell-novice/)
-
-### Version control
-
-- [**Software Carpentry** swcarpentry/git-novice](https://github.com/swcarpentry/git-novice) | [website](http://swcarpentry.github.io/git-novice/)
+- [**UCSB-MEDS** UCSB-MEDS/customizing-quarto-websites](https://github.com/UCSB-MEDS/customizing-quarto-websites) | [website](https://ucsb-meds.github.io/customizing-quarto-websites/)
 
 ### Julia
 
 - [**Antonello Lobianco** sylvaticus/juliatutorial](https://github.com/sylvaticus/juliatutorial)
+
+### Data visualization
+
+- [**Bioinformatics, Rockefeller University** RockefellerUniversity/IGV_course](https://github.com/RockefellerUniversity/IGV_course) | [website](https://rockefelleruniversity.github.io/IGV_course/)
+- [**Hadley Wickham** hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) | [website](https://ggplot2-book.org)
 
 ## Computational methods and pipelines
 
@@ -173,6 +175,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/docker-introduction](https://github.com/carpentries-incubator/docker-introduction) | [website](https://carpentries-incubator.github.io/docker-introduction/)
 - [**carpentries-incubator** carpentries-incubator/singularity-introduction](https://github.com/carpentries-incubator/singularity-introduction) | [website](https://carpentries-incubator.github.io/singularity-introduction)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/containers-introduction-training](https://github.com/sib-swiss/containers-introduction-training) | [website](https://sib-swiss.github.io/containers-introduction-training/)
+
+### Galaxy
+
+- [**Galaxy Project** galaxyproject/training-material](https://github.com/galaxyproject/training-material) | [website](https://training.galaxyproject.org)
 
 ### High performance computing
 
@@ -202,42 +208,12 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ## Omics analysis
 
 
-### Epidemiology
-
-- [**Canadian Bioinformatics Workshops** bioinformatics-ca/EPI_2021](https://github.com/bioinformatics-ca/EPI_2021)
-- [**Canadian Bioinformatics Workshops** bioinformatics-ca/IDE_2021](https://github.com/bioinformatics-ca/IDE_2021)
-- [**Chloe Mirzayi** cmirzayi/EpiForBioWorkshop2020](https://github.com/cmirzayi/EpiForBioWorkshop2020) | [website](https://cmirzayi.github.io/EpiForBioWorkshop2020/)
-
-### ChIP-seq
-
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop](https://github.com/bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop)
-- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-ChIPseq](https://github.com/hbctraining/Intro-to-ChIPseq) | [website](https://hbctraining.github.io/Intro-to-ChIPseq/)
-- [**hukai916** hukai916/IntegratedChIPseqWorkshop](https://github.com/hukai916/IntegratedChIPseqWorkshop)
-
-### Epigenetics
-
-- [**Haibo Liu** haibol2016/ATACseqQCWorkshop](https://github.com/haibol2016/ATACseqQCWorkshop)
-
-### Genome annotation
-
-- [**Katharina Hoff** KatharinaHoff/BRAKER-TSEBRA-Workshop](https://github.com/KatharinaHoff/BRAKER-TSEBRA-Workshop)
-
 ### Genomics
 
 - [**Canadian Bioinformatics Workshops** bioinformatics-ca/CAN_2021](https://github.com/bioinformatics-ca/CAN_2021)
 - [**Canadian Bioinformatics Workshops** bioinformatics-ca/HTG_2021](https://github.com/bioinformatics-ca/HTG_2021)
 - [**Papenfuss Lab** PapenfussLab/IntroductionToGenomicsWorkshop](https://github.com/PapenfussLab/IntroductionToGenomicsWorkshop)
 - [**Computational Metagenomics** metagenomics/denbi-nanopore-training](https://github.com/metagenomics/denbi-nanopore-training)
-
-### Metagenomics
-
-- [**Canadian Bioinformatics Workshops** bioinformatics-ca/MIC_2021](https://github.com/bioinformatics-ca/MIC_2021)
-- [**Matteo Calgaro** mcalgaro93/benchdamicWorkshop](https://github.com/mcalgaro93/benchdamicWorkshop)
-- [**Waldron Lab at the CUNY SPH** waldronlab/curatedMetagenomicDataAnalyses](https://github.com/waldronlab/curatedMetagenomicDataAnalyses) | [website](https://waldronlab.io/curatedMetagenomicDataAnalyses/)
-
-### Multiomics
-
-- [**Waldron Lab at the CUNY SPH** waldronlab/MultiAssayWorkshop](https://github.com/waldronlab/MultiAssayWorkshop) | [website](https://waldronlab.github.io/MultiAssayWorkshop)
 
 ### Next generation sequencing
 
@@ -248,6 +224,20 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/NGS-variants-training](https://github.com/sib-swiss/NGS-variants-training) | [website](https://sib-swiss.github.io/NGS-variants-training/)
 - [**Waldron Lab at the CUNY SPH** waldronlab/CNVWorkshop](https://github.com/waldronlab/CNVWorkshop) | [website](https://waldronlab.io/CNVWorkshop)
 - [**The Griffith Lab** griffithlab/pmbio.org](https://github.com/griffithlab/pmbio.org) | [website](http://pmbio.org)
+
+### Transcriptomics
+
+- [**Biocore@CRG** biocorecrg/RNAseq_course_2019](https://github.com/biocorecrg/RNAseq_course_2019) | [website](https://biocorecrg.github.io/RNAseq_course_2019/)
+- [**Canadian Bioinformatics Workshops** bioinformatics-ca/PNA_2021](https://github.com/bioinformatics-ca/PNA_2021)
+- [**Canadian Bioinformatics Workshops** bioinformatics-ca/RNA_2021](https://github.com/bioinformatics-ca/RNA_2021)
+- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21) | [website](https://bioinformatics-core-shared-training.github.io/Bulk_RNASeq_Course_Nov21/)
+- [**carpentries-incubator** carpentries-incubator/bioc-rnaseq](https://github.com/carpentries-incubator/bioc-rnaseq) | [website](https://carpentries-incubator.github.io/bioc-rnaseq)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/DGE_workshop_salmon_online](https://github.com/hbctraining/DGE_workshop_salmon_online) | [website](https://hbctraining.github.io/DGE_workshop_salmon_online/)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-rnaseq-hpc-salmon-flipped](https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped) | [website](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/RNAseq-introduction-training](https://github.com/sib-swiss/RNAseq-introduction-training)
+- [**Stefano Mangiola** stemangiola/bioc_2020_tidytranscriptomics](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) | [website](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/)
+- [**Tidy-transcriptomics workshops** tidytranscriptomics-workshops/bioc2022_tidytranscriptomics](https://github.com/tidytranscriptomics-workshops/bioc2022_tidytranscriptomics) | [website](https://tidytranscriptomics-workshops.github.io/bioc2022_tidytranscriptomics/index.html)
+- [**Xueyi Dong** XueyiDong/RNAseq123workshop](https://github.com/XueyiDong/RNAseq123workshop)
 
 ### Single-cell sequencing
 
@@ -264,23 +254,43 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/single-cell-training](https://github.com/sib-swiss/single-cell-training) | [website](https://sib-swiss.github.io/single-cell-training/)
 - [**Yunshun Chen** yunshun/SingleCellWorkshop](https://github.com/yunshun/SingleCellWorkshop)
 
+### ChIP-seq
+
+- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop](https://github.com/bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-ChIPseq](https://github.com/hbctraining/Intro-to-ChIPseq) | [website](https://hbctraining.github.io/Intro-to-ChIPseq/)
+- [**hukai916** hukai916/IntegratedChIPseqWorkshop](https://github.com/hukai916/IntegratedChIPseqWorkshop)
+
+### Epigenetics
+
+- [**Haibo Liu** haibol2016/ATACseqQCWorkshop](https://github.com/haibol2016/ATACseqQCWorkshop)
+
+### Genome annotation
+
+- [**Katharina Hoff** KatharinaHoff/BRAKER-TSEBRA-Workshop](https://github.com/KatharinaHoff/BRAKER-TSEBRA-Workshop)
+
+### Metagenomics
+
+- [**Canadian Bioinformatics Workshops** bioinformatics-ca/MIC_2021](https://github.com/bioinformatics-ca/MIC_2021)
+- [**Matteo Calgaro** mcalgaro93/benchdamicWorkshop](https://github.com/mcalgaro93/benchdamicWorkshop)
+- [**Waldron Lab at the CUNY SPH** waldronlab/curatedMetagenomicDataAnalyses](https://github.com/waldronlab/curatedMetagenomicDataAnalyses) | [website](https://waldronlab.io/curatedMetagenomicDataAnalyses/)
+
+### Epidemiology
+
+- [**Canadian Bioinformatics Workshops** bioinformatics-ca/EPI_2021](https://github.com/bioinformatics-ca/EPI_2021)
+- [**Canadian Bioinformatics Workshops** bioinformatics-ca/IDE_2021](https://github.com/bioinformatics-ca/IDE_2021)
+- [**Chloe Mirzayi** cmirzayi/EpiForBioWorkshop2020](https://github.com/cmirzayi/EpiForBioWorkshop2020) | [website](https://cmirzayi.github.io/EpiForBioWorkshop2020/)
+
+### Multiomics
+
+- [**Waldron Lab at the CUNY SPH** waldronlab/MultiAssayWorkshop](https://github.com/waldronlab/MultiAssayWorkshop) | [website](https://waldronlab.github.io/MultiAssayWorkshop)
+
 ### Spatial transcriptomics
 
 - [**Davis Laboratory** DavisLaboratory/GeoMXAnalysisWorkflow](https://github.com/DavisLaboratory/GeoMXAnalysisWorkflow) | [website](https://davislaboratory.github.io/GeoMXAnalysisWorkflow/)
 
-### Transcriptomics
+### Long read sequencing
 
-- [**Biocore@CRG** biocorecrg/RNAseq_course_2019](https://github.com/biocorecrg/RNAseq_course_2019) | [website](https://biocorecrg.github.io/RNAseq_course_2019/)
-- [**Canadian Bioinformatics Workshops** bioinformatics-ca/PNA_2021](https://github.com/bioinformatics-ca/PNA_2021)
-- [**Canadian Bioinformatics Workshops** bioinformatics-ca/RNA_2021](https://github.com/bioinformatics-ca/RNA_2021)
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21) | [website](https://bioinformatics-core-shared-training.github.io/Bulk_RNASeq_Course_Nov21/)
-- [**carpentries-incubator** carpentries-incubator/bioc-rnaseq](https://github.com/carpentries-incubator/bioc-rnaseq) | [website](https://carpentries-incubator.github.io/bioc-rnaseq)
-- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/DGE_workshop_salmon_online](https://github.com/hbctraining/DGE_workshop_salmon_online) | [website](https://hbctraining.github.io/DGE_workshop_salmon_online/)
-- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-rnaseq-hpc-salmon-flipped](https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped) | [website](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/)
-- [**SIB Swiss Institute of Bioinformatics** sib-swiss/RNAseq-introduction-training](https://github.com/sib-swiss/RNAseq-introduction-training)
-- [**Stefano Mangiola** stemangiola/bioc_2020_tidytranscriptomics](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) | [website](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/)
-- [**Tidy-transcriptomics workshops** tidytranscriptomics-workshops/bioc2022_tidytranscriptomics](https://github.com/tidytranscriptomics-workshops/bioc2022_tidytranscriptomics) | [website](https://tidytranscriptomics-workshops.github.io/bioc2022_tidytranscriptomics/index.html)
-- [**Xueyi Dong** XueyiDong/RNAseq123workshop](https://github.com/XueyiDong/RNAseq123workshop)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/NGS-longreads-training](https://github.com/sib-swiss/NGS-longreads-training/) | [website](https://sib-swiss.github.io/NGS-longreads-training/)
 
 ## Reproducibility and data management
 
@@ -313,15 +323,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Stephanie Hicks** stephaniehicks/superwomen](https://github.com/stephaniehicks/superwomen) | [website](https://www.stephaniehicks.com/superwomen/)
 
-### Machine learning
-
-- [**Canadian Bioinformatics Workshops** bioinformatics-ca/MLE_2021](https://github.com/bioinformatics-ca/MLE_2021)
-- [**carpentries-incubator** carpentries-incubator/machine-learning-novice-python](https://github.com/carpentries-incubator/machine-learning-novice-python) | [website](https://carpentries-incubator.github.io/machine-learning-novice-python/)
-- [**carpentries-incubator** carpentries-incubator/machine-learning-novice-sklearn](https://github.com/carpentries-incubator/machine-learning-novice-sklearn) | [website](https://carpentries-incubator.github.io/machine-learning-novice-sklearn/)
-- [**fast.ai** fastai/course20](https://github.com/fastai/course20) | [website](https://book.fast.ai)
-- [**SIB Swiss Institute of Bioinformatics** sib-swiss/intro-machine-learning-training](https://github.com/sib-swiss/intro-machine-learning-training)
-- [**Phillip Lippe** phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks/) | [website](https://uvadlc-notebooks.readthedocs.io/en/latest/)
-
 ### Statistics
 
 - [**Aedin Culhane** aedin/PCAworkshop](https://github.com/aedin/PCAworkshop) | [website](https://aedin.github.io/PCAworkshop/)
@@ -336,6 +337,15 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/statistics-and-machine-learning-training](https://github.com/sib-swiss/statistics-and-machine-learning-training)
 - [**Richard McElreath** rmcelreath/stat_rethinking_2023](https://github.com/rmcelreath/stat_rethinking_2023)
 
+### Machine learning
+
+- [**Canadian Bioinformatics Workshops** bioinformatics-ca/MLE_2021](https://github.com/bioinformatics-ca/MLE_2021)
+- [**carpentries-incubator** carpentries-incubator/machine-learning-novice-python](https://github.com/carpentries-incubator/machine-learning-novice-python) | [website](https://carpentries-incubator.github.io/machine-learning-novice-python/)
+- [**carpentries-incubator** carpentries-incubator/machine-learning-novice-sklearn](https://github.com/carpentries-incubator/machine-learning-novice-sklearn) | [website](https://carpentries-incubator.github.io/machine-learning-novice-sklearn/)
+- [**fast.ai** fastai/course20](https://github.com/fastai/course20) | [website](https://book.fast.ai)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/intro-machine-learning-training](https://github.com/sib-swiss/intro-machine-learning-training)
+- [**Phillip Lippe** phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks/) | [website](https://uvadlc-notebooks.readthedocs.io/en/latest/)
+
 ## Others
 
 
@@ -345,7 +355,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**biodatascience** biodatascience/compbio](https://github.com/biodatascience/compbio) | [website](https://biodatascience.github.io/compbio/)
 - [**Bradley Boehmke** bradleyboehmke/data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources)
 - [**Ming Tang** crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
-- [**Galaxy Project** galaxyproject/training-material](https://github.com/galaxyproject/training-material) | [website](https://training.galaxyproject.org)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Training-modules](https://github.com/hbctraining/Training-modules) | [website](https://hbctraining.github.io/Training-modules/)
 - [**Genome Informatics Facility** ISUgenomics/bioinformatics-workbook](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org)
 - [**Melbourne Bioinformatics** melbournebioinformatics/MelBioInf_docs](https://github.com/melbournebioinformatics/MelBioInf_docs)
