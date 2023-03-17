@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * SUN"
   push:
     branches: 
-      - 'auto-create-collection'
+      - 'main'
   
 jobs:
   deploy:
