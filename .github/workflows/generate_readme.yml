@@ -3,6 +3,10 @@ name: generate readme
 on:
   schedule:
     - cron: "0 0 * * SUN"
+  push:
+    branches: 
+      - 'auto-create-collection'
+  
 jobs:
   deploy:
     runs-on: ubuntu-latest
