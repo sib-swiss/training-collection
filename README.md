@@ -6,9 +6,9 @@ Do you like this collection? You're going to love [glittr.org](https://glittr.or
 
 [![](assets/logo-vertical.svg)](https://glittr.org)
 
-I you haven't stopped reading, you like the old school `README` :neckbeard:. Nice! 
+I you haven't stopped reading, you're one of the few that still prefer the old school `README` :neckbeard:. Nice !
 
-It's curated list of **bioinformatics training material**. All material is:
+Below you'll find a curated list of **bioinformatics training material**. All material is:
 
 - In a GitHub or GitLab repository
 - Free to use
