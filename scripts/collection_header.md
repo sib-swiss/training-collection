@@ -6,15 +6,15 @@ Do you like this collection? You're going to love [glittr.org](https://glittr.or
 
 [![](assets/logo-vertical.svg)](https://glittr.org)
 
-A curated list of **bioinformatics training material**. All material is:
+I you haven't stopped reading, you like the old school `README` :neckbeard:. Nice! 
+
+It's curated list of **bioinformatics training material**. All material is:
 
 - In a GitHub or GitLab repository
 - Free to use
 - Written in markdown or similar
 
 **NOTE:** This list of courses is selected *only* based on the above criteria. There are *no* checks on quality.
-
-Is your (favourite) course not in there? Is a link dead? Did you find a typo? Any contribution to this list is highly appreciated :+1:. Please have a look at [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
 ## Contents
 
