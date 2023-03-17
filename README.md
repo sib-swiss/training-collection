@@ -6,15 +6,15 @@ Do you like this collection? You're going to love [glittr.org](https://glittr.or
 
 [![](assets/logo-vertical.svg)](https://glittr.org)
 
-A curated list of **bioinformatics training material**. All material is:
+I you haven't stopped reading, you like the old school `README` :neckbeard:. Nice! 
+
+It's curated list of **bioinformatics training material**. All material is:
 
 - In a GitHub or GitLab repository
 - Free to use
 - Written in markdown or similar
 
 **NOTE:** This list of courses is selected *only* based on the above criteria. There are *no* checks on quality.
-
-Is your (favourite) course not in there? Is a link dead? Did you find a typo? Any contribution to this list is highly appreciated :+1:. Please have a look at [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
 ## Contents
 
@@ -72,7 +72,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/first-steps-with-python-training](https://github.com/sib-swiss/first-steps-with-python-training)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/intermediate-python-training](https://github.com/sib-swiss/intermediate-python-training)
 - [**Software Carpentry** swcarpentry/python-novice-inflammation](https://github.com/swcarpentry/python-novice-inflammation) | [website](http://swcarpentry.github.io/python-novice-inflammation/)
-- [**VIB Technologies: Bioinformatics and software projects ** vibbits/gentle-hands-on-python](https://github.com/vibbits/gentle-hands-on-python)
+- [**VIB Technologies: Bioinformatics and software projects** vibbits/gentle-hands-on-python](https://github.com/vibbits/gentle-hands-on-python)
 
 ### Quarto
 
@@ -193,7 +193,7 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**Sateesh_Peri** sateeshperi/nextflow_varcal](https://github.com/sateeshperi/nextflow_varcal)
 - [**Seqera Labs** nextflow-io/training](https://github.com/seqeralabs/nf-training-public) | [website](https://training.nextflow.io)
 - [**Snakemake** snakemake/snakemake](https://github.com/snakemake/snakemake) | [website](https://snakemake.readthedocs.io)
-- [**VIB Technologies: Bioinformatics and software projects ** vibbits/nextflow-workshop](https://github.com/vibbits/nextflow-workshop)
+- [**VIB Technologies: Bioinformatics and software projects** vibbits/nextflow-workshop](https://github.com/vibbits/nextflow-workshop)
 
 ### Image analysis
 
