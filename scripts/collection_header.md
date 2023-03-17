@@ -1,9 +1,10 @@
 [![DOI](https://zenodo.org/badge/437832906.svg)](https://zenodo.org/badge/latestdoi/437832906)
-![lychee workflow](https://github.com/sib-swiss/training-collection/actions/workflows/lychee-action.yml/badge.svg)
-![toc workflow](https://github.com/sib-swiss/training-collection/actions/workflows/toc-generator.yml/badge.svg)
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/GeertvanGeest/5dd50ff10dbb3fe3222aa8ac658878bf/raw/ncourses.json)
 
 # Bioinformatics training materials
+
+Do you like this collection? You're going to love [glittr.org](https://glittr.org)! The collection below is still maintained but updated by glittr.org. So, if you have anything to add or to ask, see you there!
+
+[![](assets/logo-vertical.svg)](https://glittr.org)
 
 A curated list of **bioinformatics training material**. All material is:
 

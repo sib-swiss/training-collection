@@ -1,0 +1,25 @@
+
+name: generate readme
+on:
+  schedule:
+    - cron: "0 0 * * SUN"
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v3
+      - name: setup python 
+          uses: actions/setup-python@v4
+          with:
+            python-version: 3.x
+      - name: recreate readme
+        run: |
+          pip install requests
+          python scripts/create_collection_from_rest_api.py
+      - name: Commit and push changes
+            run: |
+              git config --global user.name "geertvangeest"
+              git add -A
+              git commit -m "auto-generated readme" || exit 0
+              git push

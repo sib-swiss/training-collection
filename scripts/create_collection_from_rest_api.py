@@ -1,38 +1,41 @@
 import requests
-from requests.auth import HTTPBasicAuth
-import sys
 
-r = requests.get("https://glittr.org/api/repositories",
-                    auth=HTTPBasicAuth('user', 'pw'))
+def get_repos():
+    r = requests.get("https://glittr.org/api/list")
+    collection_list = r.json()
+    return(collection_list)
 
-data_dict = r.json()['data']
-
-collection_dict = {}
-for repo in data_dict:
-    category = repo['tags'][0]['category']
-    topic = repo ['tags'][0]['name']
-    if category not in collection_dict.keys():
-        collection_dict[category] = {}
-        collection_dict[category][topic] = [repo]
-    else:
-        if topic in collection_dict[category].keys():
-            collection_dict[category][topic].append(repo)
-        else:
-            collection_dict[category][topic] = [repo]
-
-for category in collection_dict.keys():
-    sys.stdout.write(f"- [{category}](#{category.lower().replace(' ', '-')})\n")
-    for topic in collection_dict[category].keys():
-        sys.stdout.write(f"  - [{topic}](#{topic.lower().replace(' ', '-')})\n")
-
-for category in collection_dict.keys():
-    sys.stdout.write("\n## " + category + '\n\n')
-    for topic in collection_dict[category].keys():
-        sys.stdout.write("\n### " + topic + '\n\n')
-        for repo in collection_dict[category][topic]:
-            if repo['website'] == '':
-                sys.stdout.write(f"- [**{repo['author']['display_name']}** {repo['name']}]({repo['url']})\n")
-            else:
-                sys.stdout.write(f"- [**{repo['author']['display_name']}** {repo['name']}]({repo['url']}) | [website]({repo['website']})\n")
+def write_toc(collection_list, outfile):
+    for category in collection_list:
+        category_name = category['name']
+        outfile.write(f"- [{category_name}](#{category_name.lower().replace(' ', '-')})\n")
+        for topic in category['topics']:
+            topic_name = topic['name']
+            outfile.write(f"  - [{topic_name}](#{topic_name.lower().replace(' ', '-')})\n")
 
 
+def write_collection(collection_list, outfile):
+    for category in collection_list:
+        category_name = category['name']
+        outfile.write("\n## " + category_name + '\n\n')
+        for topic in category['topics']:
+            topic_name = topic['name']
+            outfile.write("\n### " + topic_name + '\n\n')
+            repo_list = topic['repositories']
+            for repo in repo_list:
+                if repo['website'] == '':
+                    outfile.write(f"- [**{repo['author']['display_name']}** {repo['name']}]({repo['url']})\n")
+                else:
+                    outfile.write(f"- [**{repo['author']['display_name']}** {repo['name']}]({repo['url']}) | [website]({repo['website']})\n")
+
+if __name__ == '__main__':
+    collection_list = get_repos()
+
+    output_file = '../README.md'
+
+    with open(output_file, 'w') as outfile:
+        with open('collection_header.md') as infile:
+            for line in infile:
+                outfile.write(line)
+            write_toc(collection_list, outfile)
+            write_collection(collection_list, outfile)
