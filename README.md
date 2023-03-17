@@ -6,7 +6,7 @@ Do you like this collection? You're going to love [glittr.org](https://glittr.or
 
 [![](assets/logo-vertical.svg)](https://glittr.org)
 
-I you haven't stopped reading, you're one of the few that still prefer the old school `README` :neckbeard:. Nice !
+If you haven't stopped reading, you're one of the few that still prefer the old school `README` :neckbeard:. Nice !
 
 Below you'll find a curated list of **bioinformatics training material**. All material is:
 
