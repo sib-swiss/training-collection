@@ -31,10 +31,10 @@ def write_collection(collection_list, outfile):
 if __name__ == '__main__':
     collection_list = get_repos()
 
-    output_file = '../README.md'
+    output_file = 'README.md'
 
     with open(output_file, 'w') as outfile:
-        with open('collection_header.md') as infile:
+        with open('scripts/collection_header.md') as infile:
             for line in infile:
                 outfile.write(line)
             write_toc(collection_list, outfile)
