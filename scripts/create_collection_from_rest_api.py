@@ -24,9 +24,9 @@ def write_collection(collection_list, outfile):
             repo_list = topic['repositories']
             for repo in repo_list:
                 if repo['website'] == '':
-                    outfile.write(f"- [**{repo['author']['display_name']}** {repo['name']}]({repo['url']})\n")
+                    outfile.write(f"- [**{repo['author']['display_name'].strip()}** {repo['name']}]({repo['url']})\n")
                 else:
-                    outfile.write(f"- [**{repo['author']['display_name']}** {repo['name']}]({repo['url']}) | [website]({repo['website']})\n")
+                    outfile.write(f"- [**{repo['author']['display_name'].strip()}** {repo['name']}]({repo['url']}) | [website]({repo['website']})\n")
 
 if __name__ == '__main__':
     collection_list = get_repos()
