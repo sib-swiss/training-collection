@@ -10,7 +10,7 @@ If you haven't stopped reading, you're one of the few that still prefer the old 
 
 Below you'll find a curated list of **bioinformatics training material**. All material is:
 
-- In a GitHub or GitLab repository
+- In a GitHub or GitLab repository (repositories in self-managed instances of GitLab are not supported anymore..)
 - Free to use
 - Written in markdown or similar
 
