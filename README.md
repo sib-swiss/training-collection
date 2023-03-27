@@ -26,6 +26,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Quarto](#quarto)
   - [Julia](#julia)
   - [Data visualization](#data-visualization)
+  - [Java](#java)
 - [Computational methods and pipelines](#computational-methods-and-pipelines)
   - [Containerization](#containerization)
   - [Galaxy](#galaxy)
@@ -37,6 +38,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Next generation sequencing](#next-generation-sequencing)
   - [Transcriptomics](#transcriptomics)
   - [Single-cell sequencing](#single-cell-sequencing)
+  - [Variant analysis](#variant-analysis)
   - [ChIP-seq](#chip-seq)
   - [Epigenetics](#epigenetics)
   - [Genome annotation](#genome-annotation)
@@ -62,6 +64,9 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Version control
 
 - [**Software Carpentry** swcarpentry/git-novice](https://github.com/swcarpentry/git-novice) | [website](http://swcarpentry.github.io/git-novice/)
+- [**BioinfGuru** BioinfGuru/gitTutorial](https://github.com/BioinfGuru/gitTutorial)
+- [**Kottans** kottans/git-course](https://github.com/kottans/git-course) | [website](https://kottans.org/git-course/)
+- [**Gerard Capes** gcapes/git-course](https://github.com/gcapes/git-course) | [website](http://gcapes.github.io/git-course/)
 
 ### Unix/Linux
 
@@ -70,6 +75,11 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Ted Laderas** laderast/bash_for_bioinformatics](https://github.com/laderast/bash_for_bioinformatics) | [website](https://laderast.github.io/bash_for_bioinformatics/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/unix-first-steps-training](https://github.com/sib-swiss/unix-first-steps-training)
 - [**Software Carpentry** swcarpentry/shell-novice](https://github.com/swcarpentry/shell-novice) | [website](http://swcarpentry.github.io/shell-novice/)
+- [**Sundeep Agarwal** learnbyexample/cli_text_processing_coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils) | [website](https://learnbyexample.github.io/cli_text_processing_coreutils/)
+- [**Sundeep Agarwal** learnbyexample/cli-computing](https://github.com/learnbyexample/cli-computing) | [website](https://learnbyexample.github.io/cli-computing/)
+- [**Sundeep Agarwal** learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) | [website](https://learnbyexample.github.io/learn_gnuawk/)
+- [**Sundeep Agarwal** learnbyexample/learn_gnused](https://github.com/learnbyexample/learn_gnused) | [website](https://learnbyexample.github.io/learn_gnused/)
+- [**Sundeep Agarwal** learnbyexample/learn_gnugrep_ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep) | [website](https://learnbyexample.github.io/learn_gnugrep_ripgrep/)
 
 ### Python
 
@@ -82,6 +92,11 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/intermediate-python-training](https://github.com/sib-swiss/intermediate-python-training)
 - [**Software Carpentry** swcarpentry/python-novice-inflammation](https://github.com/swcarpentry/python-novice-inflammation) | [website](http://swcarpentry.github.io/python-novice-inflammation/)
 - [**VIB Technologies: Bioinformatics and software projects** vibbits/gentle-hands-on-python](https://github.com/vibbits/gentle-hands-on-python)
+- [**Talk Python** talkpython/python-for-absolute-beginners-course](https://github.com/talkpython/python-for-absolute-beginners-course) | [website](https://training.talkpython.fm/courses/explore_beginners/python-for-absolute-beginners)
+- [**Sundeep Agarwal** learnbyexample/py_regular_expressions](https://github.com/learnbyexample/py_regular_expressions) | [website](https://learnbyexample.github.io/py_regular_expressions/)
+- [**Sundeep Agarwal** learnbyexample/100_page_python_intro](https://github.com/learnbyexample/100_page_python_intro) | [website](https://learnbyexample.github.io/100_page_python_intro/)
+- [**Alex Hall** alexmojaki/futurecoder](https://github.com/alexmojaki/futurecoder) | [website](https://futurecoder.io)
+- [**Guillaume Gautier** guilgautier/sdia-python](https://github.com/guilgautier/sdia-python)
 
 ### R
 
@@ -152,6 +167,14 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Hadley Wickham** hadley/r-pkgs](https://github.com/hadley/r-pkgs) | [website](https://r-pkgs.org)
 - [**Hadley Wickham** hadley/mastering-shiny](https://github.com/hadley/mastering-shiny) | [website](https://mastering-shiny.org)
 - [**Dirk Eddelbuettel** eddelbuettel/gsir-te](https://github.com/eddelbuettel/gsir-te)
+- [**carpentries-incubator** carpentries-incubator/bioc-intro](https://github.com/carpentries-incubator/bioc-intro) | [website](https://carpentries-incubator.github.io/bioc-intro)
+- [**Will Landau** wlandau/targets-tutorial](https://github.com/wlandau/targets-tutorial) | [website](https://rstudio.cloud/project/1699460)
+- [**R Programming @ University of Cincinnati** uc-r/Advanced-R](https://github.com/uc-r/Advanced-R)
+- [**R Programming @ University of Cincinnati** uc-r/Intro-R](https://github.com/uc-r/Intro-R)
+- [**R Programming @ University of Cincinnati** uc-r/Intermediate-R](https://github.com/uc-r/Intermediate-R)
+- [**RStudio Education** rstudio-education/advanced-shiny-az](https://github.com/rstudio-education/advanced-shiny-az) | [website](https://rstd.io/adv-shiny-az)
+- [**RStudio** rstudio/learnr](https://github.com/rstudio/learnr) | [website](https://pkgs.rstudio.com/learnr)
+- [**dcruvolo** davidruvolo51/shinyAppTutorials](https://github.com/davidruvolo51/shinyAppTutorials) | [website](https://davidruvolo51.github.io/shinytutorials/)
 
 ### Quarto
 
@@ -160,11 +183,22 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Julia
 
 - [**Antonello Lobianco** sylvaticus/juliatutorial](https://github.com/sylvaticus/juliatutorial)
+- [**JuliaAcademy** JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) | [website](https://julialang.org/learning/)
+- [**JuliaAcademy** JuliaAcademy/DataScience](https://github.com/JuliaAcademy/DataScience) | [website](https://juliaacademy.com/p/julia-for-data-science)
+- [**JuliaAcademy** JuliaAcademy/Introduction-to-Julia](https://github.com/JuliaAcademy/Introduction-to-Julia) | [website](https://juliaacademy.com/p/intro-to-julia)
+- [**JuliaAcademy** JuliaAcademy/JuliaProgrammingForNervousBeginners](https://github.com/JuliaAcademy/JuliaProgrammingForNervousBeginners) | [website](https://juliaacademy.com/p/julia-programming-for-nervous-beginners)
+- [**JuliaAcademy** JuliaAcademy/DataFrames](https://github.com/JuliaAcademy/DataFrames)
+- [**JuliaAcademy** JuliaAcademy/Foundations-of-Machine-Learning](https://github.com/JuliaAcademy/Foundations-of-Machine-Learning) | [website](https://juliaacademy.com/p/introduction-to-machine-learning)
 
 ### Data visualization
 
 - [**Bioinformatics, Rockefeller University** RockefellerUniversity/IGV_course](https://github.com/RockefellerUniversity/IGV_course) | [website](https://rockefelleruniversity.github.io/IGV_course/)
 - [**Hadley Wickham** hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) | [website](https://ggplot2-book.org)
+- [**Christian Burkhart** ch-bu/ggplot2-fundamentals](https://github.com/ch-bu/ggplot2-fundamentals) | [website](https://ggplot2tor.com/courses/ggplot2fundamentals)
+
+### Java
+
+- [**BioJava** biojava/biojava-tutorial](https://github.com/biojava/biojava-tutorial) | [website](http://www.biojava.org)
 
 ## Computational methods and pipelines
 
@@ -214,6 +248,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Canadian Bioinformatics Workshops** bioinformatics-ca/HTG_2021](https://github.com/bioinformatics-ca/HTG_2021)
 - [**Papenfuss Lab** PapenfussLab/IntroductionToGenomicsWorkshop](https://github.com/PapenfussLab/IntroductionToGenomicsWorkshop)
 - [**Computational Metagenomics** metagenomics/denbi-nanopore-training](https://github.com/metagenomics/denbi-nanopore-training)
+- [**Computational Genomics with R** compgenomr/book](https://github.com/compgenomr/book) | [website](http://compgenomr.github.io/book)
+- [**Wellcome Connecting Science** WCSCourses/SARS-COV-2_B4B](https://github.com/WCSCourses/SARS-COV-2_B4B) | [website](https://wcscourses.github.io/SARS-COV-2_B4B/)
 
 ### Next generation sequencing
 
@@ -253,6 +289,11 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-scRNAseq](https://github.com/nbisweden/workshop-scRNAseq) | [website](https://nbisweden.github.io/workshop-scRNAseq/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/single-cell-training](https://github.com/sib-swiss/single-cell-training) | [website](https://sib-swiss.github.io/single-cell-training/)
 - [**Yunshun Chen** yunshun/SingleCellWorkshop](https://github.com/yunshun/SingleCellWorkshop)
+- [**Cellular Genetics Informatics** cellgeni/scRNA.seq.course](https://github.com/cellgeni/scRNA.seq.course) | [website](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
+
+### Variant analysis
+
+- [**Andries Marees** MareesAT/GWA_tutorial](https://github.com/MareesAT/GWA_tutorial)
 
 ### ChIP-seq
 
@@ -322,6 +363,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Data science
 
 - [**Stephanie Hicks** stephaniehicks/superwomen](https://github.com/stephaniehicks/superwomen) | [website](https://www.stephaniehicks.com/superwomen/)
+- [**Hacking for Science** h4sci/h4sci-course](https://github.com/h4sci/h4sci-course)
+- [**DataTalksClub** DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- [**Jose A Dianes** jadianes/data-science-your-way](https://github.com/jadianes/data-science-your-way) | [website](http://jadianes.github.io/data-science-your-way)
+- [**Jose A Dianes** jadianes/spark-r-notebooks](https://github.com/jadianes/spark-r-notebooks) | [website](http://jadianes.github.io/spark-r-notebooks)
 
 ### Statistics
 
@@ -336,6 +381,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/Introduction-to-statistics-with-R](https://github.com/sib-swiss/Introduction-to-statistics-with-R)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/statistics-and-machine-learning-training](https://github.com/sib-swiss/statistics-and-machine-learning-training)
 - [**Richard McElreath** rmcelreath/stat_rethinking_2023](https://github.com/rmcelreath/stat_rethinking_2023)
+- [**David Dalpiaz** daviddalpiaz/appliedstats](https://github.com/daviddalpiaz/appliedstats) | [website](https://book.stat420.org)
 
 ### Machine learning
 
@@ -345,6 +391,13 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**fast.ai** fastai/course20](https://github.com/fastai/course20) | [website](https://book.fast.ai)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/intro-machine-learning-training](https://github.com/sib-swiss/intro-machine-learning-training)
 - [**Phillip Lippe** phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks/) | [website](https://uvadlc-notebooks.readthedocs.io/en/latest/)
+- [**carpentries-incubator** carpentries-incubator/ml4bio-workshop](https://github.com/carpentries-incubator/ml4bio-workshop) | [website](https://carpentries-incubator.github.io/ml4bio-workshop/)
+- [**Instill AI** instillai/TensorFlow-Course](https://github.com/instillai/TensorFlow-Course)
+- [**Yury Kashnitsky** Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) | [website](https://mlcourse.ai)
+- [**fast.ai** fastai/course-nlp](https://github.com/fastai/course-nlp) | [website](https://www.fast.ai/2019/07/08/fastai-nlp/)
+- [**girafe.ai** girafe-ai/ml-course](https://github.com/girafe-ai/ml-course)
+- [**Paderborn University - LEA** upb-lea/reinforcement_learning_course_materials](https://github.com/upb-lea/reinforcement_learning_course_materials)
+- [**Lex Fridman** lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) | [website](https://deeplearning.mit.edu)
 
 ## Others
 
@@ -360,3 +413,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Melbourne Bioinformatics** melbournebioinformatics/MelBioInf_docs](https://github.com/melbournebioinformatics/MelBioInf_docs)
 - [**Mike Lee** AstrobioMike/AstrobioMike.github.io](https://github.com/AstrobioMike/AstrobioMike.github.io) | [website](https://astrobiomike.github.io)
 - [**liulab-dfci** liulab-dfci/bioinfo-combio](https://github.com/liulab-dfci/bioinfo-combio)
+- [**Leighton Pritchard** widdowquinn/Teaching-IBioIC-Intro-to-Bioinformatics](https://github.com/widdowquinn/Teaching-IBioIC-Intro-to-Bioinformatics) | [website](https://widdowquinn.github.io/Teaching-IBioIC-Intro-to-Bioinformatics/)
+- [**Ujjwal Karn** ujjwalkarn/DataScienceR](https://github.com/ujjwalkarn/DataScienceR)
+- [**Salvatore Raieli** SalvatoreRa/tutorial](https://github.com/SalvatoreRa/tutorial)
