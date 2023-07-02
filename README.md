@@ -41,6 +41,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Genomics](#genomics)
   - [Next generation sequencing](#next-generation-sequencing)
   - [Transcriptomics](#transcriptomics)
+  - [RNA-seq](#rna-seq)
   - [Single-cell sequencing](#single-cell-sequencing)
   - [Variant analysis](#variant-analysis)
   - [ChIP-seq](#chip-seq)
@@ -236,6 +237,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Hadley Wickham** hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) | [website](https://ggplot2-book.org)
 - [**Christian Burkhart** ch-bu/ggplot2-fundamentals](https://github.com/ch-bu/ggplot2-fundamentals) | [website](https://ggplot2tor.com/courses/ggplot2fundamentals)
 - [**carpentries-incubator** carpentries-incubator/intro-data-viz](https://github.com/carpentries-incubator/intro-data-viz) | [website](https://carpentries-incubator.github.io/intro-data-viz/)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/publication_perfect](https://github.com/hbctraining/publication_perfect) | [website](https://hbctraining.github.io/publication_perfect/)
 
 ### Java
 
@@ -347,6 +349,13 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Bulk_RNASeq_Course_March23](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_March23) | [website](https://bioinformatics-core-shared-training.github.io/Bulk_RNASeq_Course_March23/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-RNAseq](https://github.com/NBISweden/workshop-RNAseq) | [website](https://NBISweden.github.io/workshop-RNAseq)
 
+### RNA-seq
+
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/BBS230B_2023](https://github.com/hbctraining/BBS230B_2023) | [website](https://hbctraining.github.io/BBS230B_2023/)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/rnaseq-cb321](https://github.com/hbctraining/rnaseq-cb321)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/RNA-seq-CB321qc_2022](https://github.com/hbctraining/RNA-seq-CB321qc_2022)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/rnaseq_overview](https://github.com/hbctraining/rnaseq_overview)
+
 ### Single-cell sequencing
 
 - [**Aedin Culhane** aedin/scRNAseqBasicWorkflow](https://github.com/aedin/scRNAseqBasicWorkflow)
@@ -369,12 +378,15 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Variant analysis
 
 - [**Andries Marees** MareesAT/GWA_tutorial](https://github.com/MareesAT/GWA_tutorial)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/variant_analysis](https://github.com/hbctraining/variant_analysis) | [website](https://hbctraining.github.io/variant_analysis/)
 
 ### ChIP-seq
 
 - [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop](https://github.com/bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-ChIPseq](https://github.com/hbctraining/Intro-to-ChIPseq) | [website](https://hbctraining.github.io/Intro-to-ChIPseq/)
 - [**hukai916** hukai916/IntegratedChIPseqWorkshop](https://github.com/hukai916/IntegratedChIPseqWorkshop)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-ChIPseq-flipped](https://github.com/hbctraining/Intro-to-ChIPseq-flipped) | [website](https://hbctraining.github.io/Intro-to-ChIPseq-flipped/)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Peak_analysis_workshop](https://github.com/hbctraining/Peak_analysis_workshop)
 
 ### Epigenetics
 
