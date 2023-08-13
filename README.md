@@ -212,8 +212,16 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Data Carpentry** datacarpentry/rr-automation](https://github.com/datacarpentry/rr-automation) | [website](http://www.datacarpentry.org/rr-automation/)
 - [**Data Carpentry** datacarpentry/rr-literate-programming](https://github.com/datacarpentry/rr-literate-programming)
 - [**RStudio Education** rstudio-education/stat545](https://github.com/rstudio-education/stat545) | [website](https://stat545.com)
-- [**nullranges** tidybiology/tidy-ranges-tutorial](https://github.com/nullranges/tidy-ranges-tutorial) | [website](https://tidybiology.github.io/tidy-ranges-tutorial)
+- [**nullranges** tidyomics/tidy-ranges-tutorial](https://github.com/nullranges/tidy-ranges-tutorial) | [website](https://tidybiology.github.io/tidy-ranges-tutorial)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-epigenomics-RTDs](https://github.com/NBISweden/workshop-epigenomics-RTDs/) | [website](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/)
+- [**Library Data Services** UNC-Libraries-data/R-Open-Labs](https://github.com/UNC-Libraries-data/R-Open-Labs)
+- [**Greg Wilson** gvwilson/tidynomicon](https://github.com/gvwilson/tidynomicon) | [website](http://tidynomicon.github.io/tidynomicon)
+- [**Vince Carey** vjcitn/BiocPyInterop](https://github.com/vjcitn/BiocPyInterop) | [website](https://vjcitn.github.io/BiocPyInterop/)
+- [**Bioinformatics, Rockefeller University** RockefellerUniversity/RU_VisualizingGenomicsData](https://github.com/RockefellerUniversity/RU_VisualizingGenomicsData)
+- [**genomicsclass** genomicsclass/book](https://github.com/genomicsclass/book) | [website](http://genomicsclass.github.io/book/)
+- [**Kristyna Kupkova** kkupkova/GenomicDistributionsBioC2022](https://github.com/kkupkova/GenomicDistributions_BioC2022)
+- [**Workflow Languages in R** rworkflow/RcwlWorkshop](https://github.com/rworkflow/RcwlWorkshop) | [website](http://rcwl.org/RcwlWorkshop/)
+- [**tidybiology** tidybiology/tidyomicsWorkshopBioc2023](https://github.com/tidybiology/tidyomicsWorkshopBioc2023) | [website](https://tidybiology.github.io/tidyomicsWorkshopBioc2023)
 
 ### Quarto
 
@@ -374,6 +382,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/SingleCell_RNASeq_Jan23](https://github.com/bioinformatics-core-shared-training/SingleCell_RNASeq_Jan23) | [website](https://bioinformatics-core-shared-training.github.io/SingleCell_RNASeq_Jan23/)
 - [**OSCA Source Code Management** OSCA-source/OSCA](https://github.com/OSCA-source/OSCA) | [website](https://bioconductor.org/checkResults/devel/books-LATEST/OSCA)
 - [**carpentries-incubator** carpentries-incubator/scrna-seq-analysis](https://github.com/carpentries-incubator/scrna-seq-analysis) | [website](https://carpentries-incubator.github.io/scrna-seq-analysis/)
+- [**Bioconductor** Bioconductor/ISMB.OSCA](https://github.com/Bioconductor/ISMB.OSCA) | [website](https://bioconductor.github.io/ISMB.OSCA/)
 
 ### Variant analysis
 
@@ -420,6 +429,9 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Spatial transcriptomics
 
 - [**Davis Laboratory** DavisLaboratory/GeoMXAnalysisWorkflow](https://github.com/DavisLaboratory/GeoMXAnalysisWorkflow) | [website](https://davislaboratory.github.io/GeoMXAnalysisWorkflow/)
+- [**dario righelli** drighelli/SpatialExperiment_Bioc2021](https://github.com/drighelli/SpatialExperiment_Bioc2021)
+- [**Integrative Computational Biology and Multiomics Research Group** ncl-icbam/ismb-tutorial-2023](https://github.com/ncl-icbam/ismb-tutorial-2023)
+- [**Sydney Precision Data Science Centre** SydneyBioX/StatialBioc2023](https://github.com/SydneyBioX/StatialBioc2023) | [website](https://SydneyBioX.github.io/StatialBioc2023/)
 
 ### Long read sequencing
 
@@ -448,6 +460,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**elixir-oslo** ELIXIR-Norway-Training/fair-dm-lifesci-june-2022](https://github.com/elixir-oslo/fair-dm-lifesci-june-2022)
 - [**FAIRplus** FAIRplus/the-fair-cookbook](https://github.com/FAIRplus/the-fair-cookbook) | [website](https://faircookbook.elixir-europe.org)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-repository-submission-dm-practices](https://github.com/NBISweden/module-repository-submission-dm-practices)
+- [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-TrP-FAIR-training-handbook](https://github.com/elixir-europe-training/ELIXIR-TrP-FAIR-training-handbook) | [website](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/)
+- [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-TrP-FAIR-Converge](https://github.com/elixir-europe-training/ELIXIR-TrP-FAIR-Converge) | [website](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Converge/)
 
 ### Reproducibility
 
