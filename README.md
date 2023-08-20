@@ -221,7 +221,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**genomicsclass** genomicsclass/book](https://github.com/genomicsclass/book) | [website](http://genomicsclass.github.io/book/)
 - [**Kristyna Kupkova** kkupkova/GenomicDistributionsBioC2022](https://github.com/kkupkova/GenomicDistributions_BioC2022)
 - [**Workflow Languages in R** rworkflow/RcwlWorkshop](https://github.com/rworkflow/RcwlWorkshop) | [website](http://rcwl.org/RcwlWorkshop/)
-- [**tidybiology** tidybiology/tidyomicsWorkshopBioc2023](https://github.com/tidybiology/tidyomicsWorkshopBioc2023) | [website](https://tidybiology.github.io/tidyomicsWorkshopBioc2023)
+- [**tidybiology** tidyomics/tidyomicsWorkshopBioc2023](https://github.com/tidybiology/tidyomicsWorkshopBioc2023) | [website](https://tidybiology.github.io/tidyomicsWorkshopBioc2023)
+- [**Surgical Informatics** SurgicalInformatics/healthyr_book](https://github.com/SurgicalInformatics/healthyr_book/tree/master) | [website](https://argoshare.is.ed.ac.uk/healthyr_book/)
 
 ### Quarto
 
