@@ -142,7 +142,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Davis Laboratory** DavisLaboratory/GenesetAnalysisWorkflow](https://github.com/DavisLaboratory/GenesetAnalysisWorkflow) | [website](https://davislaboratory.github.io/GenesetAnalysisWorkflow/)
 - [**David Robinson** dgrtwo/tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining) | [website](http://tidytextmining.com)
 - [**Danielle Navarro** djnavarro/rbook](https://github.com/djnavarro/rbook) | [website](https://learningstatisticswithr.com)
-- [**DukeStatSci** DukeStatSci/introds](https://github.com/DukeStatSci/introds) | [website](https://introds-duke.netlify.app)
+- [**Duke Department of Statistical Science** DukeStatSci/introds](https://github.com/DukeStatSci/introds) | [website](https://introds-duke.netlify.app)
 - [**Hadley Wickham** hadley/adv-r](https://github.com/hadley/adv-r) | [website](http://adv-r.hadley.nz)
 - [**Hadley Wickham** hadley/r4ds](https://github.com/hadley/r4ds) | [website](http://r4ds.hadley.nz)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-R-flipped](https://github.com/hbctraining/Intro-to-R-flipped) | [website](https://hbctraining.github.io/Intro-to-R-flipped/)
@@ -212,7 +212,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Data Carpentry** datacarpentry/rr-automation](https://github.com/datacarpentry/rr-automation) | [website](http://www.datacarpentry.org/rr-automation/)
 - [**Data Carpentry** datacarpentry/rr-literate-programming](https://github.com/datacarpentry/rr-literate-programming)
 - [**RStudio Education** rstudio-education/stat545](https://github.com/rstudio-education/stat545) | [website](https://stat545.com)
-- [**nullranges** tidyomics/tidy-ranges-tutorial](https://github.com/nullranges/tidy-ranges-tutorial) | [website](https://tidybiology.github.io/tidy-ranges-tutorial)
+- [**nullranges** tidyomics/tidy-ranges-tutorial](https://github.com/nullranges/tidy-ranges-tutorial) | [website](https://tidyomics.github.io/tidy-ranges-tutorial/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-epigenomics-RTDs](https://github.com/NBISweden/workshop-epigenomics-RTDs/) | [website](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/)
 - [**Library Data Services** UNC-Libraries-data/R-Open-Labs](https://github.com/UNC-Libraries-data/R-Open-Labs)
 - [**Greg Wilson** gvwilson/tidynomicon](https://github.com/gvwilson/tidynomicon) | [website](http://tidynomicon.github.io/tidynomicon)
@@ -221,7 +221,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**genomicsclass** genomicsclass/book](https://github.com/genomicsclass/book) | [website](http://genomicsclass.github.io/book/)
 - [**Kristyna Kupkova** kkupkova/GenomicDistributionsBioC2022](https://github.com/kkupkova/GenomicDistributions_BioC2022)
 - [**Workflow Languages in R** rworkflow/RcwlWorkshop](https://github.com/rworkflow/RcwlWorkshop) | [website](http://rcwl.org/RcwlWorkshop/)
-- [**tidybiology** tidyomics/tidyomicsWorkshopBioc2023](https://github.com/tidybiology/tidyomicsWorkshopBioc2023) | [website](https://tidybiology.github.io/tidyomicsWorkshopBioc2023)
+- [**tidybiology** tidyomics/tidyomicsWorkshopBioc2023](https://github.com/tidybiology/tidyomicsWorkshopBioc2023) | [website](https://tidyomics.github.io/tidyomicsWorkshopBioc2023)
 - [**Surgical Informatics** SurgicalInformatics/healthyr_book](https://github.com/SurgicalInformatics/healthyr_book/tree/master) | [website](https://argoshare.is.ed.ac.uk/healthyr_book/)
 
 ### Quarto
