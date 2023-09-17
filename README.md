@@ -74,6 +74,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Gerard Capes** gcapes/git-course](https://github.com/gcapes/git-course) | [website](http://gcapes.github.io/git-course/)
 - [**carpentries-incubator** carpentries-incubator/gitlab-novice](https://github.com/carpentries-incubator/gitlab-novice) | [website](https://carpentries-incubator.github.io/gitlab-novice/)
 - [**Data Carpentry** datacarpentry/rr-version-control](https://github.com/datacarpentry/rr-version-control) | [website](http://www.datacarpentry.org/rr-version-control/)
+- [**VIB Technologies: Bioinformatics and software projects** vibbits/introduction-github](https://github.com/vibbits/introduction-github)
 
 ### Unix/Linux
 
@@ -146,7 +147,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Hadley Wickham** hadley/adv-r](https://github.com/hadley/adv-r) | [website](http://adv-r.hadley.nz)
 - [**Hadley Wickham** hadley/r4ds](https://github.com/hadley/r4ds) | [website](http://r4ds.hadley.nz)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-R-flipped](https://github.com/hbctraining/Intro-to-R-flipped) | [website](https://hbctraining.github.io/Intro-to-R-flipped/)
-- [**ICS 80 - Introduction to Data Science** ics80-fa21/website](https://github.com/ics80-fa21/website) | [website](https://introdata.science)
+- [**ICS 80 - Introduction to Data Science** ics80-fa21/website](https://github.com/ics80-fa21/website) | [website](https://ics80-fa21.github.io/website/)
 - [**Introduction to Data Science - 2020 - Semester 1** ids-s1-20/website](https://github.com/ids-s1-20/website) | [website](https://introds.org)
 - [**Jennifer (Jenny) Bryan** jennybc/purrr-tutorial](https://github.com/jennybc/purrr-tutorial) | [website](https://jennybc.github.io/purrr-tutorial/)
 - [**James W. MacDonald** jmacdon/Bioc2020Anno](https://github.com/jmacdon/Bioc2020Anno)
@@ -384,6 +385,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**OSCA Source Code Management** OSCA-source/OSCA](https://github.com/OSCA-source/OSCA) | [website](https://bioconductor.org/checkResults/devel/books-LATEST/OSCA)
 - [**carpentries-incubator** carpentries-incubator/scrna-seq-analysis](https://github.com/carpentries-incubator/scrna-seq-analysis) | [website](https://carpentries-incubator.github.io/scrna-seq-analysis/)
 - [**Bioconductor** Bioconductor/ISMB.OSCA](https://github.com/Bioconductor/ISMB.OSCA) | [website](https://bioconductor.github.io/ISMB.OSCA/)
+- [**Theis Lab** theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices) | [website](https://www.sc-best-practices.org)
 
 ### Variant analysis
 
@@ -470,8 +472,9 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-reproducible-research](https://github.com/NBISweden/workshop-reproducible-research)
 - [**carpentries-incubator** carpentries-incubator/managing-computational-projects](https://github.com/carpentries-incubator/managing-computational-projects) | [website](https://carpentries-incubator.github.io/managing-computational-projects)
 - [**carpentries-incubator** carpentries-incubator/jekyll-pages-novice](https://github.com/carpentries-incubator/jekyll-pages-novice) | [website](https://carpentries-incubator.github.io/jekyll-pages-novice/)
-- [**carpentries-incubator** carpentries-incubator/good-enough-practices](https://github.com/carpentries-incubator/good-enough-practices) | [website](https://carpentries-incubator.github.io/good-enough-practices)
+- [**carpentries-incubator** carpentries-lab/good-enough-practices](https://github.com/carpentries-incubator/good-enough-practices) | [website](https://carpentries-lab.github.io/good-enough-practices/)
 - [**Data Carpentry** datacarpentry/rr-organization1](https://github.com/datacarpentry/rr-organization1) | [website](http://www.datacarpentry.org/rr-organization1/)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/reproducible-analysis-training](https://github.com/sib-swiss/reproducible-analysis-training) | [website](https://sib-swiss.github.io/reproducible-analysis-training/)
 
 ## Statistics and machine learning
 
