@@ -30,6 +30,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [GNU Make](#gnu-make)
   - [MATLAB/Octave](#matlab/octave)
   - [SQL](#sql)
+  - [C](#c)
 - [Computational methods and pipelines](#computational-methods-and-pipelines)
   - [Containerization](#containerization)
   - [Galaxy](#galaxy)
@@ -122,6 +123,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**João Ventura** joaoventura/full-speed-python](https://github.com/joaoventura/full-speed-python)
 - [**Sebastian Raschka** rasbt/python_reference](https://github.com/rasbt/python_reference)
 - [**Jeffrey Hu** zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
+- [**LiaBooks ... by LiaScript** LiaBooks/How-To-Code-in-Python-3](https://github.com/LiaBooks/How-To-Code-in-Python-3) | [website](https://liascript.github.io/course/)
+- [**LiaPlayground** LiaPlayground/PythonProgramming](https://github.com/LiaPlayground/PythonProgramming)
 
 ### R
 
@@ -256,6 +259,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### GNU Make
 
 - [**Software Carpentry** swcarpentry/make-novice](https://github.com/swcarpentry/make-novice) | [website](http://swcarpentry.github.io/make-novice)
+- [**Chase Lambert** theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) | [website](http://makefiletutorial.com)
 
 ### MATLAB/Octave
 
@@ -264,6 +268,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### SQL
 
 - [**Data Carpentry** datacarpentry/sql-ecology-lesson](https://github.com/datacarpentry/sql-ecology-lesson) | [website](http://datacarpentry.github.io/sql-ecology-lesson)
+
+### C
+
+- [**LiaBooks ... by LiaScript** LiaBooks/C-Programming](https://github.com/LiaBooks/C-Programming) | [website](https://liascript.github.io/course/)
 
 ## Computational methods and pipelines
 
@@ -503,6 +511,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Richard McElreath** rmcelreath/stat_rethinking_2023](https://github.com/rmcelreath/stat_rethinking_2023)
 - [**David Dalpiaz** daviddalpiaz/appliedstats](https://github.com/daviddalpiaz/appliedstats) | [website](https://book.stat420.org)
 - [**cambiotraining** cambiotraining/corestats](https://github.com/cambiotraining/corestats) | [website](https://cambiotraining.github.io/corestats/)
+- [**David Dalpiaz** daviddalpiaz/r4sl](https://github.com/daviddalpiaz/r4sl) | [website](https://daviddalpiaz.github.io/r4sl/)
 
 ### Machine learning
 
@@ -545,3 +554,4 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Alex's Lemonade Stand Foundation** AlexsLemonade/training-modules](https://github.com/alexslemonade/training-modules)
 - [**Andrea Telatin** telatin/microbiome-bioinformatics](https://github.com/telatin/microbiome-bioinformatics/) | [website](https://telatin.github.io/microbiome-bioinformatics)
 - [**Ronan Harrington** rnnh/bioinfo-notebook](https://github.com/rnnh/bioinfo-notebook) | [website](https://rnnh.github.io/bioinfo-notebook/)
+- [**Women In Bioinformatics and Data Science Latin America** WomenBioinfoDataScLA/Workshops](https://github.com/WomenBioinfoDataScLA/Workshops)
