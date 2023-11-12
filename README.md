@@ -24,6 +24,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Python](#python)
   - [R](#r)
   - [Quarto](#quarto)
+  - [Shiny](#shiny)
   - [Julia](#julia)
   - [Data visualization](#data-visualization)
   - [Java](#java)
@@ -46,6 +47,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Single-cell sequencing](#single-cell-sequencing)
   - [Variant analysis](#variant-analysis)
   - [ChIP-seq](#chip-seq)
+  - [Comparative genomics](#comparative-genomics)
   - [Epigenetics](#epigenetics)
   - [Genome annotation](#genome-annotation)
   - [Genome assembly](#genome-assembly)
@@ -54,7 +56,9 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Multiomics](#multiomics)
   - [Spatial transcriptomics](#spatial-transcriptomics)
   - [Long read sequencing](#long-read-sequencing)
+  - [Metabolomics](#metabolomics)
   - [Proteomics](#proteomics)
+  - [Pathways and Networks](#pathways-and-networks)
 - [Reproducibility and data management](#reproducibility-and-data-management)
   - [Data management](#data-management)
   - [FAIR data](#fair-data)
@@ -79,6 +83,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Data Carpentry** datacarpentry/rr-version-control](https://github.com/datacarpentry/rr-version-control) | [website](http://www.datacarpentry.org/rr-version-control/)
 - [**VIB Technologies: Bioinformatics and software projects** vibbits/introduction-github](https://github.com/vibbits/introduction-github)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-versioning-dm-practices](https://github.com/NBISweden/module-versioning-dm-practices/) | [website](https://nbisweden.github.io/module-versioning-dm-practices/)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-versioning-dm-practices](https://github.com/nbisweden/module-versioning-dm-practices) | [website](https://nbisweden.github.io/module-versioning-dm-practices/)
+- [**Sergio Martínez Cuesta** semacu/20190927_IntroductionGithub_HDRUK](https://github.com/semacu/20190927_IntroductionGithub_HDRUK)
+- [**Sergio Martínez Cuesta** semacu/20181003_Intro_git_GitHub](https://github.com/semacu/20181003_Intro_git_GitHub)
+- [**Sergio Martínez Cuesta** semacu/20171024_GitHub_Chemistry_Cambridge](https://github.com/semacu/20171024_GitHub_Chemistry_Cambridge)
 
 ### Unix/Linux
 
@@ -96,6 +104,9 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/shell-extras](https://github.com/carpentries-incubator/shell-extras) | [website](http://carpentries-incubator.github.io/shell-extras/)
 - [**The Carpentries Lab** carpentries-lab/metagenomics-shell](https://github.com/carpentries-lab/metagenomics-shell) | [website](https://carpentries-lab.github.io/metagenomics-shell/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2023-September-Introduction-to-the-Command-Line-for-Bioinformatics](https://github.com/ucdavis-bioinformatics-training/2023-September-Introduction-to-the-Command-Line-for-Bioinformatics)
+- [**Cloud-SPAN** Cloud-SPAN/prenomics00-intro](https://github.com/cloud-span/prenomics00-intro) | [website](https://cloud-span.github.io/prenomics00-intro/)
+- [**Sergio Martínez Cuesta** semacu/20180726_TrainMalta_Unix_R](https://github.com/semacu/20180726_TrainMalta_Unix_R)
+- [**Bobby Iliev** bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | [website](https://ebook.bobby.sh)
 
 ### Python
 
@@ -132,6 +143,18 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Valentin Danchev** valdanchev/reproducible-data-science-python](https://github.com/valdanchev/reproducible-data-science-python)
 - [**Girls Who Code at U-M DCMB** GWC-DCMB/GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | [website](http://umich.edu/~girlswc/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2023-July-Introduction-To-Python-For-Bioinformatics](https://github.com/ucdavis-bioinformatics-training/2023-July-Introduction-To-Python-For-Bioinformatics)
+- [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PPB18](https://github.com/gtpb/PPB18) | [website](https://gtpb.github.io/PPB18/)
+- [**Swaroop CH** swaroopch/byte-of-python](https://github.com/swaroopch/byte-of-python) | [website](https://python.swaroopch.com)
+- [**S.Lott** slott56/building-skills-oo-design-book](https://github.com/slott56/building-skills-oo-design-book) | [website](https://slott56.github.io/building-skills-oo-design-book/build/html/index.html)
+- [**Real Python** realpython/python-guide](https://github.com/realpython/python-guide) | [website](https://docs.python-guide.org)
+- [**OpenTechSchool** OpenTechSchool/python-beginners](https://github.com/OpenTechSchool/python-beginners) | [website](http://opentechschool.github.io/python-beginners/)
+- [**Ankit Mahato** animator/learn-python](https://github.com/animator/learn-python) | [website](https://animator.github.io/learn-python/)
+- [**Sundeep Agarwal** learnbyexample/practice_python_projects](https://github.com/learnbyexample/practice_python_projects) | [website](https://learnbyexample.github.io/practice_python_projects/)
+- [**SoftUni** SoftUni/Programming-Basics-Book-Python-EN](https://github.com/SoftUni/Programming-Basics-Book-Python-EN) | [website](https://python-book.softuni.org)
+- [**Akuli** Akuli/python-tutorial](https://github.com/Akuli/python-tutorial)
+- [**Charles Severance** csev/py4e](https://github.com/csev/py4e) | [website](http://www.py4e.com)
+- [**Kushal Das** kushaldas/pym](https://github.com/kushaldas/pym)
+- [**Greg Malcolm** gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans)
 
 ### R
 
@@ -242,11 +265,29 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bioinformatics.ca** bioinformaticsdotca/AUR_2023](https://github.com/bioinformaticsdotca/AUR_2023)
 - [**Computational Biology and Bioinformatics at UCLouvain** UCLouvain-CBIO/WSBIM1207](https://github.com/UCLouvain-CBIO/WSBIM1207) | [website](https://UCLouvain-CBIO.github.io/WSBIM1207/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2023-June-Introduction-to-R-for-Bioinformatics](https://github.com/ucdavis-bioinformatics-training/2023-June-Introduction-to-R-for-Bioinformatics)
+- [**Institut Français de Bioinformatique (IFB)** IFB-ElixirFr/IFB_Shiny_training](https://github.com/IFB-ElixirFr/IFB_Shiny_training) | [website](https://ifb-elixirfr.github.io/IFB_Shiny_training/)
+- [**bioinformatics.ca** bioinformaticsdotca/INR_2023](https://github.com/bioinformaticsdotca/INR_2023)
+- [**ELIXIR Estonia** ELIXIREstonia/2023-10-24-R-basic](https://github.com/ELIXIREstonia/2023-10-24-R-basic)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-rstudio-intro-dm-practices](https://github.com/nbisweden/module-rstudio-intro-dm-practices) | [website](https://nbisweden.github.io/module-rstudio-intro-dm-practices/)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-r-intro-dm-practices](https://github.com/nbisweden/module-r-intro-dm-practices) | [website](https://nbisweden.github.io/module-r-intro-dm-practices/)
+- [**The Gulbenkian Training Programme in Bioinformatics** GTPB/ABSTAT18](https://github.com/gtpb/ABSTAT18) | [website](https://gtpb.github.io/ABSTAT18/)
+- [**Hugo Tavares** tavareshugo/2018-06-28-cambridge](https://github.com/tavareshugo/2018-06-28-cambridge) | [website](https://tavareshugo.github.io/2018-06-28-cambridge/)
+- [**Sergio Martínez Cuesta** semacu/20180531_DataVisualisationRggplot2_Wolfson_Cambridge](https://github.com/semacu/20180531_DataVisualisationRggplot2_Wolfson_Cambridge)
+- [**Data Carpentry** datacarpentry/ecology-workshop](https://github.com/datacarpentry/ecology-workshop) | [website](http://www.datacarpentry.org/ecology-workshop/)
+- [**Jacques van Helden** jvanheld/stats_avec_RStudio_EBA](https://github.com/jvanheld/stats_avec_RStudio_EBA) | [website](http://jvanheld.github.io/stats_avec_RStudio_EBA/)
+- [**proback** proback/BeyondMLR](https://github.com/proback/BeyondMLR)
+- [**Data Challenge Lab Open Content** dcl-docs/prog](https://github.com/dcl-docs/prog) | [website](https://dcl-prog.stanford.edu)
+- [**G. Jay Kerns** gjkerns/IPSUR](https://github.com/gjkerns/IPSUR) | [website](http://ipsur.org)
+- [**Roger D. Peng** rdpeng/rprogdatascience](https://github.com/rdpeng/rprogdatascience)
 
 ### Quarto
 
 - [**UCSB-MEDS** UCSB-MEDS/customizing-quarto-websites](https://github.com/UCSB-MEDS/customizing-quarto-websites) | [website](https://ucsb-meds.github.io/customizing-quarto-websites/)
 - [**UCSB-MEDS** UCSB-MEDS/creating-quarto-websites](https://github.com/UCSB-MEDS/creating-quarto-websites) | [website](https://ucsb-meds.github.io/creating-quarto-websites/)
+
+### Shiny
+
+- [**Martin J Frigaard** mjfrigaard/shinyap](https://github.com/mjfrigaard/shinyap) | [website](https://mjfrigaard.github.io/shinyap/)
 
 ### Julia
 
@@ -258,6 +299,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**JuliaAcademy** JuliaAcademy/DataFrames](https://github.com/JuliaAcademy/DataFrames)
 - [**JuliaAcademy** JuliaAcademy/Foundations-of-Machine-Learning](https://github.com/JuliaAcademy/Foundations-of-Machine-Learning) | [website](https://juliaacademy.com/p/introduction-to-machine-learning)
 - [**carpentries-incubator** carpentries-incubator/julia-novice](https://github.com/carpentries-incubator/julia-novice) | [website](https://carpentries-incubator.github.io/julia-novice)
+- [**Antonello Lobianco** sylvaticus/SPMLJ](https://github.com/sylvaticus/SPMLJ) | [website](https://sylvaticus.github.io/SPMLJ/stable)
+- [**Ben Lauwens** BenLauwens/ThinkJulia.jl](https://github.com/BenLauwens/ThinkJulia.jl)
 
 ### Data visualization
 
@@ -283,6 +326,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### SQL
 
 - [**Data Carpentry** datacarpentry/sql-ecology-lesson](https://github.com/datacarpentry/sql-ecology-lesson) | [website](http://datacarpentry.github.io/sql-ecology-lesson)
+- [**Department of Bioinformatics - BiGCaT** BiGCAT-UM/SPARQLTutorialBioSB2019](https://github.com/bigcat-um/SPARQLTutorialBioSB2019)
 
 ### C/C++
 
@@ -297,10 +341,12 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/docker-introduction](https://github.com/carpentries-incubator/docker-introduction) | [website](https://carpentries-incubator.github.io/docker-introduction/)
 - [**carpentries-incubator** carpentries-incubator/singularity-introduction](https://github.com/carpentries-incubator/singularity-introduction) | [website](https://carpentries-incubator.github.io/singularity-introduction)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/containers-introduction-training](https://github.com/sib-swiss/containers-introduction-training) | [website](https://sib-swiss.github.io/containers-introduction-training/)
+- [**PerMedCoE** PerMedCoE/mpi-in-container](https://github.com/permedcoe/mpi-in-container)
 
 ### Galaxy
 
 - [**Galaxy Project** galaxyproject/training-material](https://github.com/galaxyproject/training-material) | [website](https://training.galaxyproject.org)
+- [**Erasmus Medical Center** ErasmusMC-Bioinformatics/galaxy-courses](https://github.com/ErasmusMC-Bioinformatics/galaxy-courses)
 
 ### High performance computing
 
@@ -308,6 +354,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**ngs-docs** ngs-docs/2021-august-remote-computing](https://github.com/ngs-docs/2021-august-remote-computing) | [website](https://ngs-docs.github.io/2021-august-remote-computing)
 - [**cambiotraining** cambiotraining/hpc-intro](https://github.com/cambiotraining/hpc-intro) | [website](https://cambiotraining.github.io/hpc-intro/)
 - [**carpentries-incubator** carpentries-incubator/lesson-gpu-programming](https://github.com/carpentries-incubator/lesson-gpu-programming) | [website](https://carpentries-incubator.github.io/lesson-gpu-programming/)
+- [**PerMedCoE** PerMedCoE/cluster-tutorial](https://github.com/permedcoe/cluster-tutorial)
 
 ### Workflows
 
@@ -324,6 +371,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Seqera** nextflow-io/training](https://github.com/seqeralabs/nf-training-public) | [website](https://training.nextflow.io)
 - [**VIB Technologies: Bioinformatics and software projects** vibbits/nextflow-workshop](https://github.com/vibbits/nextflow-workshop)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/containers-snakemake-training](https://github.com/sib-swiss/containers-snakemake-training) | [website](https://sib-swiss.github.io/containers-snakemake-training/)
+- [**carpentries-incubator** carpentries-incubator/cwl-novice-tutorial](https://github.com/carpentries-incubator/cwl-novice-tutorial) | [website](https://carpentries-incubator.github.io/cwl-novice-tutorial/)
+- [**Romain Feron** RomainFeron/workshop-snakemake-sibdays2022](https://github.com/RomainFeron/workshop-snakemake-sibdays2022)
 
 ### Image analysis
 
@@ -333,11 +382,13 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/SDC-BIDS-sMRI](https://github.com/carpentries-incubator/SDC-BIDS-sMRI) | [website](https://carpentries-incubator.github.io/SDC-BIDS-sMRI/)
 - [**carpentries-incubator** carpentries-incubator/SDC-BIDS-dMRI](https://github.com/carpentries-incubator/SDC-BIDS-dMRI) | [website](https://carpentries-incubator.github.io/SDC-BIDS-dMRI/)
 - [**Data Carpentry** datacarpentry/image-processing](https://github.com/datacarpentry/image-processing) | [website](https://datacarpentry.org/image-processing)
+- [**Dominic Waithe** dwaithe/model-training](https://github.com/dwaithe/model-training)
 
 ### Cloud computing
 
 - [**Data Carpentry** datacarpentry/cloud-genomics](https://github.com/datacarpentry/cloud-genomics) | [website](https://datacarpentry.org/cloud-genomics/)
 - [**AWS Samples** aws-samples/aws-hpc-tutorials](https://github.com/aws-samples/aws-hpc-tutorials) | [website](https://hpcworkshops.com)
+- [**Eija Korpelainen** ekorpela/cloud-vm-workshop](https://github.com/ekorpela/cloud-vm-workshop/tree/master/materials)
 
 ## Omics analysis
 
@@ -354,6 +405,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**cambiotraining** cambiotraining/sars-cov-2-genomics](https://github.com/cambiotraining/sars-cov-2-genomics) | [website](http://cambiotraining.github.io/sars-cov-2-genomics/)
 - [**Data Carpentry** datacarpentry/genomics-workshop](https://github.com/datacarpentry/genomics-workshop) | [website](https://datacarpentry.org/genomics-workshop)
 - [**Data Carpentry** datacarpentry/organization-genomics](https://github.com/datacarpentry/organization-genomics) | [website](https://datacarpentry.org/organization-genomics)
+- [**The Gulbenkian Training Programme in Bioinformatics** GTPB/ELB19F](https://github.com/gtpb/ELB19F) | [website](https://gtpb.github.io/ELB19F/)
 
 ### Next generation sequencing
 
@@ -366,11 +418,11 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**The Griffith Lab** griffithlab/pmbio.org](https://github.com/griffithlab/pmbio.org) | [website](http://pmbio.org)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-ngsintro](https://github.com/NBISweden/workshop-ngsintro) | [website](https://NBISweden.github.io/workshop-ngsintro)
 - [**Institut Français de Bioinformatique (IFB)** IFB-ElixirFr/EBAII](https://github.com/IFB-ElixirFr/EBAII) | [website](https://ifb-elixirfr.github.io/EBAII/)
+- [**Cloud-SPAN** Cloud-SPAN/00genomics](https://github.com/cloud-span/00genomics) | [website](https://cloud-span.github.io/00genomics/)
 
 ### Transcriptomics
 
 - [**Biocore@CRG** biocorecrg/RNAseq_course_2019](https://github.com/biocorecrg/RNAseq_course_2019) | [website](https://biocorecrg.github.io/RNAseq_course_2019/)
-- [**Canadian Bioinformatics Workshops** bioinformatics-ca/PNA_2021](https://github.com/bioinformatics-ca/PNA_2021)
 - [**Canadian Bioinformatics Workshops** bioinformatics-ca/RNA_2021](https://github.com/bioinformatics-ca/RNA_2021)
 - [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21) | [website](https://bioinformatics-core-shared-training.github.io/Bulk_RNASeq_Course_Nov21/)
 - [**carpentries-incubator** carpentries-incubator/bioc-rnaseq](https://github.com/carpentries-incubator/bioc-rnaseq) | [website](https://carpentries-incubator.github.io/bioc-rnaseq)
@@ -385,6 +437,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-RNAseq](https://github.com/NBISweden/workshop-RNAseq) | [website](https://NBISweden.github.io/workshop-RNAseq)
 - [**Health Data Science Sandbox** hds-sandbox/bulk_RNAseq_course](https://github.com/hds-sandbox/bulk_RNAseq_course) | [website](https://hds-sandbox.github.io/bulk_RNAseq_course/)
 - [**Computational Biology and Bioinformatics at UCLouvain** UCLouvain-CBIO/WSBIM2122](https://github.com/UCLouvain-CBIO/WSBIM2122) | [website](https://uclouvain-cbio.github.io/WSBIM2122/)
+- [**Saez Lab** saezlab/transcriptutorial](https://github.com/saezlab/transcriptutorial) | [website](https://saezlab.github.io/transcriptutorial/)
+- [**The Gulbenkian Training Programme in Bioinformatics** GTPB/ADER19F](https://github.com/gtpb/ADER19F) | [website](http://gtpb.github.io/ADER19F)
 
 ### RNA-seq
 
@@ -393,6 +447,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/RNA-seq-CB321qc_2022](https://github.com/hbctraining/RNA-seq-CB321qc_2022)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/rnaseq_overview](https://github.com/hbctraining/rnaseq_overview)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2023-June-RNA-Seq-Analysis](https://github.com/ucdavis-bioinformatics-training/2023-June-RNA-Seq-Analysis)
+- [**bioinformatics.ca** bioinformaticsdotca/RNA_2023](https://github.com/bioinformaticsdotca/RNA_2023)
+- [**bioinformatics.ca** bioinformaticsdotca/PNA_2023](https://github.com/bioinformaticsdotca/PNA_2023)
 
 ### Single-cell sequencing
 
@@ -423,6 +479,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2020-Advanced_Single_Cell_RNA_Seq](https://github.com/ucdavis-bioinformatics-training/2020-Advanced_Single_Cell_RNA_Seq)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2022-July-Advanced-Topics-in-Single-Cell-RNA-Seq-ATAC](https://github.com/ucdavis-bioinformatics-training/2022-July-Advanced-Topics-in-Single-Cell-RNA-Seq-ATAC)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2021-August-Advanced-Topics-in-Single-Cell-RNA-Seq-Trajectory-and-Velocity](https://github.com/ucdavis-bioinformatics-training/2021-August-Advanced-Topics-in-Single-Cell-RNA-Seq-Trajectory-and-Velocity)
+- [**bioinformatics.ca** bioinformaticsdotca/scRNA_2023](https://github.com/bioinformaticsdotca/scRNA_2023)
 
 ### Variant analysis
 
@@ -439,6 +496,12 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**hukai916** hukai916/IntegratedChIPseqWorkshop](https://github.com/hukai916/IntegratedChIPseqWorkshop)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-ChIPseq-flipped](https://github.com/hbctraining/Intro-to-ChIPseq-flipped) | [website](https://hbctraining.github.io/Intro-to-ChIPseq-flipped/)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Peak_analysis_workshop](https://github.com/hbctraining/Peak_analysis_workshop)
+- [**Denis Puthier** dputhier/EBA_2015_ChIP-Seq](https://github.com/dputhier/EBA_2015_ChIP-Seq)
+
+### Comparative genomics
+
+- [**Steven M. Van Belleghem** StevenVB12/stevenvb12.github.io](https://github.com/StevenVB12/stevenvb12.github.io)
+- [**The Gulbenkian Training Programme in Bioinformatics** GTPB/CPANG19](https://github.com/gtpb/CPANG19) | [website](https://gtpb.github.io/CPANG19/)
 
 ### Epigenetics
 
@@ -464,12 +527,15 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**The Carpentries Lab** carpentries-lab/metagenomics-analysis](https://github.com/carpentries-lab/metagenomics-analysis) | [website](https://carpentries-lab.github.io/metagenomics-analysis/)
 - [**The Carpentries Lab** carpentries-lab/metagenomics-R](https://github.com/carpentries-lab/metagenomics-R) | [website](https://carpentries-lab.github.io/metagenomics-R/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2021-May-Microbial-Community-Analysis](https://github.com/ucdavis-bioinformatics-training/2021-May-Microbial-Community-Analysis)
+- [**bioinformatics.ca** bioinformaticsdotca/MIC_2023](https://github.com/bioinformaticsdotca/MIC_2023)
+- [**bioinformatics.ca** bioinformaticsdotca/MIC_2022](https://github.com/bioinformaticsdotca/MIC_2022)
 
 ### Epidemiology
 
 - [**Canadian Bioinformatics Workshops** bioinformatics-ca/EPI_2021](https://github.com/bioinformatics-ca/EPI_2021)
 - [**Canadian Bioinformatics Workshops** bioinformatics-ca/IDE_2021](https://github.com/bioinformatics-ca/IDE_2021)
 - [**Chloe Mirzayi** cmirzayi/EpiForBioWorkshop2020](https://github.com/cmirzayi/EpiForBioWorkshop2020) | [website](https://cmirzayi.github.io/EpiForBioWorkshop2020/)
+- [**bioinformatics.ca** bioinformaticsdotca/IDE_2023](https://github.com/bioinformaticsdotca/IDE_2023)
 
 ### Multiomics
 
@@ -486,12 +552,27 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 ### Long read sequencing
 
-- [**SIB Swiss Institute of Bioinformatics** sib-swiss/NGS-longreads-training](https://github.com/sib-swiss/NGS-longreads-training/) | [website](https://sib-swiss.github.io/NGS-longreads-training/)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/NGS-longreads-training](https://github.com/sib-swiss/NGS-longreads-training) | [website](https://sib-swiss.github.io/NGS-longreads-training/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2021-August-Iso-Seq](https://github.com/ucdavis-bioinformatics-training/2021-August-Iso-Seq)
+
+### Metabolomics
+
+- [**bioinformatics.ca** bioinformaticsdotca/MET_2023](https://github.com/bioinformaticsdotca/MET_2023)
 
 ### Proteomics
 
 - [**Computational Biology and Bioinformatics at UCLouvain** UCLouvain-CBIO/LSTAT2340](https://github.com/UCLouvain-CBIO/LSTAT2340) | [website](https://uclouvain-cbio.github.io/LSTAT2340/)
+- [**Health Data Science Sandbox** hds-sandbox/proteomics-sandbox](https://github.com/hds-sandbox/proteomics-sandbox) | [website](https://hds-sandbox.github.io/proteomics-sandbox/index.html)
+- [**statOmics** statOmics/PDA](https://github.com/statomics/PDA)
+- [**The Gulbenkian Training Programme in Bioinformatics** GTPB/IBIP19](https://github.com/gtpb/IBIP19) | [website](https://gtpb.github.io/IBIP19/)
+- [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PDA19](https://github.com/gtpb/PDA19) | [website](https://gtpb.github.io/PDA19/)
+
+### Pathways and Networks
+
+- [**Canadian Bioinformatics Workshops** bioinformatics-ca/PNA_2021](https://github.com/bioinformatics-ca/PNA_2021)
+- [**Susan** Coort/tutorial-network-data](https://gitlab.com/Coort/tutorial-network-data)
+- [**LaurenDupuis** LaurenDupuis/EJP-RD_Helis_Academy](https://github.com/laurendupuis/EJP-RD_Helis_Academy)
+- [**LaurenDupuis** LaurenDupuis/EJP-RD_Helis_Academy](https://github.com/laurendupuis/EJP-RD_Helis_Academy)
 
 ## Reproducibility and data management
 
@@ -513,6 +594,14 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-metadata-dm-practices](https://github.com/NBISweden/module-metadata-dm-practices/) | [website](https://nbisweden.github.io/module-metadata-dm-practices/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-organising-data-dm-practices](https://github.com/NBISweden/module-organising-data-dm-practices/) | [website](https://nbisweden.github.io/module-organising-data-dm-practices/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-open-science-dm-practices](https://github.com/NBISweden/module-open-science-dm-practices/) | [website](https://nbisweden.github.io/module-open-science-dm-practices/index.html)
+- [**Health Data Science Sandbox** hds-sandbox/RDM_NGS_course](https://github.com/hds-sandbox/RDM_NGS_course) | [website](https://hds-sandbox.github.io/RDM_NGS_course/)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/Introduction-FAIR-RDM-DMP](https://github.com/sib-swiss/Introduction-FAIR-RDM-DMP) | [website](https://sib-swiss.github.io/Introduction-FAIR-RDM-DMP/)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-dmp-dm-practices](https://github.com/nbisweden/module-dmp-dm-practices) | [website](https://nbisweden.github.io/module-dmp-dm-practices/)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-openrefine-dm-practices](https://github.com/nbisweden/module-openrefine-dm-practices) | [website](https://nbisweden.github.io/module-openrefine-dm-practices/)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-data-publication-dm-practices](https://github.com/nbisweden/module-data-publication-dm-practices) | [website](https://nbisweden.github.io/module-data-publication-dm-practices/)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-metadata-dm-practices](https://github.com/nbisweden/module-metadata-dm-practices) | [website](https://nbisweden.github.io/module-metadata-dm-practices/)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-organising-data-dm-practices](https://github.com/nbisweden/module-organising-data-dm-practices) | [website](https://nbisweden.github.io/module-organising-data-dm-practices/)
+- [**BioData.pt** BioData-PT/Ready4BioDataManagement](https://github.com/BioData-PT/Ready4BioDataManagement)
 
 ### FAIR data
 
@@ -523,6 +612,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-repository-submission-dm-practices](https://github.com/NBISweden/module-repository-submission-dm-practices)
 - [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-TrP-FAIR-training-handbook](https://github.com/elixir-europe-training/ELIXIR-TrP-FAIR-training-handbook) | [website](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/)
 - [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-TrP-FAIR-Converge](https://github.com/elixir-europe-training/ELIXIR-TrP-FAIR-Converge) | [website](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Converge/)
+- [**Institut Français de Bioinformatique (IFB)** IFB-ElixirFr/IFB-FAIR-bioinfo-training](https://github.com/IFB-ElixirFr/IFB-FAIR-bioinfo-training) | [website](https://ifb-elixirfr.github.io/IFB-FAIR-bioinfo-training)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-open-science-dm-practices](https://github.com/nbisweden/module-open-science-dm-practices) | [website](https://nbisweden.github.io/module-open-science-dm-practices/index.html)
+- [**Institut Français de Bioinformatique (IFB)** IFB-ElixirFr/IFB-FAIR-data-training](https://github.com/ifb-elixirfr/IFB-FAIR-data-training)
+- [**Sergio Martínez Cuesta** semacu/20180223_ORCID_Chemistry_Cambridge](https://github.com/semacu/20180223_ORCID_Chemistry_Cambridge)
 
 ### Reproducibility
 
@@ -533,6 +626,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-lab/good-enough-practices](https://github.com/carpentries-incubator/good-enough-practices) | [website](https://carpentries-lab.github.io/good-enough-practices/)
 - [**Data Carpentry** datacarpentry/rr-organization1](https://github.com/datacarpentry/rr-organization1) | [website](http://www.datacarpentry.org/rr-organization1/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/reproducible-analysis-training](https://github.com/sib-swiss/reproducible-analysis-training) | [website](https://sib-swiss.github.io/reproducible-analysis-training/)
+- [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-TrP-ContainersPython-CodeRep](https://github.com/elixir-europe-training/ELIXIR-TrP-ContainersPython-CodeRep) | [website](https://elixir-europe-training.github.io/ELIXIR-TrP-ContainersPython-CodeRep/)
+- [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-TrP-LiterateProgrammingR-CodeRep](https://github.com/elixir-europe-training/ELIXIR-TrP-LiterateProgrammingR-CodeRep) | [website](https://elixir-europe-training.github.io/ELIXIR-TrP-LiterateProgrammingR-CodeRep/)
 
 ## Statistics and machine learning
 
@@ -566,6 +661,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**cambiotraining** cambiotraining/corestats](https://github.com/cambiotraining/corestats) | [website](https://cambiotraining.github.io/corestats/)
 - [**David Dalpiaz** daviddalpiaz/r4sl](https://github.com/daviddalpiaz/r4sl) | [website](https://daviddalpiaz.github.io/r4sl/)
 - [**Mojtaba Barzegari** mbarzegary/educational-bayesian](https://github.com/mbarzegary/educational-bayesian)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/Data-analysis-in-practice](https://github.com/sib-swiss/Data-analysis-in-practice)
+- [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PSLS22](https://github.com/gtpb/PSLS22) | [website](https://gtpb.github.io/PSLS22/)
+- [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PGDH19](https://github.com/gtpb/PGDH19) | [website](https://gtpb.github.io/PGDH19/)
+- [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PSLS20](https://github.com/gtpb/PSLS20) | [website](https://gtpb.github.io/PSLS20/)
 
 ### Machine learning
 
@@ -589,6 +688,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Philip Bowsher** philbowsher/Workshop-R-Tensorflow-Scientific-Computing](https://github.com/philbowsher/Workshop-R-Tensorflow-Scientific-Computing)
 - [**Nicola Rennie** nrennie/r-pharma-2023-tidymodels](https://github.com/nrennie/r-pharma-2023-tidymodels) | [website](https://nrennie.github.io/r-pharma-2023-tidymodels/)
 - [**udlbook** udlbook/udlbook](https://github.com/udlbook/udlbook)
+- [**bioinformatics.ca** bioinformaticsdotca/MLE_2023](https://github.com/bioinformaticsdotca/MLE_2023)
 
 ## Others
 
