@@ -309,6 +309,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Christian Burkhart** ch-bu/ggplot2-fundamentals](https://github.com/ch-bu/ggplot2-fundamentals) | [website](https://ggplot2tor.com/courses/ggplot2fundamentals)
 - [**carpentries-incubator** carpentries-incubator/intro-data-viz](https://github.com/carpentries-incubator/intro-data-viz) | [website](https://carpentries-incubator.github.io/intro-data-viz/)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/publication_perfect](https://github.com/hbctraining/publication_perfect) | [website](https://hbctraining.github.io/publication_perfect/)
+- [**C. Li** cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends)
 
 ### Java
 
