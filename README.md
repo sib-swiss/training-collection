@@ -279,6 +279,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Data Challenge Lab Open Content** dcl-docs/prog](https://github.com/dcl-docs/prog) | [website](https://dcl-prog.stanford.edu)
 - [**G. Jay Kerns** gjkerns/IPSUR](https://github.com/gjkerns/IPSUR) | [website](http://ipsur.org)
 - [**Roger D. Peng** rdpeng/rprogdatascience](https://github.com/rdpeng/rprogdatascience)
+- [**Marek Gagolewski** gagolews/deepr](https://github.com/gagolews/deepr) | [website](https://deepr.gagolewski.com)
 
 ### Quarto
 
