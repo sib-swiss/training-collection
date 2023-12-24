@@ -280,6 +280,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**G. Jay Kerns** gjkerns/IPSUR](https://github.com/gjkerns/IPSUR) | [website](http://ipsur.org)
 - [**Roger D. Peng** rdpeng/rprogdatascience](https://github.com/rdpeng/rprogdatascience)
 - [**Marek Gagolewski** gagolews/deepr](https://github.com/gagolews/deepr) | [website](https://deepr.gagolewski.com)
+- [**bougioukas** bougioukas/practical_stats_med-r](https://github.com/bougioukas/practical_stats_med-r)
+- [**TaniaW** taniawyss/flow-cytometry-analysis-with-R](https://github.com/taniawyss/flow-cytometry-analysis-with-R/)
 
 ### Quarto
 
@@ -692,6 +694,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**udlbook** udlbook/udlbook](https://github.com/udlbook/udlbook)
 - [**bioinformatics.ca** bioinformaticsdotca/MLE_2023](https://github.com/bioinformaticsdotca/MLE_2023)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/pytorch-practical-training](https://github.com/sib-swiss/pytorch-practical-training)
+- [**Applied Machine Learning for Tabular Data** aml4td/website](https://github.com/aml4td/website) | [website](https://aml4td.org)
 
 ## Others
 
