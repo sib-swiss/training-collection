@@ -282,6 +282,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Marek Gagolewski** gagolews/deepr](https://github.com/gagolews/deepr) | [website](https://deepr.gagolewski.com)
 - [**bougioukas** bougioukas/practical_stats_med-r](https://github.com/bougioukas/practical_stats_med-r)
 - [**TaniaW** taniawyss/flow-cytometry-analysis-with-R](https://github.com/taniawyss/flow-cytometry-analysis-with-R/)
+- [**Roger D. Peng** rdpeng/exdata](https://github.com/rdpeng/exdata)
 
 ### Quarto
 
@@ -313,6 +314,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/intro-data-viz](https://github.com/carpentries-incubator/intro-data-viz) | [website](https://carpentries-incubator.github.io/intro-data-viz/)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/publication_perfect](https://github.com/hbctraining/publication_perfect) | [website](https://hbctraining.github.io/publication_perfect/)
 - [**C. Li** cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends)
+- [**Claus Wilke** clauswilke/dataviz](https://github.com/clauswilke/dataviz) | [website](https://clauswilke.com/dataviz)
 
 ### Java
 
