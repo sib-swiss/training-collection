@@ -107,6 +107,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Cloud-SPAN** Cloud-SPAN/prenomics00-intro](https://github.com/cloud-span/prenomics00-intro) | [website](https://cloud-span.github.io/prenomics00-intro/)
 - [**Sergio Martínez Cuesta** semacu/20180726_TrainMalta_Unix_R](https://github.com/semacu/20180726_TrainMalta_Unix_R)
 - [**Bobby Iliev** bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | [website](https://ebook.bobby.sh)
+- [**Firas Zemzem** Zemzemfiras1/Mastering_Linux_Tutorials](https://github.com/Zemzemfiras1/Mastering_Linux_Tutorials)
 
 ### Python
 
@@ -155,6 +156,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Charles Severance** csev/py4e](https://github.com/csev/py4e) | [website](http://www.py4e.com)
 - [**Kushal Das** kushaldas/pym](https://github.com/kushaldas/pym)
 - [**Greg Malcolm** gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans)
+- [**BioINForm** bioinform-org/bioinforming-hs](https://github.com/bioinform-org/bioinforming-hs)
 
 ### R
 
@@ -283,6 +285,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bougioukas** bougioukas/practical_stats_med-r](https://github.com/bougioukas/practical_stats_med-r)
 - [**TaniaW** taniawyss/flow-cytometry-analysis-with-R](https://github.com/taniawyss/flow-cytometry-analysis-with-R/)
 - [**Roger D. Peng** rdpeng/exdata](https://github.com/rdpeng/exdata)
+- [**Rafael A Irizarry** rafalab/dsbook-part-1](https://github.com/rafalab/dsbook-part-1)
+- [**Rafael A Irizarry** rafalab/dsbook-part-2](https://github.com/rafalab/dsbook-part-2)
 
 ### Quarto
 
@@ -291,7 +295,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 ### Shiny
 
-- [**Martin J Frigaard** mjfrigaard/shinyap](https://github.com/mjfrigaard/shinyap) | [website](https://mjfrigaard.github.io/shinyap/)
+- [**Martin J Frigaard** mjfrigaard/shinypak](https://github.com/mjfrigaard/shinyap) | [website](https://mjfrigaard.github.io/shinypak/)
 
 ### Julia
 
@@ -486,6 +490,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2022-July-Advanced-Topics-in-Single-Cell-RNA-Seq-ATAC](https://github.com/ucdavis-bioinformatics-training/2022-July-Advanced-Topics-in-Single-Cell-RNA-Seq-ATAC)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2021-August-Advanced-Topics-in-Single-Cell-RNA-Seq-Trajectory-and-Velocity](https://github.com/ucdavis-bioinformatics-training/2021-August-Advanced-Topics-in-Single-Cell-RNA-Seq-Trajectory-and-Velocity)
 - [**bioinformatics.ca** bioinformaticsdotca/scRNA_2023](https://github.com/bioinformaticsdotca/scRNA_2023)
+- [**Theis Lab** theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial)
 
 ### Variant analysis
 
@@ -555,6 +560,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Integrative Computational Biology and Multiomics Research Group** ncl-icbam/ismb-tutorial-2023](https://github.com/ncl-icbam/ismb-tutorial-2023)
 - [**Sydney Precision Data Science Centre** SydneyBioX/StatialBioc2023](https://github.com/SydneyBioX/StatialBioc2023) | [website](https://SydneyBioX.github.io/StatialBioc2023/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2022-December-Spatial-Transcriptomics](https://github.com/ucdavis-bioinformatics-training/2022-December-Spatial-Transcriptomics)
+- [**Lukas Weber** lmweber/BestPracticesST](https://github.com/lmweber/BestPracticesST) | [website](https://lmweber.org/BestPracticesST/)
 
 ### Long read sequencing
 
@@ -568,7 +574,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Proteomics
 
 - [**Computational Biology and Bioinformatics at UCLouvain** UCLouvain-CBIO/LSTAT2340](https://github.com/UCLouvain-CBIO/LSTAT2340) | [website](https://uclouvain-cbio.github.io/LSTAT2340/)
-- [**Health Data Science Sandbox** hds-sandbox/proteomics-sandbox](https://github.com/hds-sandbox/proteomics-sandbox) | [website](https://hds-sandbox.github.io/proteomics-sandbox/index.html)
+- [**Health Data Science Sandbox** hds-sandbox/TOOLS_proteomics-sandbox](https://github.com/hds-sandbox/proteomics-sandbox) | [website](https://hds-sandbox.github.io/proteomics-sandbox/index.html)
 - [**statOmics** statOmics/PDA](https://github.com/statomics/PDA)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/IBIP19](https://github.com/gtpb/IBIP19) | [website](https://gtpb.github.io/IBIP19/)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PDA19](https://github.com/gtpb/PDA19) | [website](https://gtpb.github.io/PDA19/)
@@ -671,6 +677,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PSLS22](https://github.com/gtpb/PSLS22) | [website](https://gtpb.github.io/PSLS22/)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PGDH19](https://github.com/gtpb/PGDH19) | [website](https://gtpb.github.io/PGDH19/)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PSLS20](https://github.com/gtpb/PSLS20) | [website](https://gtpb.github.io/PSLS20/)
+- [**Matthew B. Jané** MatthewBJane/guide-to-effect-sizes-and-confidence-intervals](https://github.com/MatthewBJane/guide-to-effect-sizes-and-confidence-intervals) | [website](https://matthewbjane.quarto.pub/guide-to-effect-sizes-and-confidence-intervals/)
 
 ### Machine learning
 
