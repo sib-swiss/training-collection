@@ -296,6 +296,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Shiny
 
 - [**Martin J Frigaard** mjfrigaard/shinypak](https://github.com/mjfrigaard/shinyap) | [website](https://mjfrigaard.github.io/shinypak/)
+- [**Rami Krispin** RamiKrispin/shinylive-r](https://github.com/RamiKrispin/shinylive-r) | [website](https://ramikrispin.github.io/shinylive-r/)
 
 ### Julia
 
@@ -561,6 +562,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Sydney Precision Data Science Centre** SydneyBioX/StatialBioc2023](https://github.com/SydneyBioX/StatialBioc2023) | [website](https://SydneyBioX.github.io/StatialBioc2023/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2022-December-Spatial-Transcriptomics](https://github.com/ucdavis-bioinformatics-training/2022-December-Spatial-Transcriptomics)
 - [**Lukas Weber** lmweber/BestPracticesST](https://github.com/lmweber/BestPracticesST) | [website](https://lmweber.org/BestPracticesST/)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-spatial](https://github.com/NBISweden/workshop-spatial)
 
 ### Long read sequencing
 
@@ -574,7 +576,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Proteomics
 
 - [**Computational Biology and Bioinformatics at UCLouvain** UCLouvain-CBIO/LSTAT2340](https://github.com/UCLouvain-CBIO/LSTAT2340) | [website](https://uclouvain-cbio.github.io/LSTAT2340/)
-- [**Health Data Science Sandbox** hds-sandbox/TOOLS_proteomics-sandbox](https://github.com/hds-sandbox/proteomics-sandbox) | [website](https://hds-sandbox.github.io/proteomics-sandbox/index.html)
+- [**Health Data Science Sandbox** hds-sandbox/proteomics-sandbox](https://github.com/hds-sandbox/proteomics-sandbox) | [website](https://hds-sandbox.github.io/proteomics-sandbox/index.html)
 - [**statOmics** statOmics/PDA](https://github.com/statomics/PDA)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/IBIP19](https://github.com/gtpb/IBIP19) | [website](https://gtpb.github.io/IBIP19/)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PDA19](https://github.com/gtpb/PDA19) | [website](https://gtpb.github.io/PDA19/)
@@ -678,6 +680,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PGDH19](https://github.com/gtpb/PGDH19) | [website](https://gtpb.github.io/PGDH19/)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PSLS20](https://github.com/gtpb/PSLS20) | [website](https://gtpb.github.io/PSLS20/)
 - [**Matthew B. Jané** MatthewBJane/guide-to-effect-sizes-and-confidence-intervals](https://github.com/MatthewBJane/guide-to-effect-sizes-and-confidence-intervals) | [website](https://matthewbjane.quarto.pub/guide-to-effect-sizes-and-confidence-intervals/)
+- [**Richard McElreath** rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)
 
 ### Machine learning
 
