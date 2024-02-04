@@ -83,7 +83,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Data Carpentry** datacarpentry/rr-version-control](https://github.com/datacarpentry/rr-version-control) | [website](http://www.datacarpentry.org/rr-version-control/)
 - [**VIB Technologies: Bioinformatics and software projects** vibbits/introduction-github](https://github.com/vibbits/introduction-github)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-versioning-dm-practices](https://github.com/NBISweden/module-versioning-dm-practices/) | [website](https://nbisweden.github.io/module-versioning-dm-practices/)
-- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-versioning-dm-practices](https://github.com/nbisweden/module-versioning-dm-practices) | [website](https://nbisweden.github.io/module-versioning-dm-practices/)
 - [**Sergio Martínez Cuesta** semacu/20190927_IntroductionGithub_HDRUK](https://github.com/semacu/20190927_IntroductionGithub_HDRUK)
 - [**Sergio Martínez Cuesta** semacu/20181003_Intro_git_GitHub](https://github.com/semacu/20181003_Intro_git_GitHub)
 - [**Sergio Martínez Cuesta** semacu/20171024_GitHub_Chemistry_Cambridge](https://github.com/semacu/20171024_GitHub_Chemistry_Cambridge)
@@ -133,7 +132,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/python-packaging-publishing](https://github.com/carpentries-incubator/python-packaging-publishing) | [website](https://carpentries-incubator.github.io/python-packaging-publishing/)
 - [**carpentries-incubator** carpentries-incubator/lesson-parallel-python](https://github.com/carpentries-incubator/lesson-parallel-python) | [website](https://carpentries-incubator.github.io/lesson-parallel-python/)
 - [**Data Carpentry** datacarpentry/python-ecology-lesson](https://github.com/datacarpentry/python-ecology-lesson) | [website](https://datacarpentry.org/python-ecology-lesson)
-- [**carpentries-incubator** carpentries-incubator/python-intermediate-development](https://github.com/carpentries-incubator/python-intermediate-development/) | [website](https://carpentries-incubator.github.io/python-intermediate-development/)
 - [**The Algorithms** TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | [website](https://the-algorithms.com)
 - [**Oleksii Trekhleb** trekhleb/learn-python](https://github.com/trekhleb/learn-python)
 - [**João Ventura** joaoventura/full-speed-python](https://github.com/joaoventura/full-speed-python)
@@ -157,6 +155,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Kushal Das** kushaldas/pym](https://github.com/kushaldas/pym)
 - [**Greg Malcolm** gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans)
 - [**BioINForm** bioinform-org/bioinforming-hs](https://github.com/bioinform-org/bioinforming-hs)
+- [**Daniel Chen** chendaniely/positconf2023-academy_python](https://github.com/chendaniely/positconf2023-academy_python)
+- [**Rami Krispin** RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python)
 
 ### R
 
@@ -242,7 +242,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/R-ecology-lesson](https://github.com/carpentries-incubator/R-ecology-lesson) | [website](https://carpentries-incubator.github.io/R-ecology-lesson/)
 - [**carpentries-incubator** carpentries-incubator/R-ecology-lesson-intermediate](https://github.com/carpentries-incubator/R-ecology-lesson-intermediate) | [website](https://carpentries-incubator.github.io/R-ecology-lesson-intermediate/)
 - [**carpentries-incubator** carpentries-incubator/open-science-with-r](https://github.com/carpentries-incubator/open-science-with-r) | [website](https://carpentries-incubator.github.io/open-science-with-r/)
-- [**carpentries-incubator** carpentries-incubator/Reproducible-Publications-with-RStudio](https://github.com/carpentries-incubator/Reproducible-Publications-with-RStudio) | [website](https://carpentries-incubator.github.io/Reproducible-Publications-with-RStudio)
+- [**carpentries-incubator** carpentries-incubator/reproducible-publications-quarto](https://github.com/carpentries-incubator/Reproducible-Publications-with-RStudio) | [website](https://carpentries-incubator.github.io/Reproducible-Publications-with-RStudio)
 - [**Data Carpentry** datacarpentry/R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) | [website](https://datacarpentry.org/R-ecology-lesson)
 - [**Data Carpentry** datacarpentry/genomics-r-intro](https://github.com/datacarpentry/genomics-r-intro) | [website](https://datacarpentry.org/genomics-r-intro/)
 - [**Data Carpentry** datacarpentry/rr-automation](https://github.com/datacarpentry/rr-automation) | [website](http://www.datacarpentry.org/rr-automation/)
@@ -270,8 +270,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Institut Français de Bioinformatique (IFB)** IFB-ElixirFr/IFB_Shiny_training](https://github.com/IFB-ElixirFr/IFB_Shiny_training) | [website](https://ifb-elixirfr.github.io/IFB_Shiny_training/)
 - [**bioinformatics.ca** bioinformaticsdotca/INR_2023](https://github.com/bioinformaticsdotca/INR_2023)
 - [**ELIXIR Estonia** ELIXIREstonia/2023-10-24-R-basic](https://github.com/ELIXIREstonia/2023-10-24-R-basic) | [website](https://elixir.ut.ee/node/552)
-- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-rstudio-intro-dm-practices](https://github.com/nbisweden/module-rstudio-intro-dm-practices) | [website](https://nbisweden.github.io/module-rstudio-intro-dm-practices/)
-- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-r-intro-dm-practices](https://github.com/nbisweden/module-r-intro-dm-practices) | [website](https://nbisweden.github.io/module-r-intro-dm-practices/)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/ABSTAT18](https://github.com/gtpb/ABSTAT18) | [website](https://gtpb.github.io/ABSTAT18/)
 - [**Hugo Tavares** tavareshugo/2018-06-28-cambridge](https://github.com/tavareshugo/2018-06-28-cambridge) | [website](https://tavareshugo.github.io/2018-06-28-cambridge/)
 - [**Sergio Martínez Cuesta** semacu/20180531_DataVisualisationRggplot2_Wolfson_Cambridge](https://github.com/semacu/20180531_DataVisualisationRggplot2_Wolfson_Cambridge)
@@ -287,16 +285,39 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Roger D. Peng** rdpeng/exdata](https://github.com/rdpeng/exdata)
 - [**Rafael A Irizarry** rafalab/dsbook-part-1](https://github.com/rafalab/dsbook-part-1)
 - [**Rafael A Irizarry** rafalab/dsbook-part-2](https://github.com/rafalab/dsbook-part-2)
+- [**Causal Inference in R** r-causal/causal-inference-in-R](https://github.com/r-causal/causal-inference-in-R) | [website](https://www.r-causal.org)
+- [**posit-conf-2023** posit-conf-2023/r-intro](https://github.com/posit-conf-2023/r-intro/) | [website](https://intro-tidyverse-2023.netlify.app)
+- [**posit-conf-2023** posit-conf-2023/forecasting](https://github.com/posit-conf-2023/forecasting) | [website](https://posit-conf-2023.github.io/forecasting/)
+- [**tidymodels** tidymodels/workshops](https://github.com/tidymodels/workshops) | [website](https://workshops.tidymodels.org)
+- [**posit-conf-2023** posit-conf-2023/pkg-dev-masterclass](https://github.com/posit-conf-2023/pkg-dev-masterclass)
+- [**posit-conf-2023** posit-conf-2023/pkg-dev](https://github.com/posit-conf-2023/pkg-dev) | [website](https://posit-conf-2023.github.io/pkg-dev/)
+- [**What They Forgot to Teach You About R** rstats-wtf/what-they-forgot](https://github.com/rstats-wtf/what-they-forgot) | [website](https://rstats.wtf)
+- [**posit-conf-2023** posit-conf-2023/arrow](https://github.com/posit-conf-2023/arrow) | [website](https://posit-conf-2023.github.io/arrow/)
+- [**posit-conf-2023** posit-conf-2023/dataviz-storytelling](https://github.com/posit-conf-2023/dataviz-storytelling) | [website](https://posit-conf-2023.github.io/dataviz-storytelling/)
+- [**posit-conf-2023** posit-conf-2023/ds-workflows-r](https://github.com/posit-conf-2023/ds-workflows-r) | [website](https://katie.quarto.pub/ds-workflows-r/)
+- [**posit-conf-2023** posit-conf-2023/vetiver](https://github.com/posit-conf-2023/vetiver) | [website](https://posit-conf-2023.github.io/vetiver/)
+- [**posit-conf-2023** posit-conf-2023/programming-r](https://github.com/posit-conf-2023/programming-r) | [website](https://posit-conf-2023.github.io/programming-r/)
+- [**posit-conf-2023** posit-conf-2023/teach-ds-masterclass](https://github.com/posit-conf-2023/teach-ds-masterclass) | [website](https://pos.it/teach-ds-conf23)
+- [**posit-conf-2023** posit-conf-2023/dataviz-ggplot2](https://github.com/posit-conf-2023/dataviz-ggplot2) | [website](https://posit-conf-2023.github.io/dataviz-ggplot2/)
+- [**posit-conf-2023** posit-conf-2023/creative-coding](https://github.com/posit-conf-2023/creative-coding)
+- [**Rami Krispin** RamiKrispin/vscode-r](https://github.com/RamiKrispin/vscode-r)
 
 ### Quarto
 
 - [**UCSB-MEDS** UCSB-MEDS/customizing-quarto-websites](https://github.com/UCSB-MEDS/customizing-quarto-websites) | [website](https://ucsb-meds.github.io/customizing-quarto-websites/)
 - [**UCSB-MEDS** UCSB-MEDS/creating-quarto-websites](https://github.com/UCSB-MEDS/creating-quarto-websites) | [website](https://ucsb-meds.github.io/creating-quarto-websites/)
+- [**posit-conf-2023** posit-conf-2023/quarto-r](https://github.com/posit-conf-2023/quarto-r) | [website](https://posit-conf-2023.github.io/quarto-r/)
+- [**Hamel Husain** hamelsmu/posit-python-quarto](https://github.com/hamelsmu/posit-python-quarto) | [website](https://bit.ly/pyquarto)
 
 ### Shiny
 
 - [**Martin J Frigaard** mjfrigaard/shinypak](https://github.com/mjfrigaard/shinyap) | [website](https://mjfrigaard.github.io/shinypak/)
 - [**Rami Krispin** RamiKrispin/shinylive-r](https://github.com/RamiKrispin/shinylive-r) | [website](https://ramikrispin.github.io/shinylive-r/)
+- [**posit-dev** posit-dev/shiny-python-workshop-2023](https://github.com/posit-dev/shiny-python-workshop-2023) | [website](https://posit-dev.github.io/shiny-python-workshop-2023/)
+- [**posit-conf-2023** posit-conf-2023/shiny-r-intro](https://github.com/posit-conf-2023/shiny-r-intro) | [website](https://posit-conf-2023.github.io/shiny-r-intro/)
+- [**posit-conf-2023** posit-conf-2023/shiny-r-ui](https://github.com/posit-conf-2023/shiny-r-ui) | [website](https://webdesign4shiny.rinterface.com)
+- [**posit-conf-2023** posit-conf-2023/shiny-r-dashboard](https://github.com/posit-conf-2023/shiny-r-dashboard) | [website](https://posit-conf-2023.github.io/shiny-r-dashboard/)
+- [**posit-conf-2023** posit-conf-2023/shiny-r-prod](https://github.com/posit-conf-2023/shiny-r-prod) | [website](https://posit-conf-2023.github.io/shiny-r-prod/)
 
 ### Julia
 
@@ -353,6 +374,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/singularity-introduction](https://github.com/carpentries-incubator/singularity-introduction) | [website](https://carpentries-incubator.github.io/singularity-introduction)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/containers-introduction-training](https://github.com/sib-swiss/containers-introduction-training) | [website](https://sib-swiss.github.io/containers-introduction-training/)
 - [**PerMedCoE** PerMedCoE/mpi-in-container](https://github.com/permedcoe/mpi-in-container)
+- [**Rami Krispin** RamiKrispin/Introduction-to-Docker](https://github.com/RamiKrispin/Introduction-to-Docker)
 
 ### Galaxy
 
@@ -586,7 +608,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Canadian Bioinformatics Workshops** bioinformatics-ca/PNA_2021](https://github.com/bioinformatics-ca/PNA_2021)
 - [**Susan** Coort/tutorial-network-data](https://gitlab.com/Coort/tutorial-network-data)
 - [**LaurenDupuis** LaurenDupuis/EJP-RD_Helis_Academy](https://github.com/laurendupuis/EJP-RD_Helis_Academy)
-- [**LaurenDupuis** LaurenDupuis/EJP-RD_Helis_Academy](https://github.com/laurendupuis/EJP-RD_Helis_Academy)
 
 ## Reproducibility and data management
 
@@ -610,12 +631,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-open-science-dm-practices](https://github.com/NBISweden/module-open-science-dm-practices/) | [website](https://nbisweden.github.io/module-open-science-dm-practices/index.html)
 - [**Health Data Science Sandbox** hds-sandbox/RDM_NGS_course](https://github.com/hds-sandbox/RDM_NGS_course) | [website](https://hds-sandbox.github.io/RDM_NGS_course/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/Introduction-FAIR-RDM-DMP](https://github.com/sib-swiss/Introduction-FAIR-RDM-DMP) | [website](https://sib-swiss.github.io/Introduction-FAIR-RDM-DMP/)
-- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-dmp-dm-practices](https://github.com/nbisweden/module-dmp-dm-practices) | [website](https://nbisweden.github.io/module-dmp-dm-practices/)
-- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-openrefine-dm-practices](https://github.com/nbisweden/module-openrefine-dm-practices) | [website](https://nbisweden.github.io/module-openrefine-dm-practices/)
-- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-data-publication-dm-practices](https://github.com/nbisweden/module-data-publication-dm-practices) | [website](https://nbisweden.github.io/module-data-publication-dm-practices/)
-- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-metadata-dm-practices](https://github.com/nbisweden/module-metadata-dm-practices) | [website](https://nbisweden.github.io/module-metadata-dm-practices/)
-- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-organising-data-dm-practices](https://github.com/nbisweden/module-organising-data-dm-practices) | [website](https://nbisweden.github.io/module-organising-data-dm-practices/)
 - [**BioData.pt** BioData-PT/Ready4BioDataManagement](https://github.com/BioData-PT/Ready4BioDataManagement)
+- [**posit-conf-2023** posit-conf-2023/managing-os-project](https://github.com/posit-conf-2023/managing-os-project) | [website](https://posit-conf-2023.github.io/managing-os-project/)
 
 ### FAIR data
 
@@ -627,7 +644,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-TrP-FAIR-training-handbook](https://github.com/elixir-europe-training/ELIXIR-TrP-FAIR-training-handbook) | [website](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/)
 - [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-TrP-FAIR-Converge](https://github.com/elixir-europe-training/ELIXIR-TrP-FAIR-Converge) | [website](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Converge/)
 - [**Institut Français de Bioinformatique (IFB)** IFB-ElixirFr/IFB-FAIR-bioinfo-training](https://github.com/IFB-ElixirFr/IFB-FAIR-bioinfo-training) | [website](https://ifb-elixirfr.github.io/IFB-FAIR-bioinfo-training)
-- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-open-science-dm-practices](https://github.com/nbisweden/module-open-science-dm-practices) | [website](https://nbisweden.github.io/module-open-science-dm-practices/index.html)
 - [**Institut Français de Bioinformatique (IFB)** IFB-ElixirFr/IFB-FAIR-data-training](https://github.com/ifb-elixirfr/IFB-FAIR-data-training)
 - [**Sergio Martínez Cuesta** semacu/20180223_ORCID_Chemistry_Cambridge](https://github.com/semacu/20180223_ORCID_Chemistry_Cambridge)
 
@@ -681,6 +697,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PSLS20](https://github.com/gtpb/PSLS20) | [website](https://gtpb.github.io/PSLS20/)
 - [**Matthew B. Jané** MatthewBJane/guide-to-effect-sizes-and-confidence-intervals](https://github.com/MatthewBJane/guide-to-effect-sizes-and-confidence-intervals) | [website](https://matthewbjane.quarto.pub/guide-to-effect-sizes-and-confidence-intervals/)
 - [**Richard McElreath** rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)
+- [**Monash Data Fluency** MonashDataFluency/r-linear](https://github.com/MonashDataFluency/r-linear) | [website](https://monashdatafluency.github.io/r-linear/)
 
 ### Machine learning
 
@@ -707,6 +724,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bioinformatics.ca** bioinformaticsdotca/MLE_2023](https://github.com/bioinformaticsdotca/MLE_2023)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/pytorch-practical-training](https://github.com/sib-swiss/pytorch-practical-training)
 - [**Applied Machine Learning for Tabular Data** aml4td/website](https://github.com/aml4td/website) | [website](https://aml4td.org)
+- [**posit-conf-2023** posit-conf-2023/python-modeling](https://github.com/posit-conf-2023/python-modeling)
 
 ## Others
 
@@ -734,3 +752,4 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Eric C. Anderson** eriqande/eca-bioinf-handbook](https://github.com/eriqande/eca-bioinf-handbook)
 - [**Computational Biology and Bioinformatics at UCLouvain** UCLouvain-CBIO/WSBIM1322](https://github.com/UCLouvain-CBIO/WSBIM1322) | [website](https://uclouvain-cbio.github.io/WSBIM1322/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2020-Bioinformatics_Prerequisites_Workshop](https://github.com/ucdavis-bioinformatics-training/2020-Bioinformatics_Prerequisites_Workshop) | [website](https://ucdavis-bioinformatics-training.github.io/2020-Bioinformatics_Prerequisites_Workshop/)
+- [**posit-conf-2023** posit-conf-2023/devops](https://github.com/posit-conf-2023/devops)
