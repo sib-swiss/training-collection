@@ -107,6 +107,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Sergio Martínez Cuesta** semacu/20180726_TrainMalta_Unix_R](https://github.com/semacu/20180726_TrainMalta_Unix_R)
 - [**Bobby Iliev** bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | [website](https://ebook.bobby.sh)
 - [**Firas Zemzem** Zemzemfiras1/Mastering_Linux_Tutorials](https://github.com/Zemzemfiras1/Mastering_Linux_Tutorials)
+- [**Jeroen Janssens** jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) | [website](https://datascienceatthecommandline.com)
 
 ### Python
 
@@ -301,6 +302,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**posit-conf-2023** posit-conf-2023/dataviz-ggplot2](https://github.com/posit-conf-2023/dataviz-ggplot2) | [website](https://posit-conf-2023.github.io/dataviz-ggplot2/)
 - [**posit-conf-2023** posit-conf-2023/creative-coding](https://github.com/posit-conf-2023/creative-coding)
 - [**Rami Krispin** RamiKrispin/vscode-r](https://github.com/RamiKrispin/vscode-r)
+- [**Winston Chang** wch/rgcookbook](https://github.com/wch/rgcookbook) | [website](http://r-graphics.org)
+- [**RStudio** rstudio/rmarkdown-cookbook](https://github.com/rstudio/rmarkdown-cookbook) | [website](https://bookdown.org/yihui/rmarkdown-cookbook/)
+- [**RStudio** rstudio/bookdown](https://github.com/rstudio/bookdown) | [website](https://pkgs.rstudio.com/bookdown/)
+- [**RStudio Education** rstudio-education/hopr](https://github.com/rstudio-education/hopr)
 
 ### Quarto
 
@@ -308,6 +313,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UCSB-MEDS** UCSB-MEDS/creating-quarto-websites](https://github.com/UCSB-MEDS/creating-quarto-websites) | [website](https://ucsb-meds.github.io/creating-quarto-websites/)
 - [**posit-conf-2023** posit-conf-2023/quarto-r](https://github.com/posit-conf-2023/quarto-r) | [website](https://posit-conf-2023.github.io/quarto-r/)
 - [**Hamel Husain** hamelsmu/posit-python-quarto](https://github.com/hamelsmu/posit-python-quarto) | [website](https://bit.ly/pyquarto)
+- [**Isabella Velásquez** ivelasq/2024-01-23_getting-started-with-report-writing-using-quarto](https://github.com/ivelasq/2024-01-23_getting-started-with-report-writing-using-quarto) | [website](https://ivelasq.quarto.pub/getting-started-with-report-writing-using-quarto/#/title-slide)
 
 ### Shiny
 
@@ -318,6 +324,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**posit-conf-2023** posit-conf-2023/shiny-r-ui](https://github.com/posit-conf-2023/shiny-r-ui) | [website](https://webdesign4shiny.rinterface.com)
 - [**posit-conf-2023** posit-conf-2023/shiny-r-dashboard](https://github.com/posit-conf-2023/shiny-r-dashboard) | [website](https://posit-conf-2023.github.io/shiny-r-dashboard/)
 - [**posit-conf-2023** posit-conf-2023/shiny-r-prod](https://github.com/posit-conf-2023/shiny-r-prod) | [website](https://posit-conf-2023.github.io/shiny-r-prod/)
+- [**ThinkR** ThinkR-open/engineering-shiny-book](https://github.com/ThinkR-open/engineering-shiny-book) | [website](https://engineering-shiny.org)
 
 ### Julia
 
@@ -673,6 +680,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Data Science in Practice** DataScienceInPractice/Site](https://github.com/datascienceinpractice/Site) | [website](https://datascienceinpractice.github.io)
 - [**Shawn Rhoads** shawnrhoads/gu-psyc-347](https://github.com/shawnrhoads/gu-psyc-347) | [website](https://shawnrhoads.github.io/gu-psyc-347/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-openrefine-dm-practices](https://github.com/NBISweden/module-openrefine-dm-practices/) | [website](https://nbisweden.github.io/module-openrefine-dm-practices/)
+- [**Pablo Casas** pablo14/data-science-live-book](https://github.com/pablo14/data-science-live-book) | [website](http://livebook.datascienceheroes.com)
 
 ### Statistics
 
