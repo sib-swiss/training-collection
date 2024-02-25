@@ -306,6 +306,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**RStudio** rstudio/rmarkdown-cookbook](https://github.com/rstudio/rmarkdown-cookbook) | [website](https://bookdown.org/yihui/rmarkdown-cookbook/)
 - [**RStudio** rstudio/bookdown](https://github.com/rstudio/bookdown) | [website](https://pkgs.rstudio.com/bookdown/)
 - [**RStudio Education** rstudio-education/hopr](https://github.com/rstudio-education/hopr)
+- [**swirl development team** swirldev/swirl](https://github.com/swirldev/swirl) | [website](http://swirlstats.com)
 
 ### Quarto
 
@@ -761,3 +762,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Computational Biology and Bioinformatics at UCLouvain** UCLouvain-CBIO/WSBIM1322](https://github.com/UCLouvain-CBIO/WSBIM1322) | [website](https://uclouvain-cbio.github.io/WSBIM1322/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2020-Bioinformatics_Prerequisites_Workshop](https://github.com/ucdavis-bioinformatics-training/2020-Bioinformatics_Prerequisites_Workshop) | [website](https://ucdavis-bioinformatics-training.github.io/2020-Bioinformatics_Prerequisites_Workshop/)
 - [**posit-conf-2023** posit-conf-2023/devops](https://github.com/posit-conf-2023/devops)
+- [**BioinformaNicks** BioinformaNicks/Bioinformatics-training-collection](https://github.com/BioinformaNicks/Bioinformatics-training-collection)
+- [**Sex Chromosome Lab** SexChrLab/BioinformaticsIntroduction](https://github.com/SexChrLab/BioinformaticsIntroduction/)
+- [**Harvard Informatics** harvardinformatics/learning-bioinformatics-at-home](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
