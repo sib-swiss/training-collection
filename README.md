@@ -307,6 +307,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**RStudio** rstudio/bookdown](https://github.com/rstudio/bookdown) | [website](https://pkgs.rstudio.com/bookdown/)
 - [**RStudio Education** rstudio-education/hopr](https://github.com/rstudio-education/hopr)
 - [**swirl development team** swirldev/swirl](https://github.com/swirldev/swirl) | [website](http://swirlstats.com)
+- [**JD Long** CerebralMastication/R-Cookbook](https://github.com/CerebralMastication/R-Cookbook)
+- [**r-spark** r-spark/the-r-in-spark](https://github.com/r-spark/the-r-in-spark) | [website](http://therinspark.com)
 
 ### Quarto
 
@@ -349,6 +351,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/publication_perfect](https://github.com/hbctraining/publication_perfect) | [website](https://hbctraining.github.io/publication_perfect/)
 - [**C. Li** cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends)
 - [**Claus Wilke** clauswilke/dataviz](https://github.com/clauswilke/dataviz) | [website](https://clauswilke.com/dataviz)
+- [**Hands-On Data Visualization** HandsOnDataViz/book](https://github.com/handsondataviz/book) | [website](https://handsondataviz.org)
+- [**Carson Sievert** cpsievert/plotly_book](https://github.com/cpsievert/plotly_book) | [website](https://plotly-r.com)
 
 ### Java
 
@@ -430,6 +434,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Data Carpentry** datacarpentry/cloud-genomics](https://github.com/datacarpentry/cloud-genomics) | [website](https://datacarpentry.org/cloud-genomics/)
 - [**AWS Samples** aws-samples/aws-hpc-tutorials](https://github.com/aws-samples/aws-hpc-tutorials) | [website](https://hpcworkshops.com)
 - [**Eija Korpelainen** ekorpela/cloud-vm-workshop](https://github.com/ekorpela/cloud-vm-workshop/tree/master/materials)
+- [**Lynn Langit** lynnlangit/gcp-for-bioinformatics](https://github.com/lynnlangit/gcp-for-bioinformatics) | [website](https://www.youtube.com/playlist?list=PL4Q4HssKcxYvcixWS08UFaYIH7y4IAV0z)
 
 ## Omics analysis
 
@@ -598,6 +603,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/NGS-longreads-training](https://github.com/sib-swiss/NGS-longreads-training) | [website](https://sib-swiss.github.io/NGS-longreads-training/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2021-August-Iso-Seq](https://github.com/ucdavis-bioinformatics-training/2021-August-Iso-Seq)
+- [**Ryan Wick** rrwick/Perfect-bacterial-genome-tutorial](https://github.com/rrwick/Perfect-bacterial-genome-tutorial)
 
 ### Metabolomics
 
@@ -682,6 +688,13 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Shawn Rhoads** shawnrhoads/gu-psyc-347](https://github.com/shawnrhoads/gu-psyc-347) | [website](https://shawnrhoads.github.io/gu-psyc-347/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-openrefine-dm-practices](https://github.com/NBISweden/module-openrefine-dm-practices/) | [website](https://nbisweden.github.io/module-openrefine-dm-practices/)
 - [**Pablo Casas** pablo14/data-science-live-book](https://github.com/pablo14/data-science-live-book) | [website](http://livebook.datascienceheroes.com)
+- [**Roger D. Peng** rdpeng/artofdatascience](https://github.com/rdpeng/artofdatascience)
+- [**Data Science 8** data-8/textbook](https://github.com/data-8/textbook) | [website](http://www.inferentialthinking.com)
+- [**Federico Carrone** unbalancedparentheses/data_science_in_julia_for_hackers](https://github.com/unbalancedparentheses/data_science_in_julia_for_hackers) | [website](https://datasciencejuliahackers.com)
+- [**Berkeley Data Science 100** DS-100/textbook](https://github.com/DS-100/textbook/) | [website](https://learningds.org)
+- [**Edwin Thoen** EdwinTh/ADSwR](https://github.com/edwinth/ADSwR) | [website](https://edwinth.github.io/ADSwR/)
+- [**tidyverse** tidyverse/datascience-box](https://github.com/tidyverse/datascience-box) | [website](https://datasciencebox.org)
+- [**Modern Data Science with R** mdsr-book/mdsr-book.github.io](https://github.com/mdsr-book/mdsr-book.github.io)
 
 ### Statistics
 
@@ -707,6 +720,11 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Matthew B. Jané** MatthewBJane/guide-to-effect-sizes-and-confidence-intervals](https://github.com/MatthewBJane/guide-to-effect-sizes-and-confidence-intervals) | [website](https://matthewbjane.quarto.pub/guide-to-effect-sizes-and-confidence-intervals/)
 - [**Richard McElreath** rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)
 - [**Monash Data Fluency** MonashDataFluency/r-linear](https://github.com/MonashDataFluency/r-linear) | [website](https://monashdatafluency.github.io/r-linear/)
+- [**OpenIntro** OpenIntroStat/ims](https://github.com/OpenIntroStat/ims/) | [website](https://openintro-ims2.netlify.app)
+- [**Allen Downey** AllenDowney/ThinkBayes](https://github.com/AllenDowney/ThinkBayes)
+- [**Måns Thulin** mthulin/mswr-book](https://github.com/mthulin/mswr-book)
+- [**A. Solomon Kurz** ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed](https://github.com/ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed) | [website](https://bookdown.org/content/4857/)
+- [**Allen Downey** AllenDowney/ThinkStats2](https://github.com/AllenDowney/ThinkStats2) | [website](http://allendowney.github.io/ThinkStats2/)
 
 ### Machine learning
 
@@ -734,6 +752,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/pytorch-practical-training](https://github.com/sib-swiss/pytorch-practical-training)
 - [**Applied Machine Learning for Tabular Data** aml4td/website](https://github.com/aml4td/website) | [website](https://aml4td.org)
 - [**posit-conf-2023** posit-conf-2023/python-modeling](https://github.com/posit-conf-2023/python-modeling)
+- [**Emil Hvitfeldt** EmilHvitfeldt/smltar](https://github.com/EmilHvitfeldt/smltar) | [website](https://smltar.com)
 
 ## Others
 
