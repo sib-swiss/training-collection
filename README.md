@@ -322,7 +322,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Martin J Frigaard** mjfrigaard/shinypak](https://github.com/mjfrigaard/shinyap) | [website](https://mjfrigaard.github.io/shinypak/)
 - [**Rami Krispin** RamiKrispin/shinylive-r](https://github.com/RamiKrispin/shinylive-r) | [website](https://ramikrispin.github.io/shinylive-r/)
-- [**posit-dev** posit-dev/shiny-python-workshop-2023](https://github.com/posit-dev/shiny-python-workshop-2023) | [website](https://posit-dev.github.io/shiny-python-workshop-2023/)
+- [**posit-dev** posit-dev/py-shiny-workshop](https://github.com/posit-dev/shiny-python-workshop-2023) | [website](https://posit-dev.github.io/py-shiny-workshop)
 - [**posit-conf-2023** posit-conf-2023/shiny-r-intro](https://github.com/posit-conf-2023/shiny-r-intro) | [website](https://posit-conf-2023.github.io/shiny-r-intro/)
 - [**posit-conf-2023** posit-conf-2023/shiny-r-ui](https://github.com/posit-conf-2023/shiny-r-ui) | [website](https://webdesign4shiny.rinterface.com)
 - [**posit-conf-2023** posit-conf-2023/shiny-r-dashboard](https://github.com/posit-conf-2023/shiny-r-dashboard) | [website](https://posit-conf-2023.github.io/shiny-r-dashboard/)
@@ -475,7 +475,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/DGE_workshop_salmon_online](https://github.com/hbctraining/DGE_workshop_salmon_online) | [website](https://hbctraining.github.io/DGE_workshop_salmon_online/)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-rnaseq-hpc-salmon-flipped](https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped) | [website](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/RNAseq-introduction-training](https://github.com/sib-swiss/RNAseq-introduction-training)
-- [**Stefano Mangiola** stemangiola/bioc_2020_tidytranscriptomics](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) | [website](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/)
+- [**Mangiola Laboratory** stemangiola/bioc_2020_tidytranscriptomics](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) | [website](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/)
 - [**Tidy-transcriptomics workshops** tidytranscriptomics-workshops/bioc2022_tidytranscriptomics](https://github.com/tidytranscriptomics-workshops/bioc2022_tidytranscriptomics) | [website](https://tidytranscriptomics-workshops.github.io/bioc2022_tidytranscriptomics/index.html)
 - [**Xueyi Dong** XueyiDong/RNAseq123workshop](https://github.com/XueyiDong/RNAseq123workshop)
 - [**Amarinder** amarinderthind/RNA-seq-tutorial-for-gene-differential-expression-analysis](https://github.com/amarinderthind/RNA-seq-tutorial-for-gene-differential-expression-analysis)
@@ -616,6 +616,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**statOmics** statOmics/PDA](https://github.com/statomics/PDA)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/IBIP19](https://github.com/gtpb/IBIP19) | [website](https://gtpb.github.io/IBIP19/)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PDA19](https://github.com/gtpb/PDA19) | [website](https://gtpb.github.io/PDA19/)
+- [**PickyBinders** PickyBinders/geometric-learning-protein-structures-course](https://github.com/PickyBinders/geometric-learning-protein-structures-course)
 
 ### Pathways and Networks
 
