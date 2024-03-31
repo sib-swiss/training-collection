@@ -32,6 +32,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [MATLAB/Octave](#matlab/octave)
   - [SQL](#sql)
   - [C/C++](#c/c++)
+  - [Rust](#rust)
 - [Computational methods and pipelines](#computational-methods-and-pipelines)
   - [Containerization](#containerization)
   - [Galaxy](#galaxy)
@@ -244,7 +245,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/R-ecology-lesson-intermediate](https://github.com/carpentries-incubator/R-ecology-lesson-intermediate) | [website](https://carpentries-incubator.github.io/R-ecology-lesson-intermediate/)
 - [**carpentries-incubator** carpentries-incubator/open-science-with-r](https://github.com/carpentries-incubator/open-science-with-r) | [website](https://carpentries-incubator.github.io/open-science-with-r/)
 - [**carpentries-incubator** carpentries-incubator/reproducible-publications-quarto](https://github.com/carpentries-incubator/Reproducible-Publications-with-RStudio) | [website](https://carpentries-incubator.github.io/reproducible-publications-quarto/)
-- [**Data Carpentry** datacarpentry/R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) | [website](https://datacarpentry.org/R-ecology-lesson)
+- [**Data Carpentry** datacarpentry/R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) | [website](https://datacarpentry.org/R-ecology-lesson/)
 - [**Data Carpentry** datacarpentry/genomics-r-intro](https://github.com/datacarpentry/genomics-r-intro) | [website](https://datacarpentry.org/genomics-r-intro/)
 - [**Data Carpentry** datacarpentry/rr-automation](https://github.com/datacarpentry/rr-automation) | [website](http://www.datacarpentry.org/rr-automation/)
 - [**Data Carpentry** datacarpentry/rr-literate-programming](https://github.com/datacarpentry/rr-literate-programming)
@@ -376,6 +377,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**LiaBooks ... by LiaScript** LiaBooks/C-Programming](https://github.com/LiaBooks/C-Programming) | [website](https://liascript.github.io/course/)
 
+### Rust
+
+- [**Google** google/comprehensive-rust](https://github.com/google/comprehensive-rust) | [website](https://google.github.io/comprehensive-rust/)
+
 ## Computational methods and pipelines
 
 
@@ -400,6 +405,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**cambiotraining** cambiotraining/hpc-intro](https://github.com/cambiotraining/hpc-intro) | [website](https://cambiotraining.github.io/hpc-intro/)
 - [**carpentries-incubator** carpentries-incubator/lesson-gpu-programming](https://github.com/carpentries-incubator/lesson-gpu-programming) | [website](https://carpentries-incubator.github.io/lesson-gpu-programming/)
 - [**PerMedCoE** PerMedCoE/cluster-tutorial](https://github.com/permedcoe/cluster-tutorial)
+- [**George G. Vega Yon** gvegayon/appliedhpcr](https://github.com/gvegayon/appliedhpcr)
 
 ### Workflows
 
@@ -428,6 +434,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/SDC-BIDS-dMRI](https://github.com/carpentries-incubator/SDC-BIDS-dMRI) | [website](https://carpentries-incubator.github.io/SDC-BIDS-dMRI/)
 - [**Data Carpentry** datacarpentry/image-processing](https://github.com/datacarpentry/image-processing) | [website](https://datacarpentry.org/image-processing)
 - [**Dominic Waithe** dwaithe/model-training](https://github.com/dwaithe/model-training)
+- [**NEUBIAS** NEUBIAS/training-resources](https://github.com/NEUBIAS/training-resources) | [website](https://neubias.github.io/training-resources)
 
 ### Cloud computing
 
@@ -726,6 +733,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Måns Thulin** mthulin/mswr-book](https://github.com/mthulin/mswr-book)
 - [**A. Solomon Kurz** ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed](https://github.com/ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed) | [website](https://bookdown.org/content/4857/)
 - [**Allen Downey** AllenDowney/ThinkStats2](https://github.com/AllenDowney/ThinkStats2) | [website](http://allendowney.github.io/ThinkStats2/)
+- [**Daniel Kaplan** dtkaplan/Lessons-in-statistical-thinking](https://github.com/dtkaplan/Lessons-in-statistical-thinking)
 
 ### Machine learning
 
@@ -754,6 +762,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Applied Machine Learning for Tabular Data** aml4td/website](https://github.com/aml4td/website) | [website](https://aml4td.org)
 - [**posit-conf-2023** posit-conf-2023/python-modeling](https://github.com/posit-conf-2023/python-modeling)
 - [**Emil Hvitfeldt** EmilHvitfeldt/smltar](https://github.com/EmilHvitfeldt/smltar) | [website](https://smltar.com)
+- [**Navid Nobani** Naviden/ML-intro-with-Python](https://github.com/Naviden/ML-intro-with-Python)
 
 ## Others
 
