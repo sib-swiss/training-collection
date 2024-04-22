@@ -259,7 +259,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**genomicsclass** genomicsclass/book](https://github.com/genomicsclass/book) | [website](http://genomicsclass.github.io/book/)
 - [**Kristyna Kupkova** kkupkova/GenomicDistributionsBioC2022](https://github.com/kkupkova/GenomicDistributions_BioC2022)
 - [**Workflow Languages in R** rworkflow/RcwlWorkshop](https://github.com/rworkflow/RcwlWorkshop) | [website](http://rcwl.org/RcwlWorkshop/)
-- [**tidybiology** tidyomics/tidyomicsWorkshopBioc2023](https://github.com/tidybiology/tidyomicsWorkshopBioc2023) | [website](https://tidyomics.github.io/tidyomicsWorkshopBioc2023)
+- [**tidyomics** tidyomics/tidyomicsWorkshopBioc2023](https://github.com/tidyomics/tidyomicsWorkshopBioc2023) | [website](https://tidyomics.github.io/tidyomicsWorkshopBioc2023)
 - [**Surgical Informatics** SurgicalInformatics/healthyr_book](https://github.com/SurgicalInformatics/healthyr_book/tree/master) | [website](https://argoshare.is.ed.ac.uk/healthyr_book/)
 - [**Trevor French** TrevorFrench/R-for-Data-Analysis](https://github.com/TrevorFrench/R-for-Data-Analysis) | [website](https://trevorfrench.github.io/R-for-Data-Analysis/)
 - [**UM Carpentries** UMCarpentries/intro-curriculum-r](https://github.com/UMCarpentries/intro-curriculum-r/) | [website](https://umcarpentries.org/intro-curriculum-r/)
@@ -310,6 +310,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**swirl development team** swirldev/swirl](https://github.com/swirldev/swirl) | [website](http://swirlstats.com)
 - [**JD Long** CerebralMastication/R-Cookbook](https://github.com/CerebralMastication/R-Cookbook)
 - [**r-spark** r-spark/the-r-in-spark](https://github.com/r-spark/the-r-in-spark) | [website](http://therinspark.com)
+- [**R for the Rest of Us** rfortherestofus/book](https://github.com/rfortherestofus/book)
 
 ### Quarto
 
@@ -424,6 +425,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/containers-snakemake-training](https://github.com/sib-swiss/containers-snakemake-training) | [website](https://sib-swiss.github.io/containers-snakemake-training/)
 - [**carpentries-incubator** carpentries-incubator/cwl-novice-tutorial](https://github.com/carpentries-incubator/cwl-novice-tutorial) | [website](https://carpentries-incubator.github.io/cwl-novice-tutorial/)
 - [**Romain Feron** RomainFeron/workshop-snakemake-sibdays2022](https://github.com/RomainFeron/workshop-snakemake-sibdays2022)
+- [**Dockstore** dockstore/bcc2020-training](https://github.com/dockstore/bcc2020-training)
 
 ### Image analysis
 
@@ -481,8 +483,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/bioc-rnaseq](https://github.com/carpentries-incubator/bioc-rnaseq) | [website](https://carpentries-incubator.github.io/bioc-rnaseq)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/DGE_workshop_salmon_online](https://github.com/hbctraining/DGE_workshop_salmon_online) | [website](https://hbctraining.github.io/DGE_workshop_salmon_online/)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-rnaseq-hpc-salmon-flipped](https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped) | [website](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/)
-- [**SIB Swiss Institute of Bioinformatics** sib-swiss/RNAseq-introduction-training](https://github.com/sib-swiss/RNAseq-introduction-training)
-- [**Mangiola Laboratory** stemangiola/bioc_2020_tidytranscriptomics](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) | [website](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/RNAseq-introduction-training](https://github.com/sib-swiss/RNAseq-introduction-training) | [website](https://sib-swiss.github.io/RNAseq-introduction-training/)
+- [**Stefano Mangiola** stemangiola/bioc_2020_tidytranscriptomics](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) | [website](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/)
 - [**Tidy-transcriptomics workshops** tidytranscriptomics-workshops/bioc2022_tidytranscriptomics](https://github.com/tidytranscriptomics-workshops/bioc2022_tidytranscriptomics) | [website](https://tidytranscriptomics-workshops.github.io/bioc2022_tidytranscriptomics/index.html)
 - [**Xueyi Dong** XueyiDong/RNAseq123workshop](https://github.com/XueyiDong/RNAseq123workshop)
 - [**Amarinder** amarinderthind/RNA-seq-tutorial-for-gene-differential-expression-analysis](https://github.com/amarinderthind/RNA-seq-tutorial-for-gene-differential-expression-analysis)
@@ -734,6 +736,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**A. Solomon Kurz** ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed](https://github.com/ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed) | [website](https://bookdown.org/content/4857/)
 - [**Allen Downey** AllenDowney/ThinkStats2](https://github.com/AllenDowney/ThinkStats2) | [website](http://allendowney.github.io/ThinkStats2/)
 - [**Daniel Kaplan** dtkaplan/Lessons-in-statistical-thinking](https://github.com/dtkaplan/Lessons-in-statistical-thinking)
+- [**Oslo Centre for Biostatistics and Epidemiology** ocbe-uio/teaching_mf9130e](https://github.com/ocbe-uio/teaching_mf9130e) | [website](https://ocbe-uio.github.io/teaching_mf9130e/)
+- [**Oslo Centre for Biostatistics and Epidemiology** ocbe-uio/course_med3007](https://github.com/ocbe-uio/course_med3007) | [website](https://ocbe-uio.github.io/course_med3007/)
 
 ### Machine learning
 
