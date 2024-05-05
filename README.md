@@ -311,6 +311,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**JD Long** CerebralMastication/R-Cookbook](https://github.com/CerebralMastication/R-Cookbook)
 - [**r-spark** r-spark/the-r-in-spark](https://github.com/r-spark/the-r-in-spark) | [website](http://therinspark.com)
 - [**R for the Rest of Us** rfortherestofus/book](https://github.com/rfortherestofus/book)
+- [**mictes** mictes/Shiny_Tutorial](https://github.com/mictes/Shiny_Tutorial) | [website](https://mictes.github.io/Shiny_Tutorial/)
 
 ### Quarto
 
@@ -355,6 +356,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Claus Wilke** clauswilke/dataviz](https://github.com/clauswilke/dataviz) | [website](https://clauswilke.com/dataviz)
 - [**Hands-On Data Visualization** HandsOnDataViz/book](https://github.com/handsondataviz/book) | [website](https://handsondataviz.org)
 - [**Carson Sievert** cpsievert/plotly_book](https://github.com/cpsievert/plotly_book) | [website](https://plotly-r.com)
+- [**Colin Diesh** cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization/ ) | [website](https://cmdcolin.github.io/awesome-genome-visualization/)
 
 ### Java
 
