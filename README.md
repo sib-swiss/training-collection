@@ -657,7 +657,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-open-science-dm-practices](https://github.com/NBISweden/module-open-science-dm-practices/) | [website](https://nbisweden.github.io/module-open-science-dm-practices/index.html)
 - [**Health Data Science Sandbox** hds-sandbox/RDM_NGS_course](https://github.com/hds-sandbox/RDM_NGS_course) | [website](https://hds-sandbox.github.io/RDM_NGS_course/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/Introduction-FAIR-RDM-DMP](https://github.com/sib-swiss/Introduction-FAIR-RDM-DMP) | [website](https://sib-swiss.github.io/Introduction-FAIR-RDM-DMP/)
-- [**BioData.pt** BioData-PT/Ready4BioDataManagement](https://github.com/BioData-PT/Ready4BioDataManagement)
+- [**BioData.pt** BioData-PT/Ready4BioDataManagement](https://github.com/BioData-PT/Ready4BioDataManagement) | [website](https://biodata.pt/training/programmes/r4bdm)
 - [**posit-conf-2023** posit-conf-2023/managing-os-project](https://github.com/posit-conf-2023/managing-os-project) | [website](https://posit-conf-2023.github.io/managing-os-project/)
 
 ### FAIR data
