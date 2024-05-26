@@ -159,6 +159,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**BioINForm** bioinform-org/bioinforming-hs](https://github.com/bioinform-org/bioinforming-hs)
 - [**Daniel Chen** chendaniely/positconf2023-academy_python](https://github.com/chendaniely/positconf2023-academy_python)
 - [**Rami Krispin** RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python)
+- [**Wes McKinney** wesm/pydata-book](https://github.com/wesm/pydata-book)
 
 ### R
 
@@ -252,7 +253,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**RStudio Education** rstudio-education/stat545](https://github.com/rstudio-education/stat545) | [website](https://stat545.com)
 - [**nullranges** tidyomics/tidy-ranges-tutorial](https://github.com/nullranges/tidy-ranges-tutorial) | [website](https://tidyomics.github.io/tidy-ranges-tutorial/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-epigenomics-RTDs](https://github.com/NBISweden/workshop-epigenomics-RTDs/) | [website](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/)
-- [**Library Data Services** UNC-Libraries-data/R-Open-Labs](https://github.com/UNC-Libraries-data/R-Open-Labs)
+- [**Library Data Services** UNC-Libraries-data/R-Open-Labs](https://github.com/UNC-Libraries-data/R-Open-Labs) | [website](https://tarheels.live/beginr/)
 - [**Greg Wilson** gvwilson/tidynomicon](https://github.com/gvwilson/tidynomicon) | [website](http://tidynomicon.github.io/tidynomicon)
 - [**Vince Carey** vjcitn/BiocPyInterop](https://github.com/vjcitn/BiocPyInterop) | [website](https://vjcitn.github.io/BiocPyInterop/)
 - [**Bioinformatics, Rockefeller University** RockefellerUniversity/RU_VisualizingGenomicsData](https://github.com/RockefellerUniversity/RU_VisualizingGenomicsData)
@@ -594,6 +595,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Canadian Bioinformatics Workshops** bioinformatics-ca/IDE_2021](https://github.com/bioinformatics-ca/IDE_2021)
 - [**Chloe Mirzayi** cmirzayi/EpiForBioWorkshop2020](https://github.com/cmirzayi/EpiForBioWorkshop2020) | [website](https://cmirzayi.github.io/EpiForBioWorkshop2020/)
 - [**bioinformatics.ca** bioinformaticsdotca/IDE_2023](https://github.com/bioinformaticsdotca/IDE_2023)
+- [**bioinformatics.ca** bioinformaticsdotca/IDE_2024](https://github.com/bioinformaticsdotca/IDE_2024)
+- [**Alli Black** alliblk/genepi-book](https://github.com/alliblk/genepi-book) | [website](https://alliblk.github.io/genepi-book/)
 
 ### Multiomics
 
@@ -769,6 +772,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**posit-conf-2023** posit-conf-2023/python-modeling](https://github.com/posit-conf-2023/python-modeling)
 - [**Emil Hvitfeldt** EmilHvitfeldt/smltar](https://github.com/EmilHvitfeldt/smltar) | [website](https://smltar.com)
 - [**Navid Nobani** Naviden/ML-intro-with-Python](https://github.com/Naviden/ML-intro-with-Python)
+- [**Maxime Labonne** mlabonne/llm-course](https://github.com/mlabonne/llm-course) | [website](https://mlabonne.github.io/blog/)
 
 ## Others
 
