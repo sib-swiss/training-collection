@@ -54,6 +54,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Genome assembly](#genome-assembly)
   - [Metagenomics](#metagenomics)
   - [Epidemiology](#epidemiology)
+  - [Microbiology](#microbiology)
   - [Multiomics](#multiomics)
   - [Spatial transcriptomics](#spatial-transcriptomics)
   - [Long read sequencing](#long-read-sequencing)
@@ -317,11 +318,12 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**mictes** mictes/Shiny_Tutorial](https://github.com/mictes/Shiny_Tutorial) | [website](https://mictes.github.io/Shiny_Tutorial/)
 - [**jjallaire** jjallaire/hopr](https://github.com/jjallaire/hopr)
 - [**Rohan Alexander** RohanAlexander/telling_stories](https://github.com/RohanAlexander/telling_stories/) | [website](https://rohanalexander.github.io/telling_stories/)
+- [**Leonardo Collado-Torres** lcolladotor/cshl_rstats_genome_scale_2024](https://github.com/lcolladotor/cshl_rstats_genome_scale_2024) | [website](https://lcolladotor.github.io/cshl_rstats_genome_scale_2024)
 
 ### Quarto
 
-- [**UCSB-MEDS** UCSB-MEDS/customizing-quarto-websites](https://github.com/UCSB-MEDS/customizing-quarto-websites) | [website](https://ucsb-meds.github.io/customizing-quarto-websites/)
-- [**UCSB-MEDS** UCSB-MEDS/creating-quarto-websites](https://github.com/UCSB-MEDS/creating-quarto-websites) | [website](https://ucsb-meds.github.io/creating-quarto-websites/)
+- [**Master of Environmental Data Science (MEDS) program** UCSB-MEDS/customizing-quarto-websites](https://github.com/UCSB-MEDS/customizing-quarto-websites) | [website](https://ucsb-meds.github.io/customizing-quarto-websites/)
+- [**Master of Environmental Data Science (MEDS) program** UCSB-MEDS/creating-quarto-websites](https://github.com/UCSB-MEDS/creating-quarto-websites) | [website](https://ucsb-meds.github.io/creating-quarto-websites/)
 - [**posit-conf-2023** posit-conf-2023/quarto-r](https://github.com/posit-conf-2023/quarto-r) | [website](https://posit-conf-2023.github.io/quarto-r/)
 - [**Hamel Husain** hamelsmu/posit-python-quarto](https://github.com/hamelsmu/posit-python-quarto) | [website](https://bit.ly/pyquarto)
 - [**Isabella Velásquez** ivelasq/2024-01-23_getting-started-with-report-writing-using-quarto](https://github.com/ivelasq/2024-01-23_getting-started-with-report-writing-using-quarto) | [website](https://ivelasq.quarto.pub/getting-started-with-report-writing-using-quarto/#/title-slide)
@@ -546,6 +548,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bioinformatics.ca** bioinformaticsdotca/scRNA_2023](https://github.com/bioinformaticsdotca/scRNA_2023)
 - [**Theis Lab** theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial)
 - [**PAIR code** PAIR-code/understanding-umap](https://github.com/PAIR-code/understanding-umap) | [website](https://pair-code.github.io/understanding-umap)
+- [**material-share** material-share/material-share-single-cell-boot-camp](https://github.com/material-share/material-share-single-cell-boot-camp)
 
 ### Variant analysis
 
@@ -595,6 +598,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2021-May-Microbial-Community-Analysis](https://github.com/ucdavis-bioinformatics-training/2021-May-Microbial-Community-Analysis)
 - [**bioinformatics.ca** bioinformaticsdotca/MIC_2023](https://github.com/bioinformaticsdotca/MIC_2023)
 - [**bioinformatics.ca** bioinformaticsdotca/MIC_2022](https://github.com/bioinformaticsdotca/MIC_2022)
+- [**bioinformatics.ca** bioinformaticsdotca/AMB_2024](https://github.com/bioinformaticsdotca/AMB_2024)
 
 ### Epidemiology
 
@@ -604,6 +608,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bioinformatics.ca** bioinformaticsdotca/IDE_2023](https://github.com/bioinformaticsdotca/IDE_2023)
 - [**bioinformatics.ca** bioinformaticsdotca/IDE_2024](https://github.com/bioinformaticsdotca/IDE_2024)
 - [**Alli Black** alliblk/genepi-book](https://github.com/alliblk/genepi-book) | [website](https://alliblk.github.io/genepi-book/)
+
+### Microbiology
+
+- [**bioinformatics.ca** bioinformaticsdotca/BMB_2024](https://github.com/bioinformaticsdotca/BMB_2024)
 
 ### Multiomics
 
