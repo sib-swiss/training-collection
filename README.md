@@ -163,6 +163,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Wes McKinney** wesm/pydata-book](https://github.com/wesm/pydata-book)
 - [**Lino Galiana** linogaliana/python-datascientist](https://github.com/linogaliana/python-datascientist) | [website](https://pythonds.linogaliana.fr)
 - [**Kevin Heavey** kevinheavey/modern-polars](https://github.com/kevinheavey/modern-polars/) | [website](https://kevinheavey.github.io/modern-polars/)
+- [**Python Packages** py-pkgs/py-pkgs](https://github.com/py-pkgs/py-pkgs) | [website](https://py-pkgs.org)
 
 ### R
 
@@ -327,6 +328,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**posit-conf-2023** posit-conf-2023/quarto-r](https://github.com/posit-conf-2023/quarto-r) | [website](https://posit-conf-2023.github.io/quarto-r/)
 - [**Hamel Husain** hamelsmu/posit-python-quarto](https://github.com/hamelsmu/posit-python-quarto) | [website](https://bit.ly/pyquarto)
 - [**Isabella Velásquez** ivelasq/2024-01-23_getting-started-with-report-writing-using-quarto](https://github.com/ivelasq/2024-01-23_getting-started-with-report-writing-using-quarto) | [website](https://ivelasq.quarto.pub/getting-started-with-report-writing-using-quarto/#/title-slide)
+- [**Julien Roux** julien-roux/SIB_days_2024_workshop_EDI](https://github.com/julien-roux/SIB_days_2024_workshop_EDI/)
 
 ### Shiny
 
@@ -338,6 +340,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**posit-conf-2023** posit-conf-2023/shiny-r-dashboard](https://github.com/posit-conf-2023/shiny-r-dashboard) | [website](https://posit-conf-2023.github.io/shiny-r-dashboard/)
 - [**posit-conf-2023** posit-conf-2023/shiny-r-prod](https://github.com/posit-conf-2023/shiny-r-prod) | [website](https://posit-conf-2023.github.io/shiny-r-prod/)
 - [**ThinkR** ThinkR-open/engineering-shiny-book](https://github.com/ThinkR-open/engineering-shiny-book) | [website](https://engineering-shiny.org)
+- [**Ted Laderas** laderast/shinyowl](https://github.com/laderast/shinyowl/) | [website](https://laderast.github.io/shinyowl)
 
 ### Julia
 
@@ -392,6 +395,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Rust
 
 - [**Google** google/comprehensive-rust](https://github.com/google/comprehensive-rust) | [website](https://google.github.io/comprehensive-rust/)
+- [**The Rust Programming Language** rust-lang/rustlings](https://github.com/rust-lang/rustlings) | [website](https://rustlings.cool)
 
 ## Computational methods and pipelines
 
@@ -472,6 +476,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Data Carpentry** datacarpentry/genomics-workshop](https://github.com/datacarpentry/genomics-workshop) | [website](https://datacarpentry.org/genomics-workshop)
 - [**Data Carpentry** datacarpentry/organization-genomics](https://github.com/datacarpentry/organization-genomics) | [website](https://datacarpentry.org/organization-genomics)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/ELB19F](https://github.com/gtpb/ELB19F) | [website](https://gtpb.github.io/ELB19F/)
+- [**The McDonnell Genome Institute** genome/bfx-workshop](https://github.com/genome/bfx-workshop)
 
 ### Next generation sequencing
 
@@ -515,6 +520,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2023-June-RNA-Seq-Analysis](https://github.com/ucdavis-bioinformatics-training/2023-June-RNA-Seq-Analysis)
 - [**bioinformatics.ca** bioinformaticsdotca/RNA_2023](https://github.com/bioinformaticsdotca/RNA_2023)
 - [**bioinformatics.ca** bioinformaticsdotca/PNA_2023](https://github.com/bioinformaticsdotca/PNA_2023)
+- [**The Griffith Lab** griffithlab/rnabio.org](https://github.com/griffithlab/rnabio.org) | [website](http://rnabio.org)
 
 ### Single-cell sequencing
 
@@ -627,6 +633,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2022-December-Spatial-Transcriptomics](https://github.com/ucdavis-bioinformatics-training/2022-December-Spatial-Transcriptomics)
 - [**Lukas Weber** lmweber/BestPracticesST](https://github.com/lmweber/BestPracticesST) | [website](https://lmweber.org/BestPracticesST/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-spatial](https://github.com/NBISweden/workshop-spatial)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/spatial-transcriptomics-training](https://github.com/sib-swiss/spatial-transcriptomics-training/) | [website](https://sib-swiss.github.io/spatial-transcriptomics-training/)
 
 ### Long read sequencing
 
@@ -725,6 +732,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Edwin Thoen** EdwinTh/ADSwR](https://github.com/edwinth/ADSwR) | [website](https://edwinth.github.io/ADSwR/)
 - [**tidyverse** tidyverse/datascience-box](https://github.com/tidyverse/datascience-box) | [website](https://datasciencebox.org)
 - [**Modern Data Science with R** mdsr-book/mdsr-book.github.io](https://github.com/mdsr-book/mdsr-book.github.io)
+- [**The Turing Way** the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) | [website](http://the-turing-way.org)
 
 ### Statistics
 
@@ -790,6 +798,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Navid Nobani** Naviden/ML-intro-with-Python](https://github.com/Naviden/ML-intro-with-Python)
 - [**Maxime Labonne** mlabonne/llm-course](https://github.com/mlabonne/llm-course) | [website](https://mlabonne.github.io/blog/)
 - [**mlr-org** mlr-org/mlr3book](https://github.com/mlr-org/mlr3book) | [website](https://mlr3book.mlr-org.com)
+- [**Inria** INRIA/scikit-learn-mooc](https://github.com/INRIA/scikit-learn-mooc) | [website](https://inria.github.io/scikit-learn-mooc)
 
 ## Others
 
