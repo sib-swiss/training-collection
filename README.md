@@ -758,7 +758,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Matthew B. Jané** MatthewBJane/guide-to-effect-sizes-and-confidence-intervals](https://github.com/MatthewBJane/guide-to-effect-sizes-and-confidence-intervals) | [website](https://matthewbjane.quarto.pub/guide-to-effect-sizes-and-confidence-intervals/)
 - [**Richard McElreath** rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)
 - [**Monash Data Fluency** MonashDataFluency/r-linear](https://github.com/MonashDataFluency/r-linear) | [website](https://monashdatafluency.github.io/r-linear/)
-- [**OpenIntro** OpenIntroStat/ims](https://github.com/OpenIntroStat/ims/) | [website](https://openintro-ims2.netlify.app)
+- [**OpenIntro** OpenIntroStat/ims](https://github.com/OpenIntroStat/ims/) | [website](https://openintro-ims.netlify.app)
 - [**Allen Downey** AllenDowney/ThinkBayes](https://github.com/AllenDowney/ThinkBayes)
 - [**Måns Thulin** mthulin/mswr-book](https://github.com/mthulin/mswr-book)
 - [**A. Solomon Kurz** ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed](https://github.com/ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed) | [website](https://bookdown.org/content/4857/)
