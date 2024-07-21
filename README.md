@@ -164,6 +164,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Lino Galiana** linogaliana/python-datascientist](https://github.com/linogaliana/python-datascientist) | [website](https://pythonds.linogaliana.fr)
 - [**Kevin Heavey** kevinheavey/modern-polars](https://github.com/kevinheavey/modern-polars/) | [website](https://kevinheavey.github.io/modern-polars/)
 - [**Python Packages** py-pkgs/py-pkgs](https://github.com/py-pkgs/py-pkgs) | [website](https://py-pkgs.org)
+- [**bioinfo-prog** bioinfo-prog/cours-python](https://github.com/bioinfo-prog/cours-python) | [website](https://python.sdv.u-paris.fr)
 
 ### R
 
@@ -320,6 +321,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**jjallaire** jjallaire/hopr](https://github.com/jjallaire/hopr)
 - [**Rohan Alexander** RohanAlexander/telling_stories](https://github.com/RohanAlexander/telling_stories/) | [website](https://rohanalexander.github.io/telling_stories/)
 - [**Leonardo Collado-Torres** lcolladotor/cshl_rstats_genome_scale_2024](https://github.com/lcolladotor/cshl_rstats_genome_scale_2024) | [website](https://lcolladotor.github.io/cshl_rstats_genome_scale_2024)
+- [**Sophie Lee** sophie-a-lee/Introduction_R_Tidyverse_course](https://github.com/sophie-a-lee/Introduction_R_Tidyverse_course) | [website](https://introduction-r-tidyverse.netlify.app)
 
 ### Quarto
 
