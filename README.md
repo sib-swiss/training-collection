@@ -322,6 +322,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Rohan Alexander** RohanAlexander/telling_stories](https://github.com/RohanAlexander/telling_stories/) | [website](https://rohanalexander.github.io/telling_stories/)
 - [**Leonardo Collado-Torres** lcolladotor/cshl_rstats_genome_scale_2024](https://github.com/lcolladotor/cshl_rstats_genome_scale_2024) | [website](https://lcolladotor.github.io/cshl_rstats_genome_scale_2024)
 - [**Sophie Lee** sophie-a-lee/Introduction_R_Tidyverse_course](https://github.com/sophie-a-lee/Introduction_R_Tidyverse_course) | [website](https://introduction-r-tidyverse.netlify.app)
+- [**Sophie Lee** sophie-a-lee/introduction_rstudio_dluch](https://github.com/sophie-a-lee/introduction_rstudio_dluch) | [website](https://intro-r-dluch.netlify.app)
 
 ### Quarto
 
