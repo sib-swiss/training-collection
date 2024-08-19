@@ -684,7 +684,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/capstone-novice-spreadsheet-biblio](https://github.com/carpentries-incubator/capstone-novice-spreadsheet-biblio) | [website](http://carpentries-incubator.github.io/capstone-novice-spreadsheet-biblio/)
 - [**ELIXIR Belgium** ELIXIR-Belgium/rdm-guide](https://github.com/ELIXIR-Belgium/rdm-guide) | [website](https://rdm.elixir-belgium.org)
 - [**ELIXIR Europe** elixir-europe/rdmkit](https://github.com/elixir-europe/rdmkit) | [website](https://rdmkit.elixir-europe.org)
-- [**ELIXIR-Norway Training** ELIXIR-Norway-Training/DMP-writing-workshop](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop) | [website](https://elixir.no)
+- [**ELIXIR-Norway Training** ELIXIR-Norway-Training/DMP-writing-workshop](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop) | [website](https://zenodo.org/doi/10.5281/zenodo.3693710)
 - [**OpenSciency** opensciency/sprint-content](https://github.com/opensciency/sprint-content) | [website](https://opensciency.github.io/sprint-content/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/ena-seqdata-training](https://github.com/sib-swiss/ena-seqdata-training) | [website](https://sib-swiss.github.io/ena-seqdata-training/)
 - [**VIB Technologies: Bioinformatics and software projects** vibbits/rdm-introductory-course](https://github.com/vibbits/rdm-introductory-course)
