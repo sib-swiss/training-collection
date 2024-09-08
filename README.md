@@ -166,6 +166,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Kevin Heavey** kevinheavey/modern-polars](https://github.com/kevinheavey/modern-polars/) | [website](https://kevinheavey.github.io/modern-polars/)
 - [**Python Packages** py-pkgs/py-pkgs](https://github.com/py-pkgs/py-pkgs) | [website](https://py-pkgs.org)
 - [**bioinfo-prog** bioinfo-prog/cours-python](https://github.com/bioinfo-prog/cours-python) | [website](https://python.sdv.u-paris.fr)
+- [**R. Burke Squires** burkesquires/python_biologist](https://github.com/burkesquires/python_biologist)
 
 ### R
 
@@ -324,6 +325,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Leonardo Collado-Torres** lcolladotor/cshl_rstats_genome_scale_2024](https://github.com/lcolladotor/cshl_rstats_genome_scale_2024) | [website](https://lcolladotor.github.io/cshl_rstats_genome_scale_2024)
 - [**Sophie Lee** sophie-a-lee/Introduction_R_Tidyverse_course](https://github.com/sophie-a-lee/Introduction_R_Tidyverse_course) | [website](https://introduction-r-tidyverse.netlify.app)
 - [**Sophie Lee** sophie-a-lee/introduction_rstudio_dluch](https://github.com/sophie-a-lee/introduction_rstudio_dluch) | [website](https://intro-r-dluch.netlify.app)
+- [**Stephen Turner** stephenturner/workshops](https://github.com/stephenturner/workshops) | [website](http://stephenturner.github.io/workshops)
 
 ### Quarto
 
@@ -487,6 +489,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/ELB19F](https://github.com/gtpb/ELB19F) | [website](https://gtpb.github.io/ELB19F/)
 - [**The McDonnell Genome Institute** genome/bfx-workshop](https://github.com/genome/bfx-workshop)
 - [**rapidspeciation** rapidspeciation/biodiversity_genomics_course](https://github.com/rapidspeciation/biodiversity_genomics_course)
+- [**Applied Genomics** Applied-Genomics-UTD/docs](https://github.com/Applied-Genomics-UTD/docs)
 
 ### Next generation sequencing
 
