@@ -463,6 +463,9 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Data Carpentry** datacarpentry/image-processing](https://github.com/datacarpentry/image-processing) | [website](https://datacarpentry.org/image-processing)
 - [**Dominic Waithe** dwaithe/model-training](https://github.com/dwaithe/model-training)
 - [**NEUBIAS** NEUBIAS/training-resources](https://github.com/NEUBIAS/training-resources) | [website](https://neubias.github.io/training-resources)
+- [**napari** napari/napari-workshop-template](https://github.com/napari/napari-workshop-template) | [website](https://napari.org/napari-workshop-template)
+- [**Kyle I S Harrington** kephale/napari-workshop-mandm-2023](https://github.com/kephale/napari-workshop-mandm-2023)
+- [**Chan Zuckerberg Initiative** chanzuckerberg/napari-segmentation-workshop](https://github.com/chanzuckerberg/napari-segmentation-workshop) | [website](https://chanzuckerberg.github.io/napari-segmentation-workshop/)
 
 ### Cloud computing
 
@@ -569,6 +572,12 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Theis Lab** theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial)
 - [**PAIR code** PAIR-code/understanding-umap](https://github.com/PAIR-code/understanding-umap) | [website](https://pair-code.github.io/understanding-umap)
 - [**material-share** material-share/material-share-single-cell-boot-camp](https://github.com/material-share/material-share-single-cell-boot-camp)
+- [**scverse** scverse/scverse-tutorials](https://github.com/scverse/scverse-tutorials) | [website](https://scverse-tutorials.readthedocs.io/en/latest/)
+- [**CDSB** ComunidadBioInfo/cdsb2021_scRNAseq](https://github.com/comunidadbioinfo/cdsb2021_scRNAseq/) | [website](https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/)
+- [**Leiden Computational Biology Center** LeidenCBC/MGC-BioSB-SingleCellAnalysis2022](https://github.com/LeidenCBC/MGC-BioSB-SingleCellAnalysis2022)
+- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/SingleCell_RNASeq_May23](https://github.com/bioinformatics-core-shared-training/SingleCell_RNASeq_May23) | [website](https://bioinformatics-core-shared-training.github.io/SingleCell_RNASeq_May23/)
+- [**Alex's Lemonade Stand Foundation** AlexsLemonade/2023-june-training](https://github.com/alexslemonade/2023-june-training/)
+- [**Alex's Lemonade Stand Foundation** AlexsLemonade/2023-march-training](https://github.com/alexslemonade/2023-march-training/)
 
 ### Variant analysis
 
@@ -598,6 +607,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Haibo Liu** haibol2016/ATACseqQCWorkshop](https://github.com/haibol2016/ATACseqQCWorkshop)
 - [**bioinformatics.ca** bioinformaticsdotca/EPI_2023](https://github.com/bioinformaticsdotca/EPI_2023)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2020-Epigenetics_Workshop](https://github.com/ucdavis-bioinformatics-training/2020-Epigenetics_Workshop)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-epigenomics-RTDs](https://github.com/NBISweden/workshop-epigenomics-RTDs) | [website](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/)
 
 ### Genome annotation
 
@@ -697,7 +707,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-metadata-dm-practices](https://github.com/NBISweden/module-metadata-dm-practices/) | [website](https://nbisweden.github.io/module-metadata-dm-practices/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-organising-data-dm-practices](https://github.com/NBISweden/module-organising-data-dm-practices/) | [website](https://nbisweden.github.io/module-organising-data-dm-practices/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-open-science-dm-practices](https://github.com/NBISweden/module-open-science-dm-practices/) | [website](https://nbisweden.github.io/module-open-science-dm-practices/index.html)
-- [**Health Data Science Sandbox** hds-sandbox/RDM_NGS_course](https://github.com/hds-sandbox/RDM_NGS_course) | [website](https://hds-sandbox.github.io/RDM_NGS_course/)
+- [**Health Data Science Sandbox** hds-sandbox/RDM_biodata_course](https://github.com/hds-sandbox/RDM_NGS_course) | [website](https://hds-sandbox.github.io/RDM_biodata_course/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/Introduction-FAIR-RDM-DMP](https://github.com/sib-swiss/Introduction-FAIR-RDM-DMP) | [website](https://sib-swiss.github.io/Introduction-FAIR-RDM-DMP/)
 - [**BioData.pt** BioData-PT/Ready4BioDataManagement](https://github.com/BioData-PT/Ready4BioDataManagement) | [website](https://biodata.pt/training/programmes/r4bdm)
 - [**posit-conf-2023** posit-conf-2023/managing-os-project](https://github.com/posit-conf-2023/managing-os-project) | [website](https://posit-conf-2023.github.io/managing-os-project/)
@@ -714,6 +724,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Institut Français de Bioinformatique (IFB)** IFB-ElixirFr/IFB-FAIR-bioinfo-training](https://github.com/IFB-ElixirFr/IFB-FAIR-bioinfo-training) | [website](https://ifb-elixirfr.github.io/IFB-FAIR-bioinfo-training)
 - [**Institut Français de Bioinformatique (IFB)** IFB-ElixirFr/IFB-FAIR-data-training](https://github.com/ifb-elixirfr/IFB-FAIR-data-training)
 - [**Sergio Martínez Cuesta** semacu/20180223_ORCID_Chemistry_Cambridge](https://github.com/semacu/20180223_ORCID_Chemistry_Cambridge)
+- [**FAIR-by-Design-Methodology** FAIR-by-Design-Methodology/FAIR-by-Design_Book](https://github.com/fair-by-design-methodology/FAIR-by-Design_Book/) | [website](https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/)
 
 ### Reproducibility
 
@@ -847,3 +858,4 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**BioinformaNicks** BioinformaNicks/Bioinformatics-training-collection](https://github.com/BioinformaNicks/Bioinformatics-training-collection)
 - [**Sex Chromosome Lab** SexChrLab/BioinformaticsIntroduction](https://github.com/SexChrLab/BioinformaticsIntroduction/)
 - [**Harvard Informatics** harvardinformatics/learning-bioinformatics-at-home](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
+- [**gladstone-institutes** gladstone-institutes/Bioinformatics-Workshops](https://github.com/gladstone-institutes/Bioinformatics-Workshops/) | [website](https://github.com/gladstone-institutes/Bioinformatics-Presentations/wiki)
