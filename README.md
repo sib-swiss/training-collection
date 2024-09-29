@@ -658,7 +658,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Integrative Computational Biology and Multiomics Research Group** ncl-icbam/ismb-tutorial-2023](https://github.com/ncl-icbam/ismb-tutorial-2023)
 - [**Sydney Precision Data Science Centre** SydneyBioX/StatialBioc2023](https://github.com/SydneyBioX/StatialBioc2023) | [website](https://SydneyBioX.github.io/StatialBioc2023/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2022-December-Spatial-Transcriptomics](https://github.com/ucdavis-bioinformatics-training/2022-December-Spatial-Transcriptomics)
-- [**Lukas Weber** lmweber/BestPracticesST](https://github.com/lmweber/BestPracticesST) | [website](https://lmweber.org/BestPracticesST/)
+- [**Lukas Weber** lmweber/BestPracticesST](https://github.com/lmweber/BestPracticesST) | [website](https://lmweber.org/PrinciplesSTA/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-spatial](https://github.com/NBISweden/workshop-spatial)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/spatial-transcriptomics-training](https://github.com/sib-swiss/spatial-transcriptomics-training/) | [website](https://sib-swiss.github.io/spatial-transcriptomics-training/)
 
