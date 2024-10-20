@@ -400,6 +400,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Carson Sievert** cpsievert/plotly_book](https://github.com/cpsievert/plotly_book) | [website](https://plotly-r.com)
 - [**Colin Diesh** cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization/ ) | [website](https://cmdcolin.github.io/awesome-genome-visualization/)
 - [**UW Interactive Data Lab** uwdata/visualization-curriculum](https://github.com/uwdata/visualization-curriculum) | [website](https://uwdata.github.io/visualization-curriculum/)
+- [**Fred Hutch Data Science Lab** fhdsl/better_plots](https://github.com/fhdsl/better_plots) | [website](https://hutchdatascience.org/better_plots)
 
 ### Java
 
@@ -552,7 +553,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Stefano Mangiola** stemangiola/bioc_2020_tidytranscriptomics](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) | [website](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/)
 - [**Tidy-transcriptomics workshops** tidytranscriptomics-workshops/bioc2022_tidytranscriptomics](https://github.com/tidytranscriptomics-workshops/bioc2022_tidytranscriptomics) | [website](https://tidytranscriptomics-workshops.github.io/bioc2022_tidytranscriptomics/index.html)
 - [**Xueyi Dong** XueyiDong/RNAseq123workshop](https://github.com/XueyiDong/RNAseq123workshop)
-- [**Amarinder** amarinderthind/RNA-seq-tutorial-for-gene-differential-expression-analysis](https://github.com/amarinderthind/RNA-seq-tutorial-for-gene-differential-expression-analysis)
+- [**Amarinder Singh Thind** amarinderthind/RNA-seq-tutorial-for-gene-differential-expression-analysis](https://github.com/amarinderthind/RNA-seq-tutorial-for-gene-differential-expression-analysis)
 - [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Bulk_RNASeq_Course_March23](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_March23) | [website](https://bioinformatics-core-shared-training.github.io/Bulk_RNASeq_Course_March23/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-RNAseq](https://github.com/NBISweden/workshop-RNAseq) | [website](https://NBISweden.github.io/workshop-RNAseq)
 - [**Health Data Science Sandbox** hds-sandbox/bulk_RNAseq_course](https://github.com/hds-sandbox/bulk_RNAseq_course) | [website](https://hds-sandbox.github.io/bulk_RNAseq_course/)
@@ -866,6 +867,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Inria** INRIA/scikit-learn-mooc](https://github.com/INRIA/scikit-learn-mooc) | [website](https://inria.github.io/scikit-learn-mooc)
 - [**posit::conf(2024)** posit-conf-2024/vetiver](https://github.com/posit-conf-2024/vetiver) | [website](https://posit-conf-2024.github.io/vetiver/)
 - [**posit::conf(2024)** posit-conf-2024/ml-python](https://github.com/posit-conf-2024/ml-python) | [website](https://posit-conf-2024.github.io/ml-python/)
+- [**Neuromatch Academy** NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content) | [website](https://compneuro.neuromatch.io)
 
 ### Artificial intelligence
 
