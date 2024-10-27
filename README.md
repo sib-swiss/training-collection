@@ -401,6 +401,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Colin Diesh** cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization/ ) | [website](https://cmdcolin.github.io/awesome-genome-visualization/)
 - [**UW Interactive Data Lab** uwdata/visualization-curriculum](https://github.com/uwdata/visualization-curriculum) | [website](https://uwdata.github.io/visualization-curriculum/)
 - [**Fred Hutch Data Science Lab** fhdsl/better_plots](https://github.com/fhdsl/better_plots) | [website](https://hutchdatascience.org/better_plots)
+- [**Kyran Dale** Kyrand/dataviz-with-python-and-js-ed-2](https://github.com/Kyrand/dataviz-with-python-and-js-ed-2)
 
 ### Java
 
@@ -431,7 +432,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### SPARQL
 
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/sparql-training](https://github.com/sib-swiss/sparql-training)
-- [**Department of Bioinformatics - BiGCaT** BiGCAT-UM/SPARQLTutorialBioSB2019](https://github.com/bigcat-um/SPARQLTutorialBioSB2019)
+- [**BiGCaT, Department of Translational Genomics** BiGCAT-UM/SPARQLTutorialBioSB2019](https://github.com/bigcat-um/SPARQLTutorialBioSB2019)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/SPARQL_course](https://github.com/sib-swiss/SPARQL_course)
 
 ### LaTeX
@@ -833,7 +834,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Daniel Kaplan** dtkaplan/Lessons-in-statistical-thinking](https://github.com/dtkaplan/Lessons-in-statistical-thinking)
 - [**Oslo Centre for Biostatistics and Epidemiology** ocbe-uio/teaching_mf9130e](https://github.com/ocbe-uio/teaching_mf9130e) | [website](https://ocbe-uio.github.io/teaching_mf9130e/)
 - [**Oslo Centre for Biostatistics and Epidemiology** ocbe-uio/course_med3007](https://github.com/ocbe-uio/course_med3007) | [website](https://ocbe-uio.github.io/course_med3007/)
-- [**Sébastien Wieckowski** sbwiecko/intuitive_biostatistics](https://github.com/sbwiecko/intuitive_biostatistics)
+- [**Sébastien Wieckowski** sbwiecko/intuitive_biostatistics](https://github.com/sbwiecko/intuitive_biostatistics) | [website](https://sbwiecko.github.io/intuitive_biostatistics/)
 
 ### Machine learning
 
