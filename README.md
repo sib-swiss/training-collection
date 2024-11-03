@@ -174,6 +174,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Sergio Martínez Cuesta** semacu/data-science-python](https://github.com/semacu/data-science-python)
 - [**MolSSI Education** MolSSI-Education/python_scripting_cms](https://github.com/MolSSI-Education/python_scripting_cms) | [website](https://molssi-education.github.io/python_scripting_cms)
 - [**Jean de Dieu Nyandwi** Nyandwi/PythonBasics](https://github.com/Nyandwi/PythonBasics)
+- [**Michael Pyrcz** GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)
 
 ### R
 
@@ -613,6 +614,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/SingleCell_RNASeq_May23](https://github.com/bioinformatics-core-shared-training/SingleCell_RNASeq_May23) | [website](https://bioinformatics-core-shared-training.github.io/SingleCell_RNASeq_May23/)
 - [**Alex's Lemonade Stand Foundation** AlexsLemonade/2023-june-training](https://github.com/alexslemonade/2023-june-training/)
 - [**Alex's Lemonade Stand Foundation** AlexsLemonade/2023-march-training](https://github.com/alexslemonade/2023-march-training/)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/single-cell-python-training](https://github.com/sib-swiss/single-cell-python-training/) | [website](https://sib-swiss.github.io/single-cell-python-training/)
 
 ### Variant analysis
 
@@ -767,7 +769,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Reproducibility
 
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/reproducibility-tools](https://github.com/hbctraining/reproducibility-tools) | [website](https://hbctraining.github.io/reproducibility-tools/)
-- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-reproducible-research](https://github.com/NBISweden/workshop-reproducible-research)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-reproducible-research](https://github.com/NBISweden/workshop-reproducible-research) | [website](https://nbisweden.github.io/workshop-reproducible-research/)
 - [**carpentries-incubator** carpentries-incubator/managing-computational-projects](https://github.com/carpentries-incubator/managing-computational-projects) | [website](https://carpentries-incubator.github.io/managing-computational-projects)
 - [**carpentries-incubator** carpentries-incubator/jekyll-pages-novice](https://github.com/carpentries-incubator/jekyll-pages-novice) | [website](https://carpentries-incubator.github.io/jekyll-pages-novice/)
 - [**carpentries-incubator** carpentries-lab/good-enough-practices](https://github.com/carpentries-incubator/good-enough-practices) | [website](https://carpentries-lab.github.io/good-enough-practices/)
@@ -909,3 +911,4 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**gladstone-institutes** gladstone-institutes/Bioinformatics-Workshops](https://github.com/gladstone-institutes/Bioinformatics-Workshops/) | [website](https://github.com/gladstone-institutes/Bioinformatics-Presentations/wiki)
 - [**jhudsl** jhudsl/Informatics_Research_Leadership](https://github.com/jhudsl/Informatics_Research_Leadership) | [website](https://jhudatascience.org/Informatics_Research_Leadership/)
 - [**Pachter Lab** pachterlab/BI-BE-CS-183-2023](https://github.com/pachterlab/BI-BE-CS-183-2023)
+- [**St. Jude Children's Research Hospital** stjude/learngenomics.dev](https://github.com/stjude/learngenomics.dev) | [website](https://learngenomics.dev)
