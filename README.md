@@ -30,7 +30,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Java](#java)
   - [GNU Make](#gnu-make)
   - [MATLAB/Octave](#matlab/octave)
-  - [SQL](#sql)
   - [C/C++](#c/c++)
   - [Rust](#rust)
   - [SPARQL](#sparql)
@@ -42,6 +41,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Workflows](#workflows)
   - [Image analysis](#image-analysis)
   - [Cloud computing](#cloud-computing)
+  - [Data mining](#data-mining)
 - [Omics analysis](#omics-analysis)
   - [Genomics](#genomics)
   - [Next generation sequencing](#next-generation-sequencing)
@@ -417,10 +417,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Software Carpentry** swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation) | [website](http://swcarpentry.github.io/matlab-novice-inflammation/)
 
-### SQL
-
-- [**Data Carpentry** datacarpentry/sql-ecology-lesson](https://github.com/datacarpentry/sql-ecology-lesson) | [website](http://datacarpentry.github.io/sql-ecology-lesson)
-
 ### C/C++
 
 - [**LiaBooks ... by LiaScript** LiaBooks/C-Programming](https://github.com/LiaBooks/C-Programming) | [website](https://liascript.github.io/course/)
@@ -434,7 +430,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/sparql-training](https://github.com/sib-swiss/sparql-training)
 - [**BiGCaT, Department of Translational Genomics** BiGCAT-UM/SPARQLTutorialBioSB2019](https://github.com/bigcat-um/SPARQLTutorialBioSB2019)
-- [**SIB Swiss Institute of Bioinformatics** sib-swiss/SPARQL_course](https://github.com/sib-swiss/SPARQL_course)
 
 ### LaTeX
 
@@ -507,6 +502,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**AWS Samples** aws-samples/aws-hpc-tutorials](https://github.com/aws-samples/aws-hpc-tutorials) | [website](https://hpcworkshops.com)
 - [**Eija Korpelainen** ekorpela/cloud-vm-workshop](https://github.com/ekorpela/cloud-vm-workshop/tree/master/materials)
 - [**Lynn Langit** lynnlangit/gcp-for-bioinformatics](https://github.com/lynnlangit/gcp-for-bioinformatics) | [website](https://www.youtube.com/playlist?list=PL4Q4HssKcxYvcixWS08UFaYIH7y4IAV0z)
+
+### Data mining
+
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/SPARQL_course](https://github.com/sib-swiss/SPARQL_course)
 
 ## Omics analysis
 
@@ -632,7 +631,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-ChIPseq](https://github.com/hbctraining/Intro-to-ChIPseq) | [website](https://hbctraining.github.io/Intro-to-ChIPseq/)
 - [**hukai916** hukai916/IntegratedChIPseqWorkshop](https://github.com/hukai916/IntegratedChIPseqWorkshop)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-ChIPseq-flipped](https://github.com/hbctraining/Intro-to-ChIPseq-flipped) | [website](https://hbctraining.github.io/Intro-to-ChIPseq-flipped/)
-- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Peak_analysis_workshop](https://github.com/hbctraining/Peak_analysis_workshop)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Peak_analysis_workshop](https://github.com/hbctraining/Peak_analysis_workshop) | [website](https://hbctraining.github.io/Peak_analysis_workshop/)
 - [**Denis Puthier** dputhier/EBA_2015_ChIP-Seq](https://github.com/dputhier/EBA_2015_ChIP-Seq)
 
 ### Comparative genomics
@@ -737,6 +736,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**ELIXIR Europe** elixir-europe/rdmkit](https://github.com/elixir-europe/rdmkit) | [website](https://rdmkit.elixir-europe.org)
 - [**ELIXIR-Norway Training** ELIXIR-Norway-Training/DMP-writing-workshop](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop) | [website](https://zenodo.org/doi/10.5281/zenodo.3693710)
 - [**OpenSciency** opensciency/sprint-content](https://github.com/opensciency/sprint-content) | [website](https://opensciency.github.io/sprint-content/)
+- [**Data Carpentry** datacarpentry/sql-ecology-lesson](https://github.com/datacarpentry/sql-ecology-lesson) | [website](http://datacarpentry.github.io/sql-ecology-lesson)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/ena-seqdata-training](https://github.com/sib-swiss/ena-seqdata-training) | [website](https://sib-swiss.github.io/ena-seqdata-training/)
 - [**VIB Technologies: Training material and software projects** vibbits/rdm-introductory-course](https://github.com/vibbits/rdm-introductory-course)
 - [**Utrecht University** UtrechtUniversity/dataprivacyhandbook](https://github.com/utrechtuniversity/dataprivacyhandbook) | [website](https://utrechtuniversity.github.io/dataprivacyhandbook/)
@@ -859,7 +859,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Sven Degroeve** sdgroeve/Machine-Learning-Course-2days](https://github.com/sdgroeve/Machine-Learning-Course-2days)
 - [**Philip Bowsher** philbowsher/Workshop-R-Tensorflow-Scientific-Computing](https://github.com/philbowsher/Workshop-R-Tensorflow-Scientific-Computing)
 - [**Nicola Rennie** nrennie/r-pharma-2023-tidymodels](https://github.com/nrennie/r-pharma-2023-tidymodels) | [website](https://nrennie.github.io/r-pharma-2023-tidymodels/)
-- [**udlbook** udlbook/udlbook](https://github.com/udlbook/udlbook)
 - [**bioinformatics.ca** bioinformaticsdotca/MLE_2023](https://github.com/bioinformaticsdotca/MLE_2023)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/pytorch-practical-training](https://github.com/sib-swiss/pytorch-practical-training)
 - [**Applied Machine Learning for Tabular Data** aml4td/website](https://github.com/aml4td/website) | [website](https://aml4td.org)
@@ -874,6 +873,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 ### Artificial intelligence
 
+- [**udlbook** udlbook/udlbook](https://github.com/udlbook/udlbook)
 - [**Maxime Labonne** mlabonne/llm-course](https://github.com/mlabonne/llm-course) | [website](https://mlabonne.github.io/blog/)
 - [**Fred Hutch Data Science Lab** fhdsl/AI_for_Decision_Makers](https://github.com/fhdsl/AI_for_Decision_Makers) | [website](https://hutchdatascience.org/AI_for_Decision_Makers/)
 - [**Fred Hutch Data Science Lab** fhdsl/AI_for_Efficient_Programming](https://github.com/fhdsl/AI_for_Efficient_Programming) | [website](https://hutchdatascience.org/AI_for_Efficient_Programming/)
