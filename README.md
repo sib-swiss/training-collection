@@ -562,6 +562,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Saez Lab** saezlab/transcriptutorial](https://github.com/saezlab/transcriptutorial) | [website](https://saezlab.github.io/transcriptutorial/)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/ADER19F](https://github.com/gtpb/ADER19F) | [website](http://gtpb.github.io/ADER19F)
 - [**Khushbu Patel** kpatel427/YouTubeTutorials](https://github.com/kpatel427/YouTubeTutorials)
+- [**BrainOmicsCourse** BrainOmicsCourse/BrainOmics2024](https://github.com/BrainOmicsCourse/BrainOmics2024)
 
 ### RNA-seq
 
@@ -606,7 +607,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bioinformatics.ca** bioinformaticsdotca/scRNA_2023](https://github.com/bioinformaticsdotca/scRNA_2023)
 - [**Theis Lab** theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial)
 - [**PAIR code** PAIR-code/understanding-umap](https://github.com/PAIR-code/understanding-umap) | [website](https://pair-code.github.io/understanding-umap)
-- [**material-share** material-share/material-share-single-cell-boot-camp](https://github.com/material-share/material-share-single-cell-boot-camp)
 - [**scverse** scverse/scverse-tutorials](https://github.com/scverse/scverse-tutorials) | [website](https://scverse-tutorials.readthedocs.io/en/latest/)
 - [**CDSB** ComunidadBioInfo/cdsb2021_scRNAseq](https://github.com/comunidadbioinfo/cdsb2021_scRNAseq/) | [website](https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/)
 - [**Leiden Computational Biology Center** LeidenCBC/MGC-BioSB-SingleCellAnalysis2022](https://github.com/LeidenCBC/MGC-BioSB-SingleCellAnalysis2022)
