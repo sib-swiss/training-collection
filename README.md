@@ -629,7 +629,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop](https://github.com/bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-ChIPseq](https://github.com/hbctraining/Intro-to-ChIPseq) | [website](https://hbctraining.github.io/Intro-to-ChIPseq/)
-- [**hukai916** hukai916/IntegratedChIPseqWorkshop](https://github.com/hukai916/IntegratedChIPseqWorkshop)
+- [**Kai Hu** hukai916/IntegratedChIPseqWorkshop](https://github.com/hukai916/IntegratedChIPseqWorkshop)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-ChIPseq-flipped](https://github.com/hbctraining/Intro-to-ChIPseq-flipped) | [website](https://hbctraining.github.io/Intro-to-ChIPseq-flipped/)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Peak_analysis_workshop](https://github.com/hbctraining/Peak_analysis_workshop) | [website](https://hbctraining.github.io/Peak_analysis_workshop/)
 - [**Denis Puthier** dputhier/EBA_2015_ChIP-Seq](https://github.com/dputhier/EBA_2015_ChIP-Seq)
@@ -751,6 +751,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**posit-conf-2023** posit-conf-2023/managing-os-project](https://github.com/posit-conf-2023/managing-os-project) | [website](https://posit-conf-2023.github.io/managing-os-project/)
 - [**Fred Hutch Data Science Lab** fhdsl/Ethical_Data_Handling_for_Cancer_Research](https://github.com/fhdsl/Ethical_Data_Handling_for_Cancer_Research) | [website](https://hutchdatascience.org/Ethical_Data_Handling_for_Cancer_Research/)
 - [**Fred Hutch Data Science Lab** fhdsl/NIH_Data_Sharing](https://github.com/fhdsl/NIH_Data_Sharing) | [website](https://hutchdatascience.org/NIH_Data_Sharing/)
+- [**feichtingerm** feichtingerm/rdmlifesciunivie](https://github.com/feichtingerm/rdmlifesciunivie)
+- [**OBOAcademy** OBOAcademy/obook](https://github.com/OBOAcademy/obook) | [website](https://oboacademy.github.io/obook/)
 
 ### FAIR data
 
