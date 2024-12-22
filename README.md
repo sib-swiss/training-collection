@@ -347,6 +347,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**posit::conf(2024)** posit-conf-2024/r-in-production](https://github.com/posit-conf-2024/r-in-production)
 - [**posit::conf(2024)** posit-conf-2024/databricks](https://github.com/posit-conf-2024/databricks) | [website](https://posit-conf-2024.github.io/databricks/)
 - [**posit::conf(2024)** posit-conf-2024/wtf](https://github.com/posit-conf-2024/wtf)
+- [**C. Li** cxli233/Quick_data_vis](https://github.com/cxli233/Quick_data_vis)
+- [**Bruno Rodrigues** b-rodrigues/rap4all](https://github.com/b-rodrigues/rap4all) | [website](https://raps-with-r.dev)
 
 ### Quarto
 
@@ -624,6 +626,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2021-July-Genome-Wide-Association-Studies](https://github.com/ucdavis-bioinformatics-training/2021-July-Genome-Wide-Association-Studies)
 - [**Nina Overgaard Therkildsen** nt246/lcwgs-guide-tutorial](https://github.com/nt246/lcwgs-guide-tutorial)
 - [**Dipannita Ghosh** digo4/Clinical-Genomics](https://github.com/digo4/Clinical-Genomics)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/cancer-variants-training](https://github.com/sib-swiss/cancer-variants-training) | [website](https://sib-swiss.github.io/cancer-variants-training/)
 
 ### ChIP-seq
 
@@ -698,6 +701,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Lukas Weber** lmweber/BestPracticesST](https://github.com/lmweber/BestPracticesST) | [website](https://lmweber.org/PrinciplesSTA/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-spatial](https://github.com/NBISweden/workshop-spatial)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/spatial-transcriptomics-training](https://github.com/sib-swiss/spatial-transcriptomics-training/) | [website](https://sib-swiss.github.io/spatial-transcriptomics-training/)
+- [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-SCO-spatial-omics](https://github.com/elixir-europe-training/ELIXIR-SCO-spatial-omics) | [website](https://elixir-europe-training.github.io/ELIXIR-SCO-spatial-omics/)
 
 ### Long read sequencing
 
