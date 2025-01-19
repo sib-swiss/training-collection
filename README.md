@@ -64,6 +64,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Metabolomics](#metabolomics)
   - [Proteomics](#proteomics)
   - [Pathways and Networks](#pathways-and-networks)
+  - [Protein structure](#protein-structure)
 - [Reproducibility and data management](#reproducibility-and-data-management)
   - [Data management](#data-management)
   - [FAIR data](#fair-data)
@@ -172,6 +173,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Sergio Martínez Cuesta** semacu/data-science-python](https://github.com/semacu/data-science-python)
 - [**MolSSI Education** MolSSI-Education/python_scripting_cms](https://github.com/MolSSI-Education/python_scripting_cms) | [website](https://molssi-education.github.io/python_scripting_cms)
 - [**Jean de Dieu Nyandwi** Nyandwi/PythonBasics](https://github.com/Nyandwi/PythonBasics)
+- [**Scott Reed** scottmreed/molecular_informatics](https://github.com/scottmreed/molecular_informatics/tree/main)
+- [**Scott Reed** scottmreed/Code_withGPT_tutorial](https://github.com/scottmreed/Code_withGPT_tutorial)
 
 ### R
 
@@ -402,7 +405,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### GNU Make
 
 - [**Software Carpentry** swcarpentry/make-novice](https://github.com/swcarpentry/make-novice) | [website](http://swcarpentry.github.io/make-novice)
-- [**Chase Lambert** theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) | [website](http://makefiletutorial.com)
+- [**Chase Lambert** chaselambda/makefiletutorial](https://github.com/theicfire/makefiletutorial) | [website](http://makefiletutorial.com)
 
 ### MATLAB/Octave
 
@@ -456,6 +459,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Nextflow
 
 - [**Sydney Informatics Hub** Sydney-Informatics-Hub/hello-nextflow](https://github.com/Sydney-Informatics-Hub/hello-nextflow) | [website](https://sydney-informatics-hub.github.io/hello-nextflow/)
+- [**Sydney Informatics Hub** Sydney-Informatics-Hub/customising-nfcore-workshop](https://github.com/Sydney-Informatics-Hub/customising-nfcore-workshop) | [website](https://sydney-informatics-hub.github.io/customising-nfcore-workshop/)
 
 ### Workflows
 
@@ -568,6 +572,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bioinformatics.ca** bioinformaticsdotca/RNA_2023](https://github.com/bioinformaticsdotca/RNA_2023)
 - [**bioinformatics.ca** bioinformaticsdotca/PNA_2023](https://github.com/bioinformaticsdotca/PNA_2023)
 - [**The Griffith Lab** griffithlab/rnabio.org](https://github.com/griffithlab/rnabio.org) | [website](http://rnabio.org)
+- [**Sydney Informatics Hub** Sydney-Informatics-Hub/rnaseq-workshop-2023](https://github.com/Sydney-Informatics-Hub/rnaseq-workshop-2023) | [website](https://sydney-informatics-hub.github.io/rnaseq-workshop-2023/)
 
 ### Single-cell sequencing
 
@@ -721,6 +726,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Susan** Coort/tutorial-network-data](https://gitlab.com/Coort/tutorial-network-data)
 - [**LaurenDupuis** LaurenDupuis/EJP-RD_Helis_Academy](https://github.com/laurendupuis/EJP-RD_Helis_Academy)
 
+### Protein structure
+
+- [**Gray Lab** Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks)
+
 ## Reproducibility and data management
 
 
@@ -779,6 +788,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-TrP-LiterateProgrammingR-CodeRep](https://github.com/elixir-europe-training/ELIXIR-TrP-LiterateProgrammingR-CodeRep) | [website](https://elixir-europe-training.github.io/ELIXIR-TrP-LiterateProgrammingR-CodeRep/)
 - [**jhudsl** jhudsl/Reproducibility_in_Cancer_Informatics](https://github.com/jhudsl/Reproducibility_in_Cancer_Informatics) | [website](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/)
 - [**jhudsl** jhudsl/Documentation_and_Usability](https://github.com/jhudsl/Documentation_and_Usability) | [website](https://jhudatascience.org/Documentation_and_Usability/)
+- [**Alex's Lemonade Stand Foundation** AlexsLemonade/reproducible-research](https://github.com/AlexsLemonade/reproducible-research)
 
 ## Statistics and machine learning
 
