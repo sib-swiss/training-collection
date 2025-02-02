@@ -827,7 +827,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/statistical-thinking-public-health](https://github.com/carpentries-incubator/statistical-thinking-public-health) | [website](https://carpentries-incubator.github.io/statistical-thinking-public-health)
 - [**Richard McElreath** rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/advanced-statistics](https://github.com/sib-swiss/advanced-statistics)
-- [**SIB Swiss Institute of Bioinformatics** sib-swiss/intro-bayesian-statistics-training](https://github.com/sib-swiss/intro-bayesian-statistics-training)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/intro-bayesian-statistics-training](https://github.com/sib-swiss/intro-bayesian-statistics-training) | [website](https://sib-swiss.github.io/intro-bayesian-statistics-training/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/introduction-to-statistics-with-python-training](https://github.com/sib-swiss/introduction-to-statistics-with-python-training)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/Introduction-to-statistics-with-R](https://github.com/sib-swiss/Introduction-to-statistics-with-R)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/statistics-and-machine-learning-training](https://github.com/sib-swiss/statistics-and-machine-learning-training)
