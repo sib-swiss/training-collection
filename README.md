@@ -88,7 +88,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Gerard Capes** gcapes/git-course](https://github.com/gcapes/git-course) | [website](http://gcapes.github.io/git-course/)
 - [**carpentries-incubator** carpentries-incubator/gitlab-novice](https://github.com/carpentries-incubator/gitlab-novice) | [website](https://carpentries-incubator.github.io/gitlab-novice/)
 - [**Data Carpentry** datacarpentry/rr-version-control](https://github.com/datacarpentry/rr-version-control) | [website](http://www.datacarpentry.org/rr-version-control/)
-- [**VIB Technologies: Training material and software projects** vibbits/introduction-github](https://github.com/vibbits/introduction-github)
+- [**VIB Technologies: Training material and software projects** vibbits/introduction-github](https://github.com/vibbits/introduction-github) | [website](https://liascript.github.io/course/#1)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-versioning-dm-practices](https://github.com/NBISweden/module-versioning-dm-practices/) | [website](https://nbisweden.github.io/module-versioning-dm-practices/)
 - [**Sergio Martínez Cuesta** semacu/20190927_IntroductionGithub_HDRUK](https://github.com/semacu/20190927_IntroductionGithub_HDRUK)
 - [**Sergio Martínez Cuesta** semacu/20181003_Intro_git_GitHub](https://github.com/semacu/20181003_Intro_git_GitHub)
@@ -198,7 +198,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Danielle Navarro** djnavarro/rbook](https://github.com/djnavarro/rbook) | [website](https://learningstatisticswithr.com)
 - [**Duke Department of Statistical Science** DukeStatSci/introds](https://github.com/DukeStatSci/introds) | [website](https://introds-duke.netlify.app)
 - [**Hadley Wickham** hadley/adv-r](https://github.com/hadley/adv-r) | [website](http://adv-r.hadley.nz)
-- [**Hadley Wickham** hadley/r4ds](https://github.com/hadley/r4ds) | [website](http://r4ds.hadley.nz)
+- [**Hadley Wickham** hadley/r4ds](https://github.com/hadley/r4ds) | [website](https://r4ds.hadley.nz)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-R-flipped](https://github.com/hbctraining/Intro-to-R-flipped) | [website](https://hbctraining.github.io/Intro-to-R-flipped/)
 - [**ICS 80 - Introduction to Data Science** ics80-fa21/website](https://github.com/ics80-fa21/website) | [website](https://ics80-fa21.github.io/website/)
 - [**Introduction to Data Science - 2020 - Semester 1** ids-s1-20/website](https://github.com/ids-s1-20/website) | [website](https://introds.org)
@@ -332,7 +332,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**posit::conf(2024)** posit-conf-2024/databases](https://github.com/posit-conf-2024/databases) | [website](https://pos.it/databases-24)
 - [**posit::conf(2024)** posit-conf-2024/pharmaverse](https://github.com/posit-conf-2024/pharmaverse) | [website](https://posit-conf-2024.github.io/pharmaverse/)
 - [**posit::conf(2024)** posit-conf-2024/programming-r](https://github.com/posit-conf-2024/programming-r) | [website](https://posit-conf-2024.github.io/programming-r/)
-- [**Northwestern IT Research Computing and Data Services** nuitrcs/R-intro-tidyverse-2024](https://github.com/nuitrcs/R-intro-tidyverse-2024)
+- [**Northwestern IT Research Computing and Data Services** nuitrcs/R-intro-tidyverse-2025](https://github.com/nuitrcs/R-intro-tidyverse-2024)
 - [**posit::conf(2024)** posit-conf-2024/tables](https://github.com/posit-conf-2024/tables)
 - [**posit::conf(2024)** posit-conf-2024/pkg-dev](https://github.com/posit-conf-2024/pkg-dev)
 - [**posit::conf(2024)** posit-conf-2024/r-in-production](https://github.com/posit-conf-2024/r-in-production)
@@ -395,7 +395,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Hands-On Data Visualization** HandsOnDataViz/book](https://github.com/handsondataviz/book) | [website](https://handsondataviz.org)
 - [**Carson Sievert** cpsievert/plotly_book](https://github.com/cpsievert/plotly_book) | [website](https://plotly-r.com)
 - [**Colin Diesh** cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization/ ) | [website](https://cmdcolin.github.io/awesome-genome-visualization/)
-- [**UW Interactive Data Lab** uwdata/visualization-curriculum](https://github.com/uwdata/visualization-curriculum) | [website](https://uwdata.github.io/visualization-curriculum/)
+- [**UW Interactive Data Lab** uwdata/visualization-curriculum](https://github.com/uwdata/visualization-curriculum) | [website](https://idl.uw.edu/visualization-curriculum/)
 - [**Fred Hutch Data Science Lab** fhdsl/better_plots](https://github.com/fhdsl/better_plots) | [website](https://hutchdatascience.org/better_plots)
 - [**Kyran Dale** Kyrand/dataviz-with-python-and-js-ed-2](https://github.com/Kyrand/dataviz-with-python-and-js-ed-2)
 
@@ -702,6 +702,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/spatial-transcriptomics-training](https://github.com/sib-swiss/spatial-transcriptomics-training/) | [website](https://sib-swiss.github.io/spatial-transcriptomics-training/)
 - [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-SCO-spatial-omics](https://github.com/elixir-europe-training/ELIXIR-SCO-spatial-omics) | [website](https://elixir-europe-training.github.io/ELIXIR-SCO-spatial-omics/)
 - [**Lukas Weber** lmweber/OSTA](https://github.com/lmweber/OSTA) | [website](https://lmweber.org/OSTA/)
+- [**Estella Yixing Dong** estellad/BC2_Spatial_Transcriptomics](https://github.com/estellad/BC2_Spatial_Transcriptomics)
+- [**Estella Yixing Dong** estellad/BC2_Spatial_Transcriptomics](https://github.com/estellad/BC2_Spatial_Transcriptomics)
 
 ### Long read sequencing
 
@@ -856,7 +858,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Daniel Kaplan** dtkaplan/Lessons-in-statistical-thinking](https://github.com/dtkaplan/Lessons-in-statistical-thinking)
 - [**Oslo Centre for Biostatistics and Epidemiology** ocbe-uio/teaching_mf9130e](https://github.com/ocbe-uio/teaching_mf9130e) | [website](https://ocbe-uio.github.io/teaching_mf9130e/)
 - [**Oslo Centre for Biostatistics and Epidemiology** ocbe-uio/course_med3007](https://github.com/ocbe-uio/course_med3007) | [website](https://ocbe-uio.github.io/course_med3007/)
-- [**Sébastien Wieckowski** sbwiecko/intuitive_biostatistics](https://github.com/sbwiecko/intuitive_biostatistics) | [website](https://sbwiecko.github.io/intuitive_biostatistics/)
 - [**Neuromatch Academy** NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content) | [website](https://compneuro.neuromatch.io)
 - [**Norm Matloff** matloff/fastStat](https://github.com/matloff/fastStat)
 
