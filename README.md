@@ -194,7 +194,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Colin Gillespie** csgillespie/efficientR](https://github.com/csgillespie/efficientR) | [website](https://csgillespie.github.io/efficientR/)
 - [**C. Li** cxli233/Online_R_learning](https://github.com/cxli233/Online_R_learning)
 - [**Davis Laboratory** DavisLaboratory/GenesetAnalysisWorkflow](https://github.com/DavisLaboratory/GenesetAnalysisWorkflow) | [website](https://davislaboratory.github.io/GenesetAnalysisWorkflow/)
-- [**David Robinson** dgrtwo/tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining) | [website](http://tidytextmining.com)
+- [**David Robinson** juliasilge/tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining) | [website](http://tidytextmining.com)
 - [**Danielle Navarro** djnavarro/rbook](https://github.com/djnavarro/rbook) | [website](https://learningstatisticswithr.com)
 - [**Duke Department of Statistical Science** DukeStatSci/introds](https://github.com/DukeStatSci/introds) | [website](https://introds-duke.netlify.app)
 - [**Hadley Wickham** hadley/adv-r](https://github.com/hadley/adv-r) | [website](http://adv-r.hadley.nz)
@@ -461,6 +461,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Sydney Informatics Hub** Sydney-Informatics-Hub/hello-nextflow](https://github.com/Sydney-Informatics-Hub/hello-nextflow) | [website](https://sydney-informatics-hub.github.io/hello-nextflow/)
 - [**Sydney Informatics Hub** Sydney-Informatics-Hub/customising-nfcore-workshop](https://github.com/Sydney-Informatics-Hub/customising-nfcore-workshop) | [website](https://sydney-informatics-hub.github.io/customising-nfcore-workshop/)
+- [**Firas Zemzem** Zemzemfiras1/nf-core-pre-hackathon_training2025](https://github.com/Zemzemfiras1/nf-core-pre-hackathon_training2025)
 
 ### Workflows
 
@@ -534,7 +535,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/cruk-summer-school-2020](https://github.com/bioinformatics-core-shared-training/cruk-summer-school-2020) | [website](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2020/ )
 - [**Data Carpentry** datacarpentry/wrangling-genomics](https://github.com/datacarpentry/wrangling-genomics) | [website](https://datacarpentry.org/wrangling-genomics/)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Accessing_public_genomic_data](https://github.com/hbctraining/Accessing_public_genomic_data) | [website](https://hbctraining.github.io/Accessing_public_genomic_data)
-- [**SIB Swiss Institute of Bioinformatics** sib-swiss/NGS-introduction-training](https://github.com/sib-swiss/NGS-introduction-training) | [website](https://sib-swiss.github.io/NGS-introduction-training/)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/sequencing-data-analysis-training](https://github.com/sib-swiss/NGS-introduction-training) | [website](https://sib-swiss.github.io/NGS-introduction-training/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/NGS-variants-training](https://github.com/sib-swiss/NGS-variants-training) | [website](https://sib-swiss.github.io/NGS-variants-training/)
 - [**Waldron Lab at the CUNY SPH** waldronlab/CNVWorkshop](https://github.com/waldronlab/CNVWorkshop) | [website](https://waldronlab.io/CNVWorkshop)
 - [**The Griffith Lab** griffithlab/pmbio.org](https://github.com/griffithlab/pmbio.org) | [website](http://pmbio.org)
@@ -550,7 +551,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21) | [website](https://bioinformatics-core-shared-training.github.io/Bulk_RNASeq_Course_Nov21/)
 - [**carpentries-incubator** carpentries-incubator/bioc-rnaseq](https://github.com/carpentries-incubator/bioc-rnaseq) | [website](https://carpentries-incubator.github.io/bioc-rnaseq)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-DGE](https://github.com/hbctraining/DGE_workshop_salmon_online) | [website](https://hbctraining.github.io/Intro-to-DGE/)
-- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-rnaseq-hpc-salmon-flipped](https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped) | [website](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-bulk-RNAseq](https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped) | [website](https://hbctraining.github.io/Intro-to-bulk-RNAseq/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/RNAseq-introduction-training](https://github.com/sib-swiss/RNAseq-introduction-training) | [website](https://sib-swiss.github.io/RNAseq-introduction-training/)
 - [**Stefano Mangiola** stemangiola/bioc_2020_tidytranscriptomics](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) | [website](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/)
 - [**Xueyi Dong** XueyiDong/RNAseq123workshop](https://github.com/XueyiDong/RNAseq123workshop)
@@ -581,7 +582,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Aedin Culhane** aedin/scRNAseqBasicWorkflow](https://github.com/aedin/scRNAseqBasicWorkflow)
 - [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/UnivCambridge_ScRnaSeq_Nov2021](https://github.com/bioinformatics-core-shared-training/UnivCambridge_ScRnaSeq_Nov2021) | [website](http://bioinformatics-core-shared-training.github.io/UnivCambridge_ScRnaSeq_Nov2021)
 - [**fmicompbio** fmicompbio/adv_scrnaseq_2020](https://github.com/fmicompbio/adv_scrnaseq_2020)
-- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/scRNA-seq_online](https://github.com/hbctraining/scRNA-seq_online) | [website](https://hbctraining.github.io/scRNA-seq_online/.)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-scRNAseq](https://github.com/hbctraining/scRNA-seq_online) | [website](https://hbctraining.github.io/Intro-to-scRNAseq/)
 - [**Kelly Street** kstreet13/bioc2020trajectories](https://github.com/kstreet13/bioc2020trajectories) | [website](https://kstreet13.github.io/bioc2020trajectories/)
 - [**Leiden Computational Biology Center** LeidenCBC/MGC-BioSB-SingleCellAnalysis2021](https://github.com/LeidenCBC/MGC-BioSB-SingleCellAnalysis2021)
 - [**Martin Morgan** mtmorgan/HCABiocTraining](https://github.com/mtmorgan/HCABiocTraining) | [website](https://mtmorgan.github.io/HCABiocTraining/)
@@ -779,6 +780,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Institut Français de Bioinformatique (IFB)** IFB-ElixirFr/IFB-FAIR-data-training](https://github.com/ifb-elixirfr/IFB-FAIR-data-training)
 - [**Sergio Martínez Cuesta** semacu/20180223_ORCID_Chemistry_Cambridge](https://github.com/semacu/20180223_ORCID_Chemistry_Cambridge)
 - [**FAIR-by-Design-Methodology** FAIR-by-Design-Methodology/FAIR-by-Design_Book](https://github.com/fair-by-design-methodology/FAIR-by-Design_Book/) | [website](https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/)
+- [**carpentries-incubator** carpentries-incubator/FAIR-research-data-coursebook](https://github.com/carpentries-incubator/FAIR-research-data-coursebook) | [website](https://carpentries-incubator.github.io/FAIR-research-data-coursebook/)
 
 ### Reproducibility
 
