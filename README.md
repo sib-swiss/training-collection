@@ -535,7 +535,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/cruk-summer-school-2020](https://github.com/bioinformatics-core-shared-training/cruk-summer-school-2020) | [website](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2020/ )
 - [**Data Carpentry** datacarpentry/wrangling-genomics](https://github.com/datacarpentry/wrangling-genomics) | [website](https://datacarpentry.org/wrangling-genomics/)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Accessing_public_genomic_data](https://github.com/hbctraining/Accessing_public_genomic_data) | [website](https://hbctraining.github.io/Accessing_public_genomic_data)
-- [**SIB Swiss Institute of Bioinformatics** sib-swiss/sequencing-data-analysis-training](https://github.com/sib-swiss/NGS-introduction-training) | [website](https://sib-swiss.github.io/NGS-introduction-training/)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/NGS-introduction-training](https://github.com/sib-swiss/NGS-introduction-training) | [website](https://sib-swiss.github.io/NGS-introduction-training/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/NGS-variants-training](https://github.com/sib-swiss/NGS-variants-training) | [website](https://sib-swiss.github.io/NGS-variants-training/)
 - [**Waldron Lab at the CUNY SPH** waldronlab/CNVWorkshop](https://github.com/waldronlab/CNVWorkshop) | [website](https://waldronlab.io/CNVWorkshop)
 - [**The Griffith Lab** griffithlab/pmbio.org](https://github.com/griffithlab/pmbio.org) | [website](http://pmbio.org)
@@ -712,6 +712,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2021-August-Iso-Seq](https://github.com/ucdavis-bioinformatics-training/2021-August-Iso-Seq)
 - [**Ryan Wick** rrwick/Perfect-bacterial-genome-tutorial](https://github.com/rrwick/Perfect-bacterial-genome-tutorial)
 - [**Tim Kahlke** timkahlke/LongRead_tutorials](https://github.com/timkahlke/LongRead_tutorials/)
+- [**Nanopore for Educators** nanoporenetwork/ebook-website](https://github.com/nanoporenetwork/ebook-website)
 
 ### Metabolomics
 
