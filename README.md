@@ -322,7 +322,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**R for the Rest of Us** rfortherestofus/book](https://github.com/rfortherestofus/book)
 - [**Michael Teske** mictes/Shiny_Tutorial](https://github.com/mictes/Shiny_Tutorial) | [website](https://mictes.github.io/Shiny_Tutorial/)
 - [**jjallaire** jjallaire/hopr](https://github.com/jjallaire/hopr)
-- [**Rohan Alexander** RohanAlexander/telling_stories](https://github.com/RohanAlexander/telling_stories/) | [website](https://rohanalexander.github.io/telling_stories/)
+- [**Rohan Alexander** RohanAlexander/tellingstorieswithdata](https://github.com/RohanAlexander/telling_stories/) | [website](https://rohanalexander.github.io/telling_stories/)
 - [**Leonardo Collado-Torres** lcolladotor/cshl_rstats_genome_scale_2024](https://github.com/lcolladotor/cshl_rstats_genome_scale_2024) | [website](https://lcolladotor.github.io/cshl_rstats_genome_scale_2024)
 - [**Sophie Lee** sophie-a-lee/Introduction_R_Tidyverse_course](https://github.com/sophie-a-lee/Introduction_R_Tidyverse_course) | [website](https://introduction-r-tidyverse.netlify.app)
 - [**Sophie Lee** sophie-a-lee/intro-rstudio-mhclg](https://github.com/sophie-a-lee/introduction_rstudio_dluch) | [website](https://intro-r-dluch.netlify.app)
