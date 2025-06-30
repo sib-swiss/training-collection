@@ -427,7 +427,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/sparql-training](https://github.com/sib-swiss/sparql-training)
 - [**BiGCaT, Department of Translational Genomics** BiGCAT-UM/SPARQLTutorialBioSB2019](https://github.com/bigcat-um/SPARQLTutorialBioSB2019)
-- [**SIB Swiss Institute of Bioinformatics** sib-swiss/SPARQL_course](https://github.com/sib-swiss/SPARQL_course)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/SPARQL_course](https://github.com/sib-swiss/SPARQL_course) | [website](https://sib-swiss.github.io/SPARQL_course/)
 
 ### LaTeX
 
@@ -642,6 +642,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Steven M. Van Belleghem** StevenVB12/stevenvb12.github.io](https://github.com/StevenVB12/stevenvb12.github.io)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/CPANG19](https://github.com/gtpb/CPANG19) | [website](https://gtpb.github.io/CPANG19/)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/biodiversity-bioinformatics](https://github.com/sib-swiss/biodiversity-bioinformatics) | [website](https://sib-swiss.github.io/biodiversity-bioinformatics/)
 
 ### Epigenetics
 
