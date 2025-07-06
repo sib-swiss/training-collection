@@ -689,7 +689,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 ### Multiomics
 
-- [**Waldron Lab at the CUNY SPH** waldronlab/MultiAssayWorkshop](https://github.com/waldronlab/MultiAssayWorkshop) | [website](https://waldronlab.github.io/MultiAssayWorkshop)
+- [**Waldron Lab at the CUNY SPH** waldronlab/MultiAssayWorkshop](https://github.com/waldronlab/MultiAssayWorkshop) | [website](https://waldronlab.io/MultiAssayWorkshop/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/multiomics-data-analysis-and-integration-training](https://github.com/sib-swiss/multiomics-data-analysis-and-integration-training)
 
 ### Spatial transcriptomics
@@ -823,7 +823,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UC Berkeley Data 100** DS-100/textbook](https://github.com/DS-100/textbook/) | [website](https://learningds.org)
 - [**Edwin Thoen** EdwinTh/ADSwR](https://github.com/edwinth/ADSwR) | [website](https://edwinth.github.io/ADSwR/)
 - [**tidyverse** tidyverse/datascience-box](https://github.com/tidyverse/datascience-box) | [website](https://datasciencebox.org)
-- [**Modern Data Science with R** mdsr-book/mdsr-book.github.io](https://github.com/mdsr-book/mdsr-book.github.io)
+- [**Modern Data Science with R** mdsr-book/mdsr-book.github.io](https://github.com/mdsr-book/mdsr-book.github.io) | [website](http://mdsr-book.github.io)
 - [**Lino Galiana** linogaliana/python-datascientist](https://github.com/linogaliana/python-datascientist) | [website](https://pythonds.linogaliana.fr)
 - [**The Turing Way** the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) | [website](https://the-turing-way.org)
 - [**Michael Pyrcz** GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)
