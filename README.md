@@ -99,7 +99,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Data Carpentry** datacarpentry/shell-genomics](https://github.com/datacarpentry/shell-genomics) | [website](https://datacarpentry.org/shell-genomics)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Shell-for-bioinformatics](https://github.com/hbctraining/Intro-to-shell-flipped) | [website](https://hbctraining.github.io/Shell-for-bioinformatics/)
-- [**Ted Laderas** laderast/bash_for_bioinformatics](https://github.com/laderast/bash_for_bioinformatics) | [website](https://laderast.github.io/bash_for_bioinformatics/)
+- [**Ted Laderas** laderast/bash_for_dnanexus](https://github.com/laderast/bash_for_bioinformatics) | [website](https://laderast.github.io/bash_for_bioinformatics/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/unix-first-steps-training](https://github.com/sib-swiss/unix-first-steps-training)
 - [**Software Carpentry** swcarpentry/shell-novice](https://github.com/swcarpentry/shell-novice) | [website](http://swcarpentry.github.io/shell-novice/)
 - [**Sundeep Agarwal** learnbyexample/cli_text_processing_coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils) | [website](https://learnbyexample.github.io/cli_text_processing_coreutils/)
