@@ -49,6 +49,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [RNA-seq](#rna-seq)
   - [Single-cell sequencing](#single-cell-sequencing)
   - [Variant analysis](#variant-analysis)
+  - [Enrichment analysis](#enrichment-analysis)
   - [ChIP-seq](#chip-seq)
   - [Comparative genomics](#comparative-genomics)
   - [Epigenetics](#epigenetics)
@@ -322,7 +323,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**R for the Rest of Us** rfortherestofus/book](https://github.com/rfortherestofus/book)
 - [**Michael Teske** mictes/Shiny_Tutorial](https://github.com/mictes/Shiny_Tutorial) | [website](https://mictes.github.io/Shiny_Tutorial/)
 - [**jjallaire** jjallaire/hopr](https://github.com/jjallaire/hopr)
-- [**Rohan Alexander** RohanAlexander/tellingstorieswithdata](https://github.com/RohanAlexander/telling_stories/) | [website](https://rohanalexander.github.io/telling_stories/)
+- [**Rohan Alexander** RohanAlexander/tswd](https://github.com/RohanAlexander/telling_stories/) | [website](https://rohanalexander.github.io/telling_stories/)
 - [**Leonardo Collado-Torres** lcolladotor/cshl_rstats_genome_scale_2024](https://github.com/lcolladotor/cshl_rstats_genome_scale_2024) | [website](https://lcolladotor.github.io/cshl_rstats_genome_scale_2024)
 - [**Sophie Lee** sophie-a-lee/Introduction_R_Tidyverse_course](https://github.com/sophie-a-lee/Introduction_R_Tidyverse_course) | [website](https://introduction-r-tidyverse.netlify.app)
 - [**Sophie Lee** sophie-a-lee/intro-rstudio-mhclg](https://github.com/sophie-a-lee/introduction_rstudio_dluch) | [website](https://intro-r-dluch.netlify.app)
@@ -444,6 +445,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/containers-introduction-training](https://github.com/sib-swiss/containers-introduction-training) | [website](https://sib-swiss.github.io/containers-introduction-training/)
 - [**PerMedCoE** PerMedCoE/mpi-in-container](https://github.com/permedcoe/mpi-in-container)
 - [**Rami Krispin** RamiKrispin/Introduction-to-Docker](https://github.com/RamiKrispin/Introduction-to-Docker)
+- [**VIB Training & Conferences Program** vib-tcp/containers-workshop](https://github.com/vib-tcp/containers-workshop)
 
 ### Galaxy
 
@@ -459,6 +461,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**PerMedCoE** PerMedCoE/cluster-tutorial](https://github.com/permedcoe/cluster-tutorial)
 - [**George G. Vega Yon** gvegayon/appliedhpcr](https://github.com/gvegayon/appliedhpcr) | [website](https://book-hpc.ggvy.cl)
 - [**jhudsl** jhudsl/Computing_for_Cancer_Informatics](https://github.com/jhudsl/Computing_for_Cancer_Informatics) | [website](https://jhudatascience.org/Computing_for_Cancer_Informatics)
+- [**VIB Training & Conferences Program** vib-tcp/introduction_2_HPC](https://github.com/vib-tcp/introduction_2_HPC) | [website](https://liascript.github.io/course/#1)
 
 ### Nextflow
 
@@ -628,6 +631,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Nina Overgaard Therkildsen** nt246/lcwgs-guide-tutorial](https://github.com/nt246/lcwgs-guide-tutorial)
 - [**Dipannita Ghosh** digo4/Clinical-Genomics](https://github.com/digo4/Clinical-Genomics)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/cancer-variants-training](https://github.com/sib-swiss/cancer-variants-training) | [website](https://sib-swiss.github.io/cancer-variants-training/)
+
+### Enrichment analysis
+
+- [**VIB Training & Conferences Program** vib-tcp/functional_analysis_training](https://github.com/vib-tcp/functional_analysis_training)
 
 ### ChIP-seq
 
@@ -898,6 +905,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**posit::conf(2024)** posit-conf-2024/vetiver](https://github.com/posit-conf-2024/vetiver) | [website](https://posit-conf-2024.github.io/vetiver/)
 - [**posit::conf(2024)** posit-conf-2024/ml-python](https://github.com/posit-conf-2024/ml-python) | [website](https://posit-conf-2024.github.io/ml-python/)
 - [**Emil Hvitfeldt** EmilHvitfeldt/feature-engineering-az](https://github.com/EmilHvitfeldt/feature-engineering-az) | [website](https://feaz-book.com)
+- [**juexinwang** juexinwang/Tutorial_ISMB2024](https://github.com/juexinwang/Tutorial_ISMB2024)
 
 ### Artificial intelligence
 
@@ -906,6 +914,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Fred Hutch Data Science Lab** fhdsl/AI_for_Decision_Makers](https://github.com/fhdsl/AI_for_Decision_Makers) | [website](https://hutchdatascience.org/AI_for_Decision_Makers/)
 - [**Fred Hutch Data Science Lab** fhdsl/AI_for_Efficient_Programming](https://github.com/fhdsl/AI_for_Efficient_Programming) | [website](https://hutchdatascience.org/AI_for_Efficient_Programming/)
 - [**BiotrAIn** biotrain-latam/BiotrAIn-pilot-course](https://github.com/biotrain-latam/BiotrAIn-pilot-course) | [website](https://www.ebi.ac.uk/training/our-partnerships/biotrain)
+- [**VIB Training & Conferences Program** vib-tcp/introduction-to-generative-ai](https://github.com/vib-tcp/introduction-to-generative-ai) | [website](https://liascript.github.io/course/#1)
+- [**VIB Training & Conferences Program** vib-tcp/genAI_4_training-trainingMaterial](https://github.com/vib-tcp/genAI_4_training-trainingMaterial)
 
 ## Others
 
