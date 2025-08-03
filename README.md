@@ -698,6 +698,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Waldron Lab at the CUNY SPH** waldronlab/MultiAssayWorkshop](https://github.com/waldronlab/MultiAssayWorkshop) | [website](https://waldronlab.io/MultiAssayWorkshop/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/multiomics-data-analysis-and-integration-training](https://github.com/sib-swiss/multiomics-data-analysis-and-integration-training)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/biology-informed-multiomics-training](https://github.com/sib-swiss/biology-informed-multiomics-training/) | [website](https://sib-swiss.github.io/biology-informed-multiomics-training/)
 
 ### Spatial transcriptomics
 
