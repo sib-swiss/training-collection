@@ -833,7 +833,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**tidyverse** tidyverse/datascience-box](https://github.com/tidyverse/datascience-box) | [website](https://datasciencebox.org)
 - [**Modern Data Science with R** mdsr-book/mdsr-book.github.io](https://github.com/mdsr-book/mdsr-book.github.io) | [website](http://mdsr-book.github.io)
 - [**Lino Galiana** linogaliana/python-datascientist](https://github.com/linogaliana/python-datascientist) | [website](https://pythonds.linogaliana.fr)
-- [**The Turing Way** the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) | [website](https://the-turing-way.org)
+- [**The Turing Way** the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) | [website](https://book.the-turing-way.org)
 - [**Michael Pyrcz** GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)
 
 ### Statistics
