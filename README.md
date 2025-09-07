@@ -467,7 +467,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Sydney Informatics Hub** Sydney-Informatics-Hub/hello-nextflow](https://github.com/Sydney-Informatics-Hub/hello-nextflow) | [website](https://sydney-informatics-hub.github.io/hello-nextflow/)
 - [**Sydney Informatics Hub** Sydney-Informatics-Hub/customising-nfcore-workshop](https://github.com/Sydney-Informatics-Hub/customising-nfcore-workshop) | [website](https://sydney-informatics-hub.github.io/customising-nfcore-workshop/)
-- [**Firas Zemzem** Zemzemfiras1/nf-core-pre-hackathon_training2025](https://github.com/Zemzemfiras1/nf-core-pre-hackathon_training2025)
 
 ### Workflows
 
