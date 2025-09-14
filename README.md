@@ -69,6 +69,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Data management](#data-management)
   - [FAIR data](#fair-data)
   - [Reproducibility](#reproducibility)
+  - [Knowledge graph](#knowledge-graph)
 - [Statistics and machine learning](#statistics-and-machine-learning)
   - [Data science](#data-science)
   - [Statistics](#statistics)
@@ -805,6 +806,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**jhudsl** jhudsl/Reproducibility_in_Cancer_Informatics](https://github.com/jhudsl/Reproducibility_in_Cancer_Informatics) | [website](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/)
 - [**jhudsl** jhudsl/Documentation_and_Usability](https://github.com/jhudsl/Documentation_and_Usability) | [website](https://jhudatascience.org/Documentation_and_Usability/)
 - [**Alex's Lemonade Stand Foundation** AlexsLemonade/reproducible-research](https://github.com/AlexsLemonade/reproducible-research)
+
+### Knowledge graph
+
+- [**Idiap Research Institute** idiap/tutorial-biokg-meet-llm](https://github.com/idiap/tutorial-biokg-meet-llm)
 
 ## Statistics and machine learning
 
