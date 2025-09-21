@@ -178,7 +178,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Scott Reed** scottmreed/molecular_informatics](https://github.com/scottmreed/molecular_informatics/tree/main)
 - [**Scott Reed** scottmreed/Code_withGPT_tutorial](https://github.com/scottmreed/Code_withGPT_tutorial)
 - [**Dan Chitwood** DanChitwood/plants_and_python](https://github.com/DanChitwood/plants_and_python) | [website](https://danchitwood.github.io/plants_and_python)
-- [**Firas Zemzem** Zemzemfiras1/PythonIN-86400sec](https://github.com/Zemzemfiras1/PythonIN-86400sec) | [website](https://zemzemfiras1.github.io/PythonIN-86400sec/)
+- [**Firas Zemzem** Zemzemfiras1/PythonIN-86400sec](https://github.com/Zemzemfiras1/PythonIN-86400sec) | [website](https://zemzemtrainingorg.github.io/PythonIN-86400sec/)
 
 ### R
 
@@ -204,7 +204,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Hadley Wickham** hadley/adv-r](https://github.com/hadley/adv-r) | [website](http://adv-r.hadley.nz)
 - [**Hadley Wickham** hadley/r4ds](https://github.com/hadley/r4ds) | [website](https://r4ds.hadley.nz)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-R-flipped](https://github.com/hbctraining/Intro-to-R-flipped) | [website](https://hbctraining.github.io/Intro-to-R-flipped/)
-- [**ICS 80 - Introduction to Data Science** ics80-fa21/website](https://github.com/ics80-fa21/website) | [website](https://ics80-fa21.github.io/website/)
 - [**Introduction to Data Science - 2020 - Semester 1** ids-s1-20/website](https://github.com/ids-s1-20/website) | [website](https://introds.org)
 - [**Jennifer (Jenny) Bryan** jennybc/purrr-tutorial](https://github.com/jennybc/purrr-tutorial) | [website](https://jennybc.github.io/purrr-tutorial/)
 - [**James W. MacDonald** jmacdon/Bioc2020Anno](https://github.com/jmacdon/Bioc2020Anno)
