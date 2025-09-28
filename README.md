@@ -118,6 +118,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Bobby Iliev** bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | [website](https://leanpub.com/b/linux-devops-ebook-bundle)
 - [**Firas Zemzem** Zemzemfiras1/Mastering_Linux_Tutorials](https://github.com/Zemzemfiras1/Mastering_Linux_Tutorials)
 - [**Jeroen Janssens** jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) | [website](https://datascienceatthecommandline.com)
+- [**ELIXIR Estonia** ELIXIREstonia/2024-10-23-shell-novice](https://github.com/ELIXIREstonia/2024-10-23-shell-novice) | [website](https://elixirestonia.github.io/2024-10-23-shell-novice/)
 
 ### Python
 
@@ -175,10 +176,11 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Sergio Martínez Cuesta** semacu/data-science-python](https://github.com/semacu/data-science-python)
 - [**MolSSI Education** MolSSI-Education/python_scripting_cms](https://github.com/MolSSI-Education/python_scripting_cms) | [website](https://molssi-education.github.io/python_scripting_cms)
 - [**Jean de Dieu Nyandwi** Nyandwi/PythonBasics](https://github.com/Nyandwi/PythonBasics)
-- [**Scott Reed** scottmreed/molecular_informatics](https://github.com/scottmreed/molecular_informatics/tree/main)
+- [**Scott Reed** scottmreed/molecular_informatics](https://github.com/scottmreed/molecular_informatics)
 - [**Scott Reed** scottmreed/Code_withGPT_tutorial](https://github.com/scottmreed/Code_withGPT_tutorial)
 - [**Dan Chitwood** DanChitwood/plants_and_python](https://github.com/DanChitwood/plants_and_python) | [website](https://danchitwood.github.io/plants_and_python)
 - [**Firas Zemzem** Zemzemfiras1/PythonIN-86400sec](https://github.com/Zemzemfiras1/PythonIN-86400sec) | [website](https://zemzemtrainingorg.github.io/PythonIN-86400sec/)
+- [**ELIXIR Estonia** ELIXIREstonia/2025-02-11-Python](https://github.com/ELIXIREstonia/2025-02-11-Python)
 
 ### R
 
@@ -276,7 +278,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Kristyna Kupkova** kkupkova/GenomicDistributionsBioC2022](https://github.com/kkupkova/GenomicDistributions_BioC2022)
 - [**Workflow Languages in R** rworkflow/RcwlWorkshop](https://github.com/rworkflow/RcwlWorkshop) | [website](http://rcwl.org/RcwlWorkshop/)
 - [**tidyomics** tidyomics/tidyomicsWorkshopBioc2023](https://github.com/tidyomics/tidyomicsWorkshopBioc2023) | [website](https://tidyomics.github.io/tidyomicsWorkshopBioc2023)
-- [**Surgical Informatics** SurgicalInformatics/healthyr_book](https://github.com/SurgicalInformatics/healthyr_book/tree/master) | [website](https://argoshare.is.ed.ac.uk/healthyr_book/)
+- [**Surgical Informatics** SurgicalInformatics/healthyr_book](https://github.com/SurgicalInformatics/healthyr_book) | [website](https://argoshare.is.ed.ac.uk/healthyr_book/)
 - [**Trevor French** TrevorFrench/R-for-Data-Analysis](https://github.com/TrevorFrench/R-for-Data-Analysis) | [website](https://trevorfrench.github.io/R-for-Data-Analysis/)
 - [**UM Carpentries** UMCarpentries/intro-curriculum-r](https://github.com/UMCarpentries/intro-curriculum-r/) | [website](https://umcarpentries.org/intro-curriculum-r/)
 - [**rostools** rostools/r-cubed-intro](https://github.com/rostools/r-cubed-intro) | [website](https://r-cubed-intro.rostools.org)
@@ -344,6 +346,9 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**C. Li** cxli233/Quick_data_vis](https://github.com/cxli233/Quick_data_vis)
 - [**Bruno Rodrigues** b-rodrigues/rap4all](https://github.com/b-rodrigues/rap4all) | [website](https://raps-with-r.dev)
 - [**Rebecca Barter** rlbarter/r-workshop-book](https://github.com/rlbarter/r-workshop-book)
+- [**ELIXIR Estonia** ELIXIREstonia/2025-09-01-R-basic](https://github.com/ELIXIREstonia/2025-09-01-R-basic)
+- [**ELIXIR Estonia** ELIXIREstonia/2025-04-28-R-basic-stat](https://github.com/ELIXIREstonia/2025-04-28-R-basic-stat)
+- [**ELIXIR Estonia** ELIXIREstonia/2025-01-29-EDA](https://github.com/ELIXIREstonia/2025-01-29-EDA)
 
 ### Quarto
 
@@ -507,7 +512,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Data Carpentry** datacarpentry/cloud-genomics](https://github.com/datacarpentry/cloud-genomics) | [website](https://datacarpentry.org/cloud-genomics/)
 - [**AWS Samples** aws-samples/aws-hpc-tutorials](https://github.com/aws-samples/aws-hpc-tutorials) | [website](https://hpcworkshops.com)
-- [**Eija Korpelainen** ekorpela/cloud-vm-workshop](https://github.com/ekorpela/cloud-vm-workshop/tree/master/materials)
+- [**Eija Korpelainen** ekorpela/cloud-vm-workshop](https://github.com/ekorpela/cloud-vm-workshop)
 - [**Lynn Langit** lynnlangit/gcp-for-bioinformatics](https://github.com/lynnlangit/gcp-for-bioinformatics) | [website](https://www.youtube.com/playlist?list=PL4Q4HssKcxYvcixWS08UFaYIH7y4IAV0z)
 
 ## Omics analysis
@@ -865,7 +870,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Richard McElreath** rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)
 - [**Monash Data Fluency** MonashDataFluency/r-linear](https://github.com/MonashDataFluency/r-linear) | [website](https://monashdatafluency.github.io/r-linear/)
 - [**Causal Inference in R** r-causal/causal-inference-in-R](https://github.com/r-causal/causal-inference-in-R) | [website](https://www.r-causal.org)
-- [**OpenIntro** OpenIntroStat/ims](https://github.com/OpenIntroStat/ims/) | [website](https://openintro-ims.netlify.app)
+- [**OpenIntro** OpenIntroStat/ims](https://github.com/OpenIntroStat/ims/) | [website](https://openintrostat.github.io/ims/)
 - [**Allen Downey** AllenDowney/ThinkBayes](https://github.com/AllenDowney/ThinkBayes)
 - [**Måns Thulin** mthulin/mswr-book](https://github.com/mthulin/mswr-book)
 - [**A. Solomon Kurz** ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed](https://github.com/ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed) | [website](https://bookdown.org/content/4857/)
