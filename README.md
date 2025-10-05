@@ -472,6 +472,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Sydney Informatics Hub** Sydney-Informatics-Hub/hello-nextflow](https://github.com/Sydney-Informatics-Hub/hello-nextflow) | [website](https://sydney-informatics-hub.github.io/hello-nextflow/)
 - [**Sydney Informatics Hub** Sydney-Informatics-Hub/customising-nfcore-workshop](https://github.com/Sydney-Informatics-Hub/customising-nfcore-workshop) | [website](https://sydney-informatics-hub.github.io/customising-nfcore-workshop/)
+- [**Nurlan Kerimov** kerimoff/workflows-nextflow](https://github.com/kerimoff/workflows-nextflow/) | [website](https://carpentries-incubator.github.io/workflows-nextflow/)
 
 ### Workflows
 
@@ -915,6 +916,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**posit::conf(2024)** posit-conf-2024/ml-python](https://github.com/posit-conf-2024/ml-python) | [website](https://posit-conf-2024.github.io/ml-python/)
 - [**Emil Hvitfeldt** EmilHvitfeldt/feature-engineering-az](https://github.com/EmilHvitfeldt/feature-engineering-az) | [website](https://feaz-book.com)
 - [**juexinwang** juexinwang/Tutorial_ISMB2024](https://github.com/juexinwang/Tutorial_ISMB2024)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/intermediate-machine-learning-training](https://github.com/sib-swiss/intermediate-machine-learning-training/)
 
 ### Artificial intelligence
 
