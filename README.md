@@ -51,6 +51,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Single-cell sequencing](#single-cell-sequencing)
   - [Variant analysis](#variant-analysis)
   - [Enrichment analysis](#enrichment-analysis)
+  - [ATAC-seq](#atac-seq)
   - [ChIP-seq](#chip-seq)
   - [Comparative genomics](#comparative-genomics)
   - [Epigenetics](#epigenetics)
@@ -66,6 +67,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Proteomics](#proteomics)
   - [Pathways and Networks](#pathways-and-networks)
   - [Protein structure](#protein-structure)
+  - [Immunology](#immunology)
 - [Reproducibility and data management](#reproducibility-and-data-management)
   - [Data management](#data-management)
   - [FAIR data](#fair-data)
@@ -578,6 +580,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/ADER19F](https://github.com/gtpb/ADER19F) | [website](http://gtpb.github.io/ADER19F)
 - [**Khushbu Patel** kpatel427/YouTubeTutorials](https://github.com/kpatel427/YouTubeTutorials)
 - [**BrainOmicsCourse** BrainOmicsCourse/BrainOmics2024](https://github.com/BrainOmicsCourse/BrainOmics2024)
+- [**Julien Roux** julien-roux/SIB_course_2025_best_practices_differences_biological_sex](https://github.com/julien-roux/SIB_course_2025_best_practices_differences_biological_sex/)
 
 ### RNA-seq
 
@@ -647,6 +650,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Enrichment analysis
 
 - [**VIB Training & Conferences Program** vib-tcp/functional_analysis_training](https://github.com/vib-tcp/functional_analysis_training)
+
+### ATAC-seq
+
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/atac-seq-training](https://github.com/sib-swiss/atac-seq-training)
 
 ### ChIP-seq
 
@@ -758,6 +765,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Gray Lab** Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks)
 
+### Immunology
+
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/immunology-in-bioinformatics-training](https://github.com/sib-swiss/immunology-in-bioinformatics-training)
+
 ## Reproducibility and data management
 
 
@@ -831,7 +842,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Rafael A Irizarry** rafalab/dsbook](https://github.com/rafalab/dsbook)
 - [**Stephanie Hicks** stephaniehicks/superwomen](https://github.com/stephaniehicks/superwomen) | [website](https://www.stephaniehicks.com/superwomen/)
 - [**Hacking for Science** h4sci/h4sci-course](https://github.com/h4sci/h4sci-course)
-- [**DataTalksClub** DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- [**DataTalksClub** DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | [website](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD)
 - [**Jose A Dianes** jadianes/data-science-your-way](https://github.com/jadianes/data-science-your-way) | [website](http://jadianes.github.io/data-science-your-way)
 - [**Jose A Dianes** jadianes/spark-r-notebooks](https://github.com/jadianes/spark-r-notebooks) | [website](http://jadianes.github.io/spark-r-notebooks)
 - [**Data Carpentry** datacarpentry/python-ecology-lesson](https://github.com/datacarpentry/python-ecology-lesson) | [website](https://datacarpentry.github.io/python-ecology-lesson/)
