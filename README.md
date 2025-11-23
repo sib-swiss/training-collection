@@ -124,6 +124,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Jeroen Janssens** jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) | [website](https://datascienceatthecommandline.com)
 - [**ELIXIR Estonia** ELIXIREstonia/2024-10-23-shell-novice](https://github.com/ELIXIREstonia/2024-10-23-shell-novice) | [website](https://elixirestonia.github.io/2024-10-23-shell-novice/)
 - [**MolSSI Education** MolSSI-Education/getting-started-computational-chemistry](https://github.com/MolSSI-Education/getting-started-computational-chemistry) | [website](https://molssi-education.github.io/getting-started-computational-chemistry/)
+- [**Fred Hutch Data Science Lab** fhdsl/bash_for_bio](https://github.com/fhdsl/bash_for_bio) | [website](https://hutchdatascience.org/bash_for_bio)
 
 ### Python
 
@@ -733,6 +734,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Lukas Weber** lmweber/OSTA](https://github.com/lmweber/OSTA) | [website](https://lmweber.org/OSTA/)
 - [**Estella Yixing Dong** estellad/BC2_Spatial_Transcriptomics](https://github.com/estellad/BC2_Spatial_Transcriptomics)
 - [**Estella Yixing Dong** estellad/BC2_Spatial_Transcriptomics](https://github.com/estellad/BC2_Spatial_Transcriptomics)
+- [**Mahfouz Lab** mahfouzlab/MGC-BioSB-Spatial-Omics-Analysis-2025](https://github.com/mahfouzlab/MGC-BioSB-Spatial-Omics-Analysis-2025)
 
 ### Long read sequencing
 
@@ -962,7 +964,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Ming Tang** crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Training-modules](https://github.com/hbctraining/Training-modules) | [website](https://hbctraining.github.io/Training-modules/)
 - [**Genome Informatics Facility** ISUgenomics/bioinformatics-workbook](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org)
-- [**Melbourne Bioinformatics** melbournebioinformatics/MelBioInf_docs](https://github.com/melbournebioinformatics/MelBioInf_docs)
+- [**Melbourne Bioinformatics** melbournebioinformatics/melbournebioinformatics.github.io](https://github.com/melbournebioinformatics/MelBioInf_docs)
 - [**Mike Lee** AstrobioMike/AstrobioMike.github.io](https://github.com/AstrobioMike/AstrobioMike.github.io) | [website](https://astrobiomike.github.io)
 - [**liulab-dfci** liulab-dfci/bioinfo-combio](https://github.com/liulab-dfci/bioinfo-combio)
 - [**Leighton Pritchard** widdowquinn/Teaching-IBioIC-Intro-to-Bioinformatics](https://github.com/widdowquinn/Teaching-IBioIC-Intro-to-Bioinformatics) | [website](https://widdowquinn.github.io/Teaching-IBioIC-Intro-to-Bioinformatics/)
