@@ -731,7 +731,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-spatial](https://github.com/NBISweden/workshop-spatial)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/spatial-transcriptomics-training](https://github.com/sib-swiss/spatial-transcriptomics-training/) | [website](https://sib-swiss.github.io/spatial-transcriptomics-training/)
 - [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-SCO-spatial-omics](https://github.com/elixir-europe-training/ELIXIR-SCO-spatial-omics) | [website](https://elixir-europe-training.github.io/ELIXIR-SCO-spatial-omics/)
-- [**Lukas Weber** lmweber/OSTA](https://github.com/lmweber/OSTA) | [website](https://lmweber.org/OSTA/)
+- [**Lukas Weber** lmweber/OSTA](https://github.com/lmweber/OSTA) | [website](https://bioconductor.org/books/OSTA/)
 - [**Estella Yixing Dong** estellad/BC2_Spatial_Transcriptomics](https://github.com/estellad/BC2_Spatial_Transcriptomics)
 - [**Estella Yixing Dong** estellad/BC2_Spatial_Transcriptomics](https://github.com/estellad/BC2_Spatial_Transcriptomics)
 - [**Mahfouz Lab** mahfouzlab/MGC-BioSB-Spatial-Omics-Analysis-2025](https://github.com/mahfouzlab/MGC-BioSB-Spatial-Omics-Analysis-2025)
