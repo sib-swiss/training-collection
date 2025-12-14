@@ -100,6 +100,19 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Sergio Martínez Cuesta** semacu/20171024_GitHub_Chemistry_Cambridge](https://github.com/semacu/20171024_GitHub_Chemistry_Cambridge)
 - [**posit::conf(2024)** posit-conf-2024/dev-ops](https://github.com/posit-conf-2024/dev-ops)
 - [**Jenna Jordan** jenna-jordan/git-novice-speedrun](https://github.com/jenna-jordan/git-novice-speedrun/edit/main/index.md) | [website](http://jennajordan.me/git-novice-speedrun/)
+- [**The Carpentries Incubator** carpentries-incubator/advanced-git](https://github.com/carpentries-incubator/advanced-git) | [website](https://carpentries-incubator.github.io/advanced-git/)
+- [**The Carpentries Incubator** carpentries-incubator/git-novice-branch-pr](https://github.com/carpentries-incubator/git-novice-branch-pr) | [website](https://carpentries-incubator.github.io/git-novice-branch-pr)
+- [**Swansea Academy of Advanced Computing** sa2c/git-demystified](https://github.com/sa2c/git-demystified) | [website](https://sa2c.github.io/git-demystified)
+- [**The Carpentries Incubator** carpentries-incubator/collaborative-git-and-github-lesson](https://github.com/carpentries-incubator/collaborative-git-and-github-lesson) | [website](https://carpentries-incubator.github.io/collaborative-git-and-github-lesson/)
+- [**eScience Center Digital Skills Programme** carpentries-incubator/collaborative-git-and-github-lesson](https://github.com/esciencecenter-digital-skills/git-lesson) | [website](https://carpentries-incubator.github.io/collaborative-git-and-github-lesson/)
+- [**coderefinery** coderefinery/git-intro](https://github.com/coderefinery/git-intro) | [website](https://coderefinery.github.io/git-intro/)
+- [**coderefinery** coderefinery/git-collaborative](https://github.com/coderefinery/git-collaborative) | [website](https://coderefinery.github.io/git-collaborative/)
+- [**coderefinery** coderefinery/git-branch-design](https://github.com/coderefinery/git-branch-design) | [website](https://coderefinery.github.io/git-branch-design/)
+- [**coderefinery** coderefinery/github-without-command-line](https://github.com/coderefinery/github-without-command-line) | [website](https://coderefinery.github.io/github-without-command-line/)
+- [**RSE Sheffield** RSE-Sheffield/git-github-zero-to-hero](https://github.com/RSE-Sheffield/git-github-zero-to-hero) | [website](https://srse-git-github-zero2hero.netlify.app)
+- [**Michele Mesiti** mmesiti/git-intermediate](https://github.com/mmesiti/git-intermediate) | [website](https://mmesiti.github.io/git-intermediate/)
+- [**Met Office** MetOffice/git-novice](https://github.com/MetOffice/git-novice/) | [website](https://metoffice.github.io/git-novice/)
+- [**Met Office** MetOffice/git-working-practices](https://github.com/metOffice/git-working-practices) | [website](https://metoffice.github.io/git-working-practices/)
 
 ### Unix/Linux
 
@@ -356,6 +369,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**ELIXIR Estonia** ELIXIREstonia/2025-09-01-R-basic](https://github.com/ELIXIREstonia/2025-09-01-R-basic)
 - [**ELIXIR Estonia** ELIXIREstonia/2025-04-28-R-basic-stat](https://github.com/ELIXIREstonia/2025-04-28-R-basic-stat)
 - [**ELIXIR Estonia** ELIXIREstonia/2025-01-29-EDA](https://github.com/ELIXIREstonia/2025-01-29-EDA)
+- [**ELIXIR Estonia** ELIXIREstonia/2025-11-24-R-visualisation](https://github.com/ELIXIREstonia/2025-11-24-R-visualisation)
 
 ### Quarto
 
@@ -467,6 +481,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Erasmus Medical Center** ErasmusMC-Bioinformatics/galaxy-courses](https://github.com/ErasmusMC-Bioinformatics/galaxy-courses)
 - [**Galaxy Project** galaxyproject/training-material](https://github.com/galaxyproject/training-material) | [website](https://training.galaxyproject.org)
+- [**BU-ISCIII** BU-ISCIII/virology_training](https://github.com/BU-ISCIII/virology_training)
 
 ### High performance computing
 
@@ -478,6 +493,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**George G. Vega Yon** gvegayon/appliedhpcr](https://github.com/gvegayon/appliedhpcr) | [website](https://book-hpc.ggvy.cl)
 - [**jhudsl** jhudsl/Computing_for_Cancer_Informatics](https://github.com/jhudsl/Computing_for_Cancer_Informatics) | [website](https://jhudatascience.org/Computing_for_Cancer_Informatics)
 - [**VIB Training & Conferences Program** vib-tcp/introduction_2_HPC](https://github.com/vib-tcp/introduction_2_HPC) | [website](https://liascript.github.io/course/#1)
+- [**BU-ISCIII** BU-ISCIII/introduction_to_hpc](https://github.com/BU-ISCIII/introduction_to_hpc)
 
 ### Nextflow
 
@@ -560,6 +576,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Institut Français de Bioinformatique (IFB)** IFB-ElixirFr/EBAII](https://github.com/IFB-ElixirFr/EBAII) | [website](https://ifb-elixirfr.github.io/EBAII/)
 - [**Cloud-SPAN** Cloud-SPAN/00genomics](https://github.com/cloud-span/00genomics) | [website](https://cloud-span.github.io/00genomics/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-ngsintro](https://github.com/nbisweden/workshop-ngsintro/) | [website](https://NBISweden.github.io/workshop-ngsintro)
+- [**BU-ISCIII** BU-ISCIII/introduction_to_bioinformatics](https://github.com/BU-ISCIII/introduction_to_bioinformatics)
+- [**BU-ISCIII** BU-ISCIII/bacterial_wgs_training](https://github.com/BU-ISCIII/bacterial_wgs_training)
 
 ### Transcriptomics
 
@@ -713,6 +731,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Microbiology
 
 - [**bioinformatics.ca** bioinformaticsdotca/BMB_2024](https://github.com/bioinformaticsdotca/BMB_2024)
+- [**BU-ISCIII** BU-ISCIII/cna_bacterial_wgs_training](https://github.com/BU-ISCIII/cna_bacterial_wgs_training)
+- [**BU-ISCIII** BU-ISCIII/galaxy_virologist_training](https://github.com/BU-ISCIII/galaxy_virologist_training)
 
 ### Multiomics
 
@@ -735,6 +755,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Estella Yixing Dong** estellad/BC2_Spatial_Transcriptomics](https://github.com/estellad/BC2_Spatial_Transcriptomics)
 - [**Estella Yixing Dong** estellad/BC2_Spatial_Transcriptomics](https://github.com/estellad/BC2_Spatial_Transcriptomics)
 - [**Mahfouz Lab** mahfouzlab/MGC-BioSB-Spatial-Omics-Analysis-2025](https://github.com/mahfouzlab/MGC-BioSB-Spatial-Omics-Analysis-2025)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/seq-spatial-transcriptomics-training](https://github.com/sib-swiss/seq-spatial-transcriptomics-training) | [website](https://sib-swiss.github.io/seq-spatial-transcriptomics-training/)
 
 ### Long read sequencing
 
@@ -864,6 +885,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Lino Galiana** linogaliana/python-datascientist](https://github.com/linogaliana/python-datascientist) | [website](https://pythonds.linogaliana.fr)
 - [**The Turing Way** the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) | [website](https://book.the-turing-way.org)
 - [**Michael Pyrcz** GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)
+- [**Max Planck Institute for Astronomy** mpi-astronomy/data_science_training_materials](https://github.com/mpi-astronomy/data_science_training_materials) | [website](https://mpi-astronomy.github.io/data_science_training_materials/)
 
 ### Statistics
 
