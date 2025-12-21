@@ -923,6 +923,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Oslo Centre for Biostatistics and Epidemiology** ocbe-uio/course_med3007](https://github.com/ocbe-uio/course_med3007) | [website](https://ocbe-uio.github.io/course_med3007/)
 - [**Neuromatch Academy** NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content) | [website](https://compneuro.neuromatch.io)
 - [**Norm Matloff** matloff/fastStat](https://github.com/matloff/fastStat)
+- [**Keith McNulty** keithmcnulty/regression-handbook-2nd-edition](https://github.com/keithmcnulty/regression-handbook-2nd-edition)
 
 ### Machine learning
 
