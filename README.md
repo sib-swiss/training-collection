@@ -370,6 +370,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**ELIXIR Estonia** ELIXIREstonia/2025-04-28-R-basic-stat](https://github.com/ELIXIREstonia/2025-04-28-R-basic-stat)
 - [**ELIXIR Estonia** ELIXIREstonia/2025-01-29-EDA](https://github.com/ELIXIREstonia/2025-01-29-EDA)
 - [**ELIXIR Estonia** ELIXIREstonia/2025-11-24-R-visualisation](https://github.com/ELIXIREstonia/2025-11-24-R-visualisation)
+- [**rnorm** rnorm/book_sample](https://github.com/rnorm/book_sample)
 
 ### Quarto
 
