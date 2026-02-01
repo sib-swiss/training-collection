@@ -720,6 +720,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bioinformatics.ca** bioinformaticsdotca/MIC_2023](https://github.com/bioinformaticsdotca/MIC_2023)
 - [**bioinformatics.ca** bioinformaticsdotca/MIC_2022](https://github.com/bioinformaticsdotca/MIC_2022)
 - [**bioinformatics.ca** bioinformaticsdotca/AMB_2024](https://github.com/bioinformaticsdotca/AMB_2024)
+- [**microbiome** microbiome/OMA](https://github.com/microbiome/OMA/) | [website](https://microbiome.github.io/OMA)
 
 ### Epidemiology
 
