@@ -93,7 +93,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Gerard Capes** gcapes/git-course](https://github.com/gcapes/git-course) | [website](http://gcapes.github.io/git-course/)
 - [**The Carpentries Incubator** carpentries-incubator/gitlab-novice](https://github.com/carpentries-incubator/gitlab-novice) | [website](https://carpentries-incubator.github.io/gitlab-novice/)
 - [**Data Carpentry** datacarpentry/rr-version-control](https://github.com/datacarpentry/rr-version-control) | [website](http://www.datacarpentry.org/rr-version-control/)
-- [**VIB Technologies: Training material and software projects** vib-tcp/introduction-github](https://github.com/vibbits/introduction-github) | [website](https://liascript.github.io/course/#1)
+- [**VIB Technologies: Training material and software projects** vib-tcp/versioning-code-and-documentation-with-Git-GitHub](https://github.com/vibbits/introduction-github) | [website](https://liascript.github.io/course/#1)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-versioning-dm-practices](https://github.com/NBISweden/module-versioning-dm-practices/) | [website](https://nbisweden.github.io/module-versioning-dm-practices/)
 - [**Sergio Martínez Cuesta** semacu/20190927_IntroductionGithub_HDRUK](https://github.com/semacu/20190927_IntroductionGithub_HDRUK)
 - [**Sergio Martínez Cuesta** semacu/20181003_Intro_git_GitHub](https://github.com/semacu/20181003_Intro_git_GitHub)
@@ -290,7 +290,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**RStudio Education** rstudio-education/stat545](https://github.com/rstudio-education/stat545) | [website](https://stat545.com)
 - [**nullranges** tidyomics/tidy-ranges-tutorial](https://github.com/nullranges/tidy-ranges-tutorial) | [website](https://tidyomics.github.io/tidy-ranges-tutorial/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-epigenomics-RTDs](https://github.com/NBISweden/workshop-epigenomics-RTDs/) | [website](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/)
-- [**Library Data Services** UNC-Libraries-data/R-Open-Labs](https://github.com/UNC-Libraries-data/R-Open-Labs) | [website](https://tarheels.live/beginr/)
+- [**Library Data Services** UNC-Libraries-data/beginR](https://github.com/UNC-Libraries-data/R-Open-Labs) | [website](https://tarheels.live/beginr/)
 - [**Greg Wilson** gvwilson/tidynomicon](https://github.com/gvwilson/tidynomicon) | [website](http://tidynomicon.github.io/tidynomicon)
 - [**Vince Carey** vjcitn/BiocPyInterop](https://github.com/vjcitn/BiocPyInterop) | [website](https://vjcitn.github.io/BiocPyInterop/)
 - [**Bioinformatics, Rockefeller University** RockefellerUniversity/RU_VisualizingGenomicsData](https://github.com/RockefellerUniversity/RU_VisualizingGenomicsData)
@@ -476,7 +476,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/containers-introduction-training](https://github.com/sib-swiss/containers-introduction-training) | [website](https://sib-swiss.github.io/containers-introduction-training/)
 - [**PerMedCoE** PerMedCoE/mpi-in-container](https://github.com/permedcoe/mpi-in-container)
 - [**Rami Krispin** RamiKrispin/Introduction-to-Docker](https://github.com/RamiKrispin/Introduction-to-Docker)
-- [**VIB Training & Conferences Program** vib-tcp/containers-workshop](https://github.com/vib-tcp/containers-workshop)
+- [**VIB Training & Conferences Program** vib-tcp/Containerise-data-analysis-with-Docker-Apptainer](https://github.com/vib-tcp/containers-workshop)
 
 ### Galaxy
 
@@ -971,7 +971,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**udlbook** udlbook/udlbook](https://github.com/udlbook/udlbook)
 - [**Fred Hutch Data Science Lab** fhdsl/AI_for_Decision_Makers](https://github.com/fhdsl/AI_for_Decision_Makers) | [website](https://hutchdatascience.org/AI_for_Decision_Makers/)
 - [**BiotrAIn** biotrain-latam/BiotrAIn-pilot-course](https://github.com/biotrain-latam/BiotrAIn-pilot-course) | [website](https://www.ebi.ac.uk/training/our-partnerships/biotrain)
-- [**VIB Training & Conferences Program** vib-tcp/introduction-to-generative-ai](https://github.com/vib-tcp/introduction-to-generative-ai) | [website](https://liascript.github.io/course/#1)
+- [**VIB Training & Conferences Program** vib-tcp/introduction-to-generative-ai-for-research](https://github.com/vib-tcp/introduction-to-generative-ai) | [website](https://liascript.github.io/course/#1)
 - [**VIB Training & Conferences Program** vib-tcp/genAI_4_training-trainingMaterial](https://github.com/vib-tcp/genAI_4_training-trainingMaterial)
 
 ### Large language models
