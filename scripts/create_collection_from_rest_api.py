@@ -1,9 +1,25 @@
 import requests
 
+
+API_URL = "https://glittr.org/api/list"
+
+
+def format_repo_line(repo):
+    display_name = repo['author']['display_name'].strip()
+    name = repo['name']
+    url = repo['url']
+    website = repo['website']
+
+    label = f"**{display_name}** {name}"
+
+    if website:
+        return f"- [{label}]({url}) | [website]({website})\n"
+    return f"- [{label}]({url})\n"
+
 def get_repos():
-    r = requests.get("https://glittr.org/api/list")
-    collection_list = r.json()
-    return(collection_list)
+    response = requests.get(API_URL, timeout=30)
+    response.raise_for_status()
+    return response.json()
 
 def write_toc(collection_list, outfile):
     for category in collection_list:
@@ -23,10 +39,7 @@ def write_collection(collection_list, outfile):
             outfile.write("\n### " + topic_name + '\n\n')
             repo_list = topic['repositories']
             for repo in repo_list:
-                if repo['website'] == '':
-                    outfile.write(f"- [**{repo['author']['display_name'].strip()}** {repo['name']}]({repo['url']})\n")
-                else:
-                    outfile.write(f"- [**{repo['author']['display_name'].strip()}** {repo['name']}]({repo['url']}) | [website]({repo['website']})\n")
+                outfile.write(format_repo_line(repo))
 
 if __name__ == '__main__':
     collection_list = get_repos()

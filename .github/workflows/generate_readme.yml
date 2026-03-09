@@ -16,10 +16,11 @@ jobs:
       - name: setup python 
         uses: actions/setup-python@v4
         with:
-          python-version: 3.x
+          python-version: '3.12'
       - name: recreate readme
         run: |
-          pip install requests
+          python -m pip install --upgrade pip
+          python -m pip install requests
           python scripts/create_collection_from_rest_api.py
       - name: Commit and push changes
         run: |
