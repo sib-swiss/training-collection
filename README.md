@@ -489,7 +489,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/containers-introduction-training](https://github.com/sib-swiss/containers-introduction-training) | [website](https://sib-swiss.github.io/containers-introduction-training/)
 - [**PerMedCoE** PerMedCoE/mpi-in-container](https://github.com/permedcoe/mpi-in-container)
 - [**Rami Krispin** RamiKrispin/Introduction-to-Docker](https://github.com/RamiKrispin/Introduction-to-Docker)
-- [**VIB Training & Conferences** vib-training-conferences/Containerise-data-analysis-with-Docker-Apptainer](https://github.com/vib-training-conferences/Containerise-data-analysis-with-Docker-Apptainer)
+- [**VIB Training & Conferences** vib-training-conferences/Containerise-data-analysis-with-Docker-Apptainer](https://github.com/vib-training-conferences/Containerise-data-analysis-with-Docker-Apptainer) | [website](https://liascript.github.io/course/#1)
 
 ### Galaxy
 
