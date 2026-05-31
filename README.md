@@ -119,7 +119,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Data Carpentry** datacarpentry/shell-genomics](https://github.com/datacarpentry/shell-genomics) | [website](https://datacarpentry.org/shell-genomics)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Shell-for-bioinformatics](https://github.com/hbctraining/Intro-to-shell-flipped) | [website](https://hbctraining.github.io/Shell-for-bioinformatics/)
-- [**Ted Laderas** laderast/bash_for_dnanexus](https://github.com/laderast/bash_for_bioinformatics) | [website](https://laderast.github.io/bash_for_bioinformatics/)
+- [**Ted Laderas** laderast/bash_for_dnanexus](https://github.com/laderast/bash_for_bioinformatics) | [website](https://laderast.github.io/bash_for_dnanexus)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/unix-first-steps-training](https://github.com/sib-swiss/unix-first-steps-training)
 - [**Software Carpentry** swcarpentry/shell-novice](https://github.com/swcarpentry/shell-novice) | [website](http://swcarpentry.github.io/shell-novice/)
 - [**Sundeep Agarwal** learnbyexample/cli_text_processing_coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils) | [website](https://learnbyexample.github.io/cli_text_processing_coreutils/)
@@ -381,6 +381,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/advanced-r-training](https://github.com/sib-swiss/advanced-r-training)
 - [**tidyomics** tidyomics/tidy-ranges-tutorial](https://github.com/tidyomics/tidy-ranges-tutorial) | [website](https://tidyomics.github.io/tidy-ranges-tutorial/)
 - [**ELIXIR Estonia** ELIXIREstonia/2026-03-05-R-basic](https://github.com/ELIXIREstonia/2026-03-05-R-basic)
+- [**ELIXIR Estonia** ELIXIREstonia/2026-04-02-R-visualisation](https://github.com/ELIXIREstonia/2026-04-02-R-visualisation)
 
 ### Quarto
 
@@ -1053,6 +1054,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**VIB Training & Conferences** vib-training-conferences/genAI_4_training-trainingMaterial](https://github.com/vib-training-conferences/genAI_4_training-trainingMaterial)
 - [**VIB Training & Conferences** vib-training-conferences/introduction-to-generative-ai-for-research](https://github.com/vib-training-conferences/introduction-to-generative-ai-for-research) | [website](https://liascript.github.io/course/#1)
 - [**The Carpentries Lab** carpentries-lab/deep-learning-intro](https://github.com/carpentries-lab/deep-learning-intro) | [website](https://carpentries-lab.github.io/deep-learning-intro/)
+- [**BiotrAIn-community** BiotrAIn-community/BiotrAIn-hub-spokes](https://github.com/BiotrAIn-community/BiotrAIn-hub-spokes) | [website](https://www.ebi.ac.uk/training/our-partnerships/biotrain)
 
 ### Large language models
 
@@ -1060,6 +1062,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Fred Hutch Data Science Lab** fhdsl/AI_for_Efficient_Programming](https://github.com/fhdsl/AI_for_Efficient_Programming) | [website](https://hutchdatascience.org/AI_for_Efficient_Programming/)
 - [**Raphael Mourad** raphaelmourad/LLM-for-genomics-training](https://github.com/raphaelmourad/LLM-for-genomics-training)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/llm-biodata-training](https://github.com/sib-swiss/llm-biodata-training) | [website](https://sib-swiss.github.io/llm-biodata-training)
+- [**VIB Training & Conferences** vib-training-conferences/agentic-coding-with-github-copilot](https://github.com/vib-training-conferences/agentic-coding-with-github-copilot)
 
 ## Others
 
