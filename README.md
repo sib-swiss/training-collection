@@ -40,6 +40,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Galaxy](#galaxy)
   - [High performance computing](#high-performance-computing)
   - [Nextflow](#nextflow)
+  - [Snakemake](#snakemake)
   - [Workflows](#workflows)
   - [Image analysis](#image-analysis)
   - [Cloud computing](#cloud-computing)
@@ -114,6 +115,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Met Office** MetOffice/git-novice](https://github.com/MetOffice/git-novice/) | [website](https://metoffice.github.io/git-novice/)
 - [**Met Office** MetOffice/git-working-practices](https://github.com/metOffice/git-working-practices) | [website](https://metoffice.github.io/git-working-practices/)
 - [**VIB Training & Conferences** vib-training-conferences/versioning-code-and-documentation-with-Git-GitHub](https://github.com/vib-training-conferences/versioning-code-and-documentation-with-Git-GitHub) | [website](https://liascript.github.io/course/#1)
+- [**BioNT Training** BioNT-Training/building-websites-with-gitlab-en](https://github.com/BioNT-Training/building-websites-with-gitlab-en) | [website](https://biont-training.github.io/building-websites-with-gitlab-en/)
 
 ### Unix/Linux
 
@@ -141,6 +143,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Fred Hutch Data Science Lab** fhdsl/bash_for_bio](https://github.com/fhdsl/bash_for_bio) | [website](https://hutchdatascience.org/bash_for_bio)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/shell-scripting-training](https://github.com/sib-swiss/shell-scripting-training)
 - [**Filippo Nicolini** filonico/UNIX_and_bash_basics](https://github.com/filonico/unix_and_bash_basics)
+- [**BioNT Training** BioNT-Training/shell-novice-en](https://github.com/BioNT-Training/shell-novice-en) | [website](https://biont-training.github.io/shell-novice-en/)
 
 ### Python
 
@@ -510,12 +513,17 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**jhudsl** jhudsl/Computing_for_Cancer_Informatics](https://github.com/jhudsl/Computing_for_Cancer_Informatics) | [website](https://jhudatascience.org/Computing_for_Cancer_Informatics)
 - [**BU-ISCIII** BU-ISCIII/introduction_to_hpc](https://github.com/BU-ISCIII/introduction_to_hpc)
 - [**VIB Training & Conferences** vib-training-conferences/introduction_2_HPC](https://github.com/vib-training-conferences/introduction_2_HPC) | [website](https://liascript.github.io/course/#1)
+- [**BioNT Training** BioNT-Training/hpc-intro-en](https://github.com/BioNT-Training/hpc-intro-en) | [website](https://biont-training.github.io/hpc-intro-en/)
 
 ### Nextflow
 
 - [**Sydney Informatics Hub** Sydney-Informatics-Hub/hello-nextflow](https://github.com/Sydney-Informatics-Hub/hello-nextflow) | [website](https://sydney-informatics-hub.github.io/hello-nextflow/)
 - [**Sydney Informatics Hub** Sydney-Informatics-Hub/customising-nfcore-workshop](https://github.com/Sydney-Informatics-Hub/customising-nfcore-workshop) | [website](https://sydney-informatics-hub.github.io/customising-nfcore-workshop/)
 - [**Nurlan Kerimov** kerimoff/workflows-nextflow](https://github.com/kerimoff/workflows-nextflow/) | [website](https://carpentries-incubator.github.io/workflows-nextflow/)
+
+### Snakemake
+
+- [**BioNT Training** BioNT-Training/hpc-workflows-en](https://github.com/BioNT-Training/hpc-workflows-en) | [website](https://biont-training.github.io/hpc-workflows-en/)
 
 ### Workflows
 
@@ -587,6 +595,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bioinformatics.ca** bioinformaticsdotca/Genomic_Med_2017](https://github.com/bioinformaticsdotca/genomic_med_2017)
 - [**IB-ULFRI** IB-ULFRI/instructor-notes](https://github.com/ib-ulfri/instructor-notes)
 - [**nour0810** nour0810/pcr-learning-lab](https://github.com/nour0810/pcr-learning-lab) | [website](https://nour0810.github.io/pcr-learning-lab/)
+- [**Global Biodiversity Information Facility** gbif/training](https://github.com/gbif/training)
 
 ### Next generation sequencing
 
@@ -816,6 +825,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/seq-spatial-transcriptomics-training](https://github.com/sib-swiss/seq-spatial-transcriptomics-training) | [website](https://sib-swiss.github.io/seq-spatial-transcriptomics-training/)
 - [**bioinformatics.ca** bioinformaticsdotca/ISO-V_2025](https://github.com/bioinformaticsdotca/iso-v_2025)
 - [**bioinformatics.ca** bioinformaticsdotca/ISO_2024](https://github.com/bioinformaticsdotca/iso_2024)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/intro-spatial-transcriptomics-training](https://github.com/sib-swiss/intro-spatial-transcriptomics-training) | [website](https://sib-swiss.github.io/intro-spatial-transcriptomics-training/)
 
 ### Long read sequencing
 
