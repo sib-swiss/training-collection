@@ -1073,6 +1073,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Raphael Mourad** raphaelmourad/LLM-for-genomics-training](https://github.com/raphaelmourad/LLM-for-genomics-training)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/llm-biodata-training](https://github.com/sib-swiss/llm-biodata-training) | [website](https://sib-swiss.github.io/llm-biodata-training)
 - [**VIB Training & Conferences** vib-training-conferences/agentic-coding-with-github-copilot](https://github.com/vib-training-conferences/agentic-coding-with-github-copilot)
+- [**ML-Bioinfo-CEITEC** ML-Bioinfo-CEITEC/bioinfo-school](https://github.com/ML-Bioinfo-CEITEC/bioinfo-school)
 
 ## Others
 
