@@ -1062,7 +1062,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Fred Hutch Data Science Lab** fhdsl/AI_for_Decision_Makers](https://github.com/fhdsl/AI_for_Decision_Makers) | [website](https://hutchdatascience.org/AI_for_Decision_Makers/)
 - [**BiotrAIn** biotrain-latam/BiotrAIn-pilot-course](https://github.com/biotrain-latam/BiotrAIn-pilot-course) | [website](https://www.ebi.ac.uk/training/our-partnerships/biotrain)
 - [**VIB Training & Conferences** vib-training-conferences/genAI_4_training-trainingMaterial](https://github.com/vib-training-conferences/genAI_4_training-trainingMaterial)
-- [**VIB Training & Conferences** vib-training-conferences/introduction-to-generative-ai-for-research](https://github.com/vib-training-conferences/introduction-to-generative-ai-for-research) | [website](https://liascript.github.io/course/#1)
+- [**VIB Training & Conferences** vib-training-conferences/gen_AI_for_Scholarly_work](https://github.com/vib-training-conferences/introduction-to-generative-ai-for-research) | [website](https://liascript.github.io/course/#1)
 - [**The Carpentries Lab** carpentries-lab/deep-learning-intro](https://github.com/carpentries-lab/deep-learning-intro) | [website](https://carpentries-lab.github.io/deep-learning-intro/)
 - [**BiotrAIn-community** BiotrAIn-community/BiotrAIn-hub-spokes](https://github.com/BiotrAIn-community/BiotrAIn-hub-spokes) | [website](https://www.ebi.ac.uk/training/our-partnerships/biotrain)
 
