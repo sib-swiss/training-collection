@@ -246,7 +246,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Qian Liu** Liubuntu/Bioc2020RCWL](https://github.com/liubuntu/Bioc2020Rcwl)
 - [**Norm Matloff** matloff/fasteR](https://github.com/matloff/fasteR)
 - [**Melbourne Bioinformatics** melbournebioinformatics/r-intro-biologists](https://github.com/melbournebioinformatics/r-intro-biologists)
-- [**ModernDive** moderndive/ModernDive_book](https://github.com/moderndive/ModernDive_book) | [website](https://www.moderndive.com)
+- [**ModernDive** moderndive/ModernDive_book](https://github.com/moderndive/ModernDive_book) | [website](https://www.moderndive.com/v2/)
 - [**Nathaniel Phillips** ndphillips/ThePiratesGuideToR](https://github.com/ndphillips/ThePiratesGuideToR) | [website](https://nathanieldphillips-yarrr.share.connect.posit.cloud)
 - [**Openscapes** Openscapes/quarto-website-tutorial](https://github.com/Openscapes/quarto-website-tutorial) | [website](https://openscapes.github.io/quarto-website-tutorial)
 - [**Oscar Baruffa** oscarbaruffa/BigBookofR](https://github.com/oscarbaruffa/BigBookofR) | [website](https://www.bigbookofr.com)
@@ -944,6 +944,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Coding For Reproducible Research (CfRR)** coding-for-reproducible-research/CfRR_Courses](https://github.com/coding-for-reproducible-research/cfrr_courses) | [website](https://coding-for-reproducible-research.github.io/CfRR_Courses/)
 - [**The Carpentries Incubator** carpentries-incubator/reproducible-publications-quarto](https://github.com/carpentries-incubator/reproducible-publications-quarto) | [website](https://carpentries-incubator.github.io/reproducible-publications-quarto/)
 - [**The Carpentries Incubator** carpentries-incubator/better-research-software](https://github.com/carpentries-incubator/better-research-software/) | [website](https://carpentries-incubator.github.io/better-research-software/)
+- [**s3-school** s3-school/s3-2026-lectures](https://github.com/s3-school/s3-2026-lectures) | [website](https://s3-school.github.io/s3-2026-lectures/)
 
 ### Knowledge graph
 
