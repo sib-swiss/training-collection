@@ -155,7 +155,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/first-steps-with-python-training](https://github.com/sib-swiss/first-steps-with-python-training)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/intermediate-python-training](https://github.com/sib-swiss/intermediate-python-training)
 - [**Software Carpentry** swcarpentry/python-novice-inflammation](https://github.com/swcarpentry/python-novice-inflammation) | [website](http://swcarpentry.github.io/python-novice-inflammation/)
-- [**VIB Technologies: Training material and software projects** vib-training-conferences/Programming-in-Python-master-your-first-project](https://github.com/vibbits/gentle-hands-on-python) | [website](https://vib-training-conferences.github.io/Programming-in-Python-master-your-first-project/)
+- [**VIB Technologies: Training material and software projects** vib-training-conferences/Programming-in-Python-master-your-first-project](https://github.com/vibbits/gentle-hands-on-python) | [website](https://liascript.github.io/course/#1)
 - [**Talk Python** talkpython/python-for-absolute-beginners-course](https://github.com/talkpython/python-for-absolute-beginners-course) | [website](https://training.talkpython.fm/courses/explore_beginners/python-for-absolute-beginners)
 - [**Sundeep Agarwal** learnbyexample/py_regular_expressions](https://github.com/learnbyexample/py_regular_expressions) | [website](https://learnbyexample.github.io/py_regular_expressions/)
 - [**Sundeep Agarwal** learnbyexample/100_page_python_intro](https://github.com/learnbyexample/100_page_python_intro) | [website](https://learnbyexample.github.io/100_page_python_intro/)
