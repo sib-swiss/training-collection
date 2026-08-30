@@ -401,19 +401,19 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Martin J Frigaard** mjfrigaard/shinypak](https://github.com/mjfrigaard/shinyap) | [website](https://mjfrigaard.github.io/shinypak/)
 - [**Rami Krispin** RamiKrispin/shinylive-r](https://github.com/RamiKrispin/shinylive-r) | [website](https://ramikrispin.github.io/shinylive-r/)
-- [**posit-dev** posit-dev/py-shiny-workshop](https://github.com/posit-dev/shiny-python-workshop-2023) | [website](https://posit-dev.github.io/py-shiny-workshop)
+- [**Posit, PBC** posit-dev/py-shiny-workshop](https://github.com/posit-dev/shiny-python-workshop-2023) | [website](https://posit-dev.github.io/py-shiny-workshop)
 - [**posit-conf-2023** posit-conf-2023/shiny-r-intro](https://github.com/posit-conf-2023/shiny-r-intro) | [website](https://posit-conf-2023.github.io/shiny-r-intro/)
 - [**posit-conf-2023** posit-conf-2023/shiny-r-ui](https://github.com/posit-conf-2023/shiny-r-ui) | [website](https://webdesign4shiny.rinterface.com)
 - [**posit-conf-2023** posit-conf-2023/shiny-r-dashboard](https://github.com/posit-conf-2023/shiny-r-dashboard) | [website](https://posit-conf-2023.github.io/shiny-r-dashboard/)
 - [**posit-conf-2023** posit-conf-2023/shiny-r-prod](https://github.com/posit-conf-2023/shiny-r-prod) | [website](https://posit-conf-2023.github.io/shiny-r-prod/)
 - [**ThinkR** ThinkR-open/engineering-shiny-book](https://github.com/ThinkR-open/engineering-shiny-book) | [website](https://engineering-shiny.org)
 - [**Ted Laderas** laderast/shinyowl](https://github.com/laderast/shinyowl/) | [website](https://laderast.github.io/shinyowl)
-- [**posit-dev** posit-dev/intro-to-shiny-for-python](https://github.com/posit-dev/intro-to-shiny-for-python) | [website](https://posit-dev.github.io/intro-to-shiny-for-python/)
+- [**Posit, PBC** posit-dev/intro-to-shiny-for-python](https://github.com/posit-dev/intro-to-shiny-for-python) | [website](https://posit-dev.github.io/intro-to-shiny-for-python/)
 - [**posit::conf(2024)** posit-conf-2024/shiny-r-intro](https://github.com/posit-conf-2024/shiny-r-intro) | [website](https://posit-conf-2024.github.io/shiny-r-intro/)
 - [**posit::conf(2024)** posit-conf-2024/level-up-shiny](https://github.com/posit-conf-2024/level-up-shiny) | [website](https://posit-conf-2024.github.io/level-up-shiny/)
 - [**dcruvolo** davidruvolo51/shinytutorials](https://github.com/davidruvolo51/shinytutorials) | [website](https://davidruvolo51.github.io/shinytutorials/)
 - [**Martin J Frigaard** mjfrigaard/shiny-app-pkgs](https://github.com/mjfrigaard/shiny-app-pkgs) | [website](https://mjfrigaard.github.io/shiny-app-pkgs/)
-- [**posit-dev** posit-dev/py-shiny-workshop](https://github.com/posit-dev/py-shiny-workshop) | [website](https://posit-dev.github.io/py-shiny-workshop)
+- [**Posit, PBC** posit-dev/py-shiny-workshop](https://github.com/posit-dev/py-shiny-workshop) | [website](https://posit-dev.github.io/py-shiny-workshop)
 
 ### Julia
 
@@ -958,7 +958,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Rafael A Irizarry** rafalab/dsbook](https://github.com/rafalab/dsbook)
 - [**Stephanie Hicks** stephaniehicks/superwomen](https://github.com/stephaniehicks/superwomen) | [website](https://www.stephaniehicks.com/superwomen/)
 - [**Hacking for Science** h4sci/h4sci-course](https://github.com/h4sci/h4sci-course)
-- [**DataTalksClub** DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | [website](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD)
+- [**DataTalksClub** DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | [website](https://courses.datatalks.club/register/de-zoomcamp/)
 - [**Jose A Dianes** jadianes/data-science-your-way](https://github.com/jadianes/data-science-your-way) | [website](http://jadianes.github.io/data-science-your-way)
 - [**Jose A Dianes** jadianes/spark-r-notebooks](https://github.com/jadianes/spark-r-notebooks) | [website](http://jadianes.github.io/spark-r-notebooks)
 - [**Data Carpentry** datacarpentry/python-ecology-lesson](https://github.com/datacarpentry/python-ecology-lesson) | [website](https://datacarpentry.github.io/python-ecology-lesson/)
