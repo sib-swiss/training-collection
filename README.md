@@ -219,7 +219,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Biocore@CRG** biocorecrg/CRG_RIntroduction_2021](https://github.com/biocorecrg/CRG_RIntroduction_2021)
 - [**Canadian Bioinformatics Workshops** bioinformatics-ca/AUR_2021](https://github.com/bioinformatics-ca/AUR_2021)
 - [**Canadian Bioinformatics Workshops** bioinformatics-ca/INR_2021](https://github.com/bioinformatics-ca/INR_2021)
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/linear-models-r](https://github.com/bioinformatics-core-shared-training/linear-models-r) | [website](https://bioinformatics-core-shared-training.github.io/linear-models-r/)
+- [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/linear-models-r](https://github.com/bioinformatics-core-shared-training/linear-models-r) | [website](https://bioinformatics-core-shared-training.github.io/linear-models-r/)
 - [**Bradley Boehmke** bradleyboehmke/Intro-to-R-Bootcamp](https://github.com/bradleyboehmke/Intro-to-R-Bootcamp)
 - [**The Carpentries Incubator** carpentries-incubator/bioc-project](https://github.com/carpentries-incubator/bioc-project) | [website](https://carpentries-incubator.github.io/bioc-project)
 - [**The Carpentries Incubator** carpentries-incubator/high-dimensional-stats-r](https://github.com/carpentries-incubator/high-dimensional-stats-r) | [website](https://carpentries-incubator.github.io/high-dimensional-stats-r)
@@ -284,7 +284,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**RStudio** rstudio/learnr](https://github.com/rstudio/learnr) | [website](https://pkgs.rstudio.com/learnr)
 - [**dcruvolo** davidruvolo51/shinyAppTutorials](https://github.com/davidruvolo51/shinyAppTutorials) | [website](https://davidruvolo51.github.io/shinytutorials/)
 - [**Max Planck Institute of Immunobiology and Epigenetics** maxplanck-ie/Rintro](https://github.com/maxplanck-ie/Rintro/)
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/r-basics](https://github.com/bioinformatics-core-shared-training/r-basics)
+- [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/r-basics](https://github.com/bioinformatics-core-shared-training/r-basics)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-data-visualization-r](https://github.com/NBISweden/workshop-data-visualization-r) | [website](https://nbisweden.github.io/workshop-data-visualization-r/)
 - [**The Carpentries Incubator** carpentries-incubator/lc-litsearchr](https://github.com/carpentries-incubator/lc-litsearchr) | [website](https://carpentries-incubator.github.io/lc-litsearchr/)
 - [**The Carpentries Incubator** carpentries-incubator/R-ecology-lesson](https://github.com/carpentries-incubator/R-ecology-lesson) | [website](https://carpentries-incubator.github.io/R-ecology-lesson/)
@@ -531,7 +531,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Biocore@CRG** biocorecrg/ELIXIR_containers_nextflow](https://github.com/biocorecrg/ELIXIR_containers_nextflow) | [website](https://biocorecrg.github.io/ELIXIR_containers_nextflow/)
 - [**Biocore@CRG** biocorecrg/SIB_course_nextflow_Nov_2021](https://github.com/biocorecrg/SIB_course_nextflow_Nov_2021) | [website](https://biocorecrg.github.io/SIB_course_nextflow_Nov_2021/docs/)
 - [**Biodata Analysis Group** BiodataAnalysisGroup/intro-to-cwl-docker](https://github.com/BiodataAnalysisGroup/intro-to-cwl-docker) | [website](https://biodataanalysisgroup.github.io/intro-to-cwl-docker/)
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/nextflow_september_2021](https://github.com/bioinformatics-core-shared-training/nextflow_september_2021)
+- [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/nextflow_september_2021](https://github.com/bioinformatics-core-shared-training/nextflow_september_2021)
 - [**BovReg** BovReg/nf-workshop20](https://github.com/bovreg/nf-workshop20)
 - [**The Carpentries Incubator** carpentries-incubator/snakemake-novice-bioinformatics](https://github.com/carpentries-incubator/snakemake-novice-bioinformatics) | [website](https://carpentries-incubator.github.io/snakemake-novice-bioinformatics)
 - [**The Carpentries Incubator** carpentries-incubator/workflows-nextflow](https://github.com/carpentries-incubator/workflows-nextflow) | [website](https://carpentries-incubator.github.io/workflows-nextflow/)
@@ -599,7 +599,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 ### Next generation sequencing
 
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/cruk-summer-school-2020](https://github.com/bioinformatics-core-shared-training/cruk-summer-school-2020) | [website](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2020/ )
+- [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/cruk-summer-school-2020](https://github.com/bioinformatics-core-shared-training/cruk-summer-school-2020) | [website](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2020/ )
 - [**Data Carpentry** datacarpentry/wrangling-genomics](https://github.com/datacarpentry/wrangling-genomics) | [website](https://datacarpentry.org/wrangling-genomics/)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Accessing_public_genomic_data](https://github.com/hbctraining/Accessing_public_genomic_data) | [website](https://hbctraining.github.io/Accessing_public_genomic_data)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/NGS-introduction-training](https://github.com/sib-swiss/NGS-introduction-training) | [website](https://sib-swiss.github.io/NGS-introduction-training/)
@@ -625,7 +625,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Biocore@CRG** biocorecrg/RNAseq_course_2019](https://github.com/biocorecrg/RNAseq_course_2019) | [website](https://biocorecrg.github.io/RNAseq_course_2019/)
 - [**Canadian Bioinformatics Workshops** bioinformatics-ca/RNA_2021](https://github.com/bioinformatics-ca/RNA_2021)
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21) | [website](https://bioinformatics-core-shared-training.github.io/Bulk_RNASeq_Course_Nov21/)
+- [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21) | [website](https://bioinformatics-core-shared-training.github.io/Bulk_RNASeq_Course_Nov21/)
 - [**The Carpentries Incubator** carpentries-incubator/bioc-rnaseq](https://github.com/carpentries-incubator/bioc-rnaseq) | [website](https://carpentries-incubator.github.io/bioc-rnaseq)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-DGE](https://github.com/hbctraining/DGE_workshop_salmon_online) | [website](https://hbctraining.github.io/Intro-to-DGE/)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-bulk-RNAseq](https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped) | [website](https://hbctraining.github.io/Intro-to-bulk-RNAseq/)
@@ -633,7 +633,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Stefano Mangiola** stemangiola/bioc_2020_tidytranscriptomics](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) | [website](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/)
 - [**Xueyi Dong** XueyiDong/RNAseq123workshop](https://github.com/XueyiDong/RNAseq123workshop)
 - [**Amarinder Singh Thind** amarinderthind/RNA-seq-tutorial-for-gene-differential-expression-analysis](https://github.com/amarinderthind/RNA-seq-tutorial-for-gene-differential-expression-analysis)
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Bulk_RNASeq_Course_March23](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_March23) | [website](https://bioinformatics-core-shared-training.github.io/Bulk_RNASeq_Course_March23/)
+- [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/Bulk_RNASeq_Course_March23](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_March23) | [website](https://bioinformatics-core-shared-training.github.io/Bulk_RNASeq_Course_March23/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-RNAseq](https://github.com/NBISweden/workshop-RNAseq) | [website](https://NBISweden.github.io/workshop-RNAseq)
 - [**Health Data Science Sandbox** hds-sandbox/bulk_RNAseq_course](https://github.com/hds-sandbox/bulk_RNAseq_course) | [website](https://hds-sandbox.github.io/bulk_RNAseq_course/)
 - [**Computational Biology and Bioinformatics at UCLouvain** UCLouvain-CBIO/WSBIM2122](https://github.com/UCLouvain-CBIO/WSBIM2122) | [website](https://uclouvain-cbio.github.io/WSBIM2122/)
@@ -662,7 +662,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Single-cell sequencing
 
 - [**Aedin Culhane** aedin/scRNAseqBasicWorkflow](https://github.com/aedin/scRNAseqBasicWorkflow)
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/UnivCambridge_ScRnaSeq_Nov2021](https://github.com/bioinformatics-core-shared-training/UnivCambridge_ScRnaSeq_Nov2021) | [website](http://bioinformatics-core-shared-training.github.io/UnivCambridge_ScRnaSeq_Nov2021)
+- [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/UnivCambridge_ScRnaSeq_Nov2021](https://github.com/bioinformatics-core-shared-training/UnivCambridge_ScRnaSeq_Nov2021) | [website](http://bioinformatics-core-shared-training.github.io/UnivCambridge_ScRnaSeq_Nov2021)
 - [**fmicompbio** fmicompbio/adv_scrnaseq_2020](https://github.com/fmicompbio/adv_scrnaseq_2020)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-scRNAseq](https://github.com/hbctraining/scRNA-seq_online) | [website](https://hbctraining.github.io/Intro-to-scRNAseq/)
 - [**Kelly Street** kstreet13/bioc2020trajectories](https://github.com/kstreet13/bioc2020trajectories) | [website](https://kstreet13.github.io/bioc2020trajectories/)
@@ -675,7 +675,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Tidy-transcriptomics workshops** tidytranscriptomics-workshops/bioc2022_tidytranscriptomics](https://github.com/tidytranscriptomics-workshops/bioc2022_tidytranscriptomics) | [website](https://tidytranscriptomics-workshops.github.io/bioc2022_tidytranscriptomics/index.html)
 - [**Yunshun Chen** yunshun/SingleCellWorkshop](https://github.com/yunshun/SingleCellWorkshop)
 - [**Cellular Genomics Informatics** cellgeni/scRNA.seq.course](https://github.com/cellgeni/scRNA.seq.course) | [website](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/SingleCell_RNASeq_Jan23](https://github.com/bioinformatics-core-shared-training/SingleCell_RNASeq_Jan23) | [website](https://bioinformatics-core-shared-training.github.io/SingleCell_RNASeq_Jan23/)
+- [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/SingleCell_RNASeq_Jan23](https://github.com/bioinformatics-core-shared-training/SingleCell_RNASeq_Jan23) | [website](https://bioinformatics-core-shared-training.github.io/SingleCell_RNASeq_Jan23/)
 - [**OSCA Source Code Management** OSCA-source/OSCA](https://github.com/OSCA-source/OSCA) | [website](https://bioconductor.org/checkResults/devel/books-LATEST/OSCA)
 - [**The Carpentries Incubator** carpentries-incubator/scrna-seq-analysis](https://github.com/carpentries-incubator/scrna-seq-analysis) | [website](https://carpentries-incubator.github.io/scrna-seq-analysis/)
 - [**Bioconductor** Bioconductor/ISMB.OSCA](https://github.com/Bioconductor/ISMB.OSCA) | [website](https://bioconductor.github.io/ISMB.OSCA/)
@@ -695,7 +695,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**scverse** scverse/scverse-tutorials](https://github.com/scverse/scverse-tutorials) | [website](https://scverse-tutorials.readthedocs.io/en/latest/)
 - [**CDSB** ComunidadBioInfo/cdsb2021_scRNAseq](https://github.com/comunidadbioinfo/cdsb2021_scRNAseq/) | [website](https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/)
 - [**Leiden Computational Biology Center** LeidenCBC/MGC-BioSB-SingleCellAnalysis2022](https://github.com/LeidenCBC/MGC-BioSB-SingleCellAnalysis2022)
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/SingleCell_RNASeq_May23](https://github.com/bioinformatics-core-shared-training/SingleCell_RNASeq_May23) | [website](https://bioinformatics-core-shared-training.github.io/SingleCell_RNASeq_May23/)
+- [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/SingleCell_RNASeq_May23](https://github.com/bioinformatics-core-shared-training/SingleCell_RNASeq_May23) | [website](https://bioinformatics-core-shared-training.github.io/SingleCell_RNASeq_May23/)
 - [**Alex's Lemonade Stand Foundation** AlexsLemonade/2023-june-training](https://github.com/alexslemonade/2023-june-training/)
 - [**Alex's Lemonade Stand Foundation** AlexsLemonade/2023-march-training](https://github.com/alexslemonade/2023-march-training/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/single-cell-python-training](https://github.com/sib-swiss/single-cell-python-training/) | [website](https://sib-swiss.github.io/single-cell-python-training/)
@@ -726,7 +726,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 ### ChIP-seq
 
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop](https://github.com/bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop)
+- [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop](https://github.com/bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-ChIPseq](https://github.com/hbctraining/Intro-to-ChIPseq) | [website](https://hbctraining.github.io/Intro-to-ChIPseq/)
 - [**Kai Hu** hukai916/IntegratedChIPseqWorkshop](https://github.com/hukai916/IntegratedChIPseqWorkshop)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Investigating-chromatin-biology-ChIPseq](https://github.com/hbctraining/Intro-to-ChIPseq-flipped) | [website](https://hbctraining.github.io/Investigating-chromatin-biology-ChIPseq/)
@@ -878,7 +878,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 ### Data management
 
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/Managing-your-research-data](https://github.com/bioinformatics-core-shared-training/Managing-your-research-data) | [website](https://bioinformatics-core-shared-training.github.io/Managing-your-research-data/)
+- [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/Managing-your-research-data](https://github.com/bioinformatics-core-shared-training/Managing-your-research-data) | [website](https://bioinformatics-core-shared-training.github.io/Managing-your-research-data/)
 - [**The Carpentries Incubator** carpentries-incubator/capstone-novice-spreadsheet-biblio](https://github.com/carpentries-incubator/capstone-novice-spreadsheet-biblio) | [website](http://carpentries-incubator.github.io/capstone-novice-spreadsheet-biblio/)
 - [**ELIXIR Belgium** ELIXIR-Belgium/rdm-guide](https://github.com/ELIXIR-Belgium/rdm-guide) | [website](https://rdm.elixir-belgium.org)
 - [**ELIXIR Europe** elixir-europe/rdmkit](https://github.com/elixir-europe/rdmkit) | [website](https://rdmkit.elixir-europe.org)
@@ -984,8 +984,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Statistics
 
 - [**Aedin Culhane** aedin/PCAworkshop](https://github.com/aedin/PCAworkshop) | [website](https://aedin.github.io/PCAworkshop/)
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/experimental-design](https://github.com/bioinformatics-core-shared-training/experimental-design) | [website](http://bioinformatics-core-shared-training.github.io/experimental-design)
-- [**CRUK CI Bioinformatics Core** bioinformatics-core-shared-training/IntroductionToStats](https://github.com/bioinformatics-core-shared-training/IntroductionToStats) | [website](http://bioinformatics-core-shared-training.github.io/IntroductionToStats/)
+- [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/experimental-design](https://github.com/bioinformatics-core-shared-training/experimental-design) | [website](http://bioinformatics-core-shared-training.github.io/experimental-design)
+- [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/IntroductionToStats](https://github.com/bioinformatics-core-shared-training/IntroductionToStats) | [website](http://bioinformatics-core-shared-training.github.io/IntroductionToStats/)
 - [**The Carpentries Incubator** carpentries-incubator/statistical-thinking-public-health](https://github.com/carpentries-incubator/statistical-thinking-public-health) | [website](https://carpentries-incubator.github.io/statistical-thinking-public-health)
 - [**Richard McElreath** rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/advanced-statistics](https://github.com/sib-swiss/advanced-statistics)
@@ -1114,3 +1114,4 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UPPMAX** UPPMAX/programming_formalisms](https://github.com/UPPMAX/programming_formalisms) | [website](https://uppmax.github.io/programming_formalisms/)
 - [**SLU Global Bioinformatics Centre** SGBC/course](https://github.com/sgbc/course) | [website](https://sgbc.github.io/course)
 - [**The Carpentries** carpentries/lesson-development-training](https://github.com/carpentries/lesson-development-training) | [website](https://carpentries.github.io/lesson-development-training/)
+- [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-TrP-GOBLET-Train-the-Trainer](https://github.com/elixir-europe-training/ELIXIR-TrP-GOBLET-Train-the-Trainer) | [website](https://elixir-europe-training.github.io/ELIXIR-TrP-GOBLET-Train-the-Trainer/)
