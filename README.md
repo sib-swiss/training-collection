@@ -470,7 +470,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 ### SPARQL
 
-- [**SIB Swiss Institute of Bioinformatics** sib-swiss/sparql-training](https://github.com/sib-swiss/sparql-training)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/sparql-training](https://github.com/sib-swiss/sparql-training) | [website](https://sib-swiss.github.io/sparql-training/)
 - [**BiGCaT, Department of Translational Genomics** BiGCAT-UM/SPARQLTutorialBioSB2019](https://github.com/bigcat-um/SPARQLTutorialBioSB2019)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/SPARQL_course](https://github.com/sib-swiss/SPARQL_course) | [website](https://sib-swiss.github.io/SPARQL_course/)
 
