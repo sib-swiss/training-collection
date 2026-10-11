@@ -209,6 +209,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**MolSSI Education** MolSSI-Education/python-package-best-practices](https://github.com/MolSSI-Education/python-package-best-practices) | [website](http://education.molssi.org/python-package-best-practices/)
 - [**Boas Pucker** bpucker/APPLS](https://github.com/bpucker/appls)
 - [**zemZemTrainingOrg** zemZemTrainingOrg/PythonIN-86400sec](https://github.com/zemzemtrainingorg/pythonin-86400sec) | [website](https://zemzemtrainingorg.github.io/PythonIN-86400sec/)
+- [**ELIXIR Estonia** ELIXIREstonia/2026-05-25-Python](https://github.com/ELIXIREstonia/2026-05-25-Python)
 
 ### R
 
@@ -385,6 +386,9 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**tidyomics** tidyomics/tidy-ranges-tutorial](https://github.com/tidyomics/tidy-ranges-tutorial) | [website](https://tidyomics.github.io/tidy-ranges-tutorial/)
 - [**ELIXIR Estonia** ELIXIREstonia/2026-03-05-R-basic](https://github.com/ELIXIREstonia/2026-03-05-R-basic)
 - [**ELIXIR Estonia** ELIXIREstonia/2026-04-02-R-visualisation](https://github.com/ELIXIREstonia/2026-04-02-R-visualisation)
+- [**ELIXIR Estonia** ELIXIREstonia/2026-06-16-R-basic](https://github.com/ELIXIREstonia/2026-06-16-R-basic)
+- [**ELIXIR Estonia** ELIXIREstonia/2026-06-17-R-visualisation](https://github.com/ELIXIREstonia/2026-06-17-R-visualisation)
+- [**ELIXIR Estonia** ELIXIREstonia/2026-06-17-R-basic-stat](https://github.com/ELIXIREstonia/2026-06-17-R-basic-stat)
 
 ### Quarto
 
@@ -520,6 +524,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Sydney Informatics Hub** Sydney-Informatics-Hub/hello-nextflow](https://github.com/Sydney-Informatics-Hub/hello-nextflow) | [website](https://sydney-informatics-hub.github.io/hello-nextflow/)
 - [**Sydney Informatics Hub** Sydney-Informatics-Hub/customising-nfcore-workshop](https://github.com/Sydney-Informatics-Hub/customising-nfcore-workshop) | [website](https://sydney-informatics-hub.github.io/customising-nfcore-workshop/)
 - [**Nurlan Kerimov** kerimoff/workflows-nextflow](https://github.com/kerimoff/workflows-nextflow/) | [website](https://carpentries-incubator.github.io/workflows-nextflow/)
+- [**Jeferyd Yepes G** jeffe107/nextflow-training](https://github.com/jeffe107/nextflow-training) | [website](https://jeffe107.github.io/nextflow-training/)
 
 ### Snakemake
 
@@ -806,6 +811,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/biology-informed-multiomics-training](https://github.com/sib-swiss/biology-informed-multiomics-training/) | [website](https://sib-swiss.github.io/biology-informed-multiomics-training/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/multiomics-biological-integration-training](https://github.com/sib-swiss/multiomics-biological-integration-training) | [website](https://sib-swiss.github.io/multiomics-biological-integration-training/)
 - [**bioinformatics.ca** bioinformaticsdotca/PGX_2024](https://github.com/bioinformaticsdotca/pgx_2024)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/MetaNetX_metabolites_tutorial](https://github.com/sib-swiss/MetaNetX_metabolites_tutorial)
 
 ### Spatial transcriptomics
 
@@ -945,6 +951,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**The Carpentries Incubator** carpentries-incubator/reproducible-publications-quarto](https://github.com/carpentries-incubator/reproducible-publications-quarto) | [website](https://carpentries-incubator.github.io/reproducible-publications-quarto/)
 - [**The Carpentries Incubator** carpentries-incubator/better-research-software](https://github.com/carpentries-incubator/better-research-software/) | [website](https://carpentries-incubator.github.io/better-research-software/)
 - [**s3-school** s3-school/s3-2026-lectures](https://github.com/s3-school/s3-2026-lectures) | [website](https://s3-school.github.io/s3-2026-lectures/)
+- [**Igors Dubanevics** igorsdub/gecs](https://github.com/igorsdub/gecs) | [website](https://igorsdub.github.io/gecs/)
 
 ### Knowledge graph
 
@@ -1056,6 +1063,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Emil Hvitfeldt** EmilHvitfeldt/feature-engineering-az](https://github.com/EmilHvitfeldt/feature-engineering-az) | [website](https://feaz-book.com)
 - [**juexinwang** juexinwang/Tutorial_ISMB2024](https://github.com/juexinwang/Tutorial_ISMB2024)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/intermediate-machine-learning-training](https://github.com/sib-swiss/intermediate-machine-learning-training/)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/feature-selection-training](https://github.com/sib-swiss/feature-selection-training/)
 
 ### Artificial intelligence
 
