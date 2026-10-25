@@ -1018,7 +1018,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Allen Downey** AllenDowney/ThinkBayes](https://github.com/AllenDowney/ThinkBayes)
 - [**Måns Thulin** mthulin/mswr-book](https://github.com/mthulin/mswr-book)
 - [**A. Solomon Kurz** ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed](https://github.com/ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed) | [website](https://solomon.quarto.pub/sr2/)
-- [**Allen Downey** AllenDowney/ThinkStats2](https://github.com/AllenDowney/ThinkStats2) | [website](http://allendowney.github.io/ThinkStats2/)
+- [**Allen Downey** AllenDowney/ThinkStats2](https://github.com/AllenDowney/ThinkStats2) | [website](https://allendowney.github.io/ThinkStats2/)
 - [**Daniel Kaplan** dtkaplan/Lessons-in-statistical-thinking](https://github.com/dtkaplan/Lessons-in-statistical-thinking)
 - [**Oslo Centre for Biostatistics and Epidemiology** ocbe-uio/teaching_mf9130e](https://github.com/ocbe-uio/teaching_mf9130e) | [website](https://ocbe-uio.github.io/teaching_mf9130e/)
 - [**Oslo Centre for Biostatistics and Epidemiology** ocbe-uio/course_med3007](https://github.com/ocbe-uio/course_med3007) | [website](https://ocbe-uio.github.io/course_med3007/)
@@ -1074,6 +1074,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**VIB Training & Conferences** vib-training-conferences/gen_AI_for_Scholarly_work](https://github.com/vib-training-conferences/introduction-to-generative-ai-for-research) | [website](https://liascript.github.io/course/#1)
 - [**The Carpentries Lab** carpentries-lab/deep-learning-intro](https://github.com/carpentries-lab/deep-learning-intro) | [website](https://carpentries-lab.github.io/deep-learning-intro/)
 - [**BiotrAIn-community** BiotrAIn-community/BiotrAIn-hub-spokes](https://github.com/BiotrAIn-community/BiotrAIn-hub-spokes) | [website](https://www.ebi.ac.uk/training/our-partnerships/biotrain)
+- [**Sean Davis** seandavi/ai-in-medicine-curriculum](https://github.com/seandavi/ai-in-medicine-curriculum)
 
 ### Large language models
 
