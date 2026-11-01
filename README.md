@@ -508,7 +508,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 ### High performance computing
 
-- [**The Carpentries Incubator** carpentries-incubator/hpc-intro](https://github.com/carpentries-incubator/hpc-intro) | [website](https://carpentries-incubator.github.io/hpc-intro/)
+- [**The Carpentries Incubator** hpc-carpentry/hpc-intro](https://github.com/carpentries-incubator/hpc-intro) | [website](https://www.hpc-carpentry.org/hpc-intro/)
 - [**ngs-docs** ngs-docs/2021-august-remote-computing](https://github.com/ngs-docs/2021-august-remote-computing) | [website](https://ngs-docs.github.io/2021-august-remote-computing)
 - [**cambiotraining** cambiotraining/hpc-intro](https://github.com/cambiotraining/hpc-intro) | [website](https://cambiotraining.github.io/hpc-intro/)
 - [**The Carpentries Incubator** carpentries-incubator/lesson-gpu-programming](https://github.com/carpentries-incubator/lesson-gpu-programming) | [website](https://carpentries-incubator.github.io/lesson-gpu-programming/)
