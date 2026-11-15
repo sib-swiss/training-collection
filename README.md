@@ -286,7 +286,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**dcruvolo** davidruvolo51/shinyAppTutorials](https://github.com/davidruvolo51/shinyAppTutorials) | [website](https://davidruvolo51.github.io/shinytutorials/)
 - [**Max Planck Institute of Immunobiology and Epigenetics** maxplanck-ie/Rintro](https://github.com/maxplanck-ie/Rintro/)
 - [**CRUK CI Bioinformatics Core shared training** bioinformatics-core-shared-training/r-basics](https://github.com/bioinformatics-core-shared-training/r-basics)
-- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-data-visualization-r](https://github.com/NBISweden/workshop-data-visualization-r) | [website](https://nbisweden.github.io/workshop-data-visualization-r/)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-data-visualization-r](https://github.com/NBISweden/workshop-data-visualization-r) | [website](https://nbisweden.github.io/workshop-dataviz/)
 - [**The Carpentries Incubator** carpentries-incubator/lc-litsearchr](https://github.com/carpentries-incubator/lc-litsearchr) | [website](https://carpentries-incubator.github.io/lc-litsearchr/)
 - [**The Carpentries Incubator** carpentries-incubator/R-ecology-lesson](https://github.com/carpentries-incubator/R-ecology-lesson) | [website](https://carpentries-incubator.github.io/R-ecology-lesson/)
 - [**The Carpentries Incubator** carpentries-incubator/R-ecology-lesson-intermediate](https://github.com/carpentries-incubator/R-ecology-lesson-intermediate) | [website](https://carpentries-incubator.github.io/R-ecology-lesson-intermediate/)
