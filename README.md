@@ -558,7 +558,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**The Carpentries Incubator** carpentries-incubator/SDC-BIDS-IntroMRI](https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI) | [website](https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI)
 - [**The Carpentries Incubator** carpentries-incubator/SDC-BIDS-sMRI](https://github.com/carpentries-incubator/SDC-BIDS-sMRI) | [website](https://carpentries-incubator.github.io/SDC-BIDS-sMRI/)
 - [**The Carpentries Incubator** carpentries-incubator/SDC-BIDS-dMRI](https://github.com/carpentries-incubator/SDC-BIDS-dMRI) | [website](https://carpentries-incubator.github.io/SDC-BIDS-dMRI/)
-- [**Data Carpentry** datacarpentry/image-processing](https://github.com/datacarpentry/image-processing) | [website](https://datacarpentry.org/image-processing)
+- [**Data Carpentry** datacarpentry/image-processing](https://github.com/datacarpentry/image-processing) | [website](https://datacarpentry.github.io/image-processing/)
 - [**Dominic Waithe** dwaithe/model-training](https://github.com/dwaithe/model-training)
 - [**NEUBIAS** NEUBIAS/training-resources](https://github.com/NEUBIAS/training-resources) | [website](https://neubias.github.io/training-resources)
 - [**napari** napari/napari-workshop-template](https://github.com/napari/napari-workshop-template) | [website](https://napari.org/napari-workshop-template)
